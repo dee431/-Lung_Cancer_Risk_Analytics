@@ -1,0 +1,2001 @@
+Patient_ID,Diagnosis_Year,Diagnosis_Date,WHO_Region,Country,Age,Age_Group,Gender,Smoking_Status,Cigarettes_Per_Day
+LC-0001,2020,2020-11-04,Western Pacific,China,46,40-49,Female,Current Smoker,28
+LC-0002,2021,2021-12-09,Americas,Mexico,71,70-79,Male,Former Smoker,5
+LC-0003,2017,2017-04-05,Western Pacific,Japan,53,50-59,Female,Never Smoked,0
+LC-0004,2018,2018-11-24,Western Pacific,Singapore,55,50-59,Male,Current Smoker,21
+LC-0005,2024,2024-02-19,Western Pacific,Malaysia,54,50-59,Male,Never Smoked,0
+LC-0006,2026,2026-01-01,Eastern Mediterranean,Iran,75,70-79,Male,Never Smoked,0
+LC-0007,2026,2026-02-08,Eastern Mediterranean,Qatar,85,80-89,Female,Never Smoked,0
+LC-0008,2024,2024-10-01,Western Pacific,Singapore,72,70-79,Male,Never Smoked,0
+LC-0009,2022,2022-04-23,Eastern Mediterranean,Qatar,58,50-59,Female,Never Smoked,0
+LC-0010,2022,2022-07-08,Europe,Poland,43,40-49,Male,Never Smoked,0
+LC-0011,2025,2025-10-09,Africa,Nigeria,51,50-59,Female,Never Smoked,0
+LC-0012,2023,2023-03-23,Eastern Mediterranean,Lebanon,52,50-59,Male,Never Smoked,0
+LC-0013,2022,2022-06-09,Europe,France,57,50-59,Female,Current Smoker,14
+LC-0014,2018,2018-04-25,Europe,Russia,55,50-59,Male,Never Smoked,0
+LC-0015,2016,2016-02-03,Western Pacific,Malaysia,73,70-79,Female,Never Smoked,0
+LC-0016,2026,2026-01-12,South-East Asia,Sri Lanka,58,50-59,Male,Never Smoked,0
+LC-0017,2017,2017-10-09,Europe,UK,63,60-69,Male,Never Smoked,0
+LC-0018,2015,2015-12-15,South-East Asia,Timor-Leste,55,50-59,Male,Never Smoked,0
+LC-0019,2017,2017-02-13,Europe,Germany,60,60-69,Female,Former Smoker,17
+LC-0020,2021,2021-09-10,South-East Asia,Bhutan,61,60-69,Female,Never Smoked,0
+LC-0021,2026,2026-07-06,Eastern Mediterranean,Kuwait,66,60-69,Male,Never Smoked,0
+LC-0022,2021,2021-04-23,Europe,Germany,60,60-69,Female,Never Smoked,0
+LC-0023,2021,2021-01-22,Europe,Italy,45,40-49,Female,Never Smoked,0
+LC-0024,2021,2021-05-03,Europe,Italy,75,70-79,Male,Current Smoker,5
+LC-0025,2015,2015-02-13,Americas,Argentina,46,40-49,Male,Never Smoked,0
+LC-0026,2015,2015-08-21,Western Pacific,Vietnam,46,40-49,Male,Never Smoked,0
+LC-0027,2024,2024-03-12,Americas,Colombia,69,60-69,Male,Current Smoker,9
+LC-0028,2022,2022-04-22,Americas,Argentina,62,60-69,Female,Former Smoker,16
+LC-0029,2015,2015-12-22,Western Pacific,Japan,57,50-59,Male,Former Smoker,26
+LC-0030,2018,2018-10-21,Americas,Brazil,68,60-69,Male,Former Smoker,10
+LC-0031,2022,2022-09-24,Eastern Mediterranean,UAE,71,70-79,Female,Never Smoked,0
+LC-0032,2023,2023-03-15,Europe,Turkey,60,60-69,Female,Never Smoked,0
+LC-0033,2021,2021-05-21,Europe,Netherlands,69,60-69,Male,Current Smoker,34
+LC-0034,2015,2015-04-22,Western Pacific,Vietnam,62,60-69,Male,Current Smoker,39
+LC-0035,2022,2022-01-08,Americas,USA,52,50-59,Male,Never Smoked,0
+LC-0036,2022,2022-06-13,Europe,Spain,58,50-59,Female,Former Smoker,15
+LC-0037,2019,2019-02-07,Western Pacific,Mongolia,62,60-69,Male,Current Smoker,36
+LC-0038,2025,2025-12-11,Europe,Italy,55,50-59,Female,Never Smoked,0
+LC-0039,2018,2018-11-16,Western Pacific,Malaysia,59,50-59,Female,Never Smoked,0
+LC-0040,2017,2017-11-15,Europe,France,52,50-59,Male,Former Smoker,3
+LC-0041,2016,2016-05-05,Western Pacific,Australia,62,60-69,Male,Current Smoker,15
+LC-0042,2025,2025-12-18,Western Pacific,Singapore,70,70-79,Male,Current Smoker,17
+LC-0043,2016,2016-05-24,Americas,Venezuela,52,50-59,Female,Never Smoked,0
+LC-0044,2025,2025-07-19,Western Pacific,Malaysia,52,50-59,Male,Never Smoked,0
+LC-0045,2017,2017-06-08,Western Pacific,South Korea,68,60-69,Male,Current Smoker,30
+LC-0046,2023,2023-09-16,Eastern Mediterranean,Iran,56,50-59,Male,Never Smoked,0
+LC-0047,2024,2024-01-28,Americas,Canada,53,50-59,Male,Never Smoked,0
+LC-0048,2017,2017-03-21,Western Pacific,South Korea,60,60-69,Male,Current Smoker,25
+LC-0049,2025,2025-11-14,South-East Asia,Bhutan,72,70-79,Female,Never Smoked,0
+LC-0050,2026,2026-01-13,Western Pacific,Malaysia,62,60-69,Male,Never Smoked,0
+LC-0051,2022,2022-10-15,Africa,Algeria,43,40-49,Female,Never Smoked,0
+LC-0052,2016,2016-05-18,South-East Asia,India,67,60-69,Female,Never Smoked,0
+LC-0053,2019,2019-11-24,Europe,Germany,54,50-59,Female,Never Smoked,0
+LC-0054,2026,2026-06-18,Americas,Argentina,45,40-49,Male,Never Smoked,0
+LC-0055,2022,2022-11-11,Americas,Canada,50,50-59,Male,Never Smoked,0
+LC-0056,2016,2016-05-14,Eastern Mediterranean,Saudi Arabia,71,70-79,Female,Never Smoked,0
+LC-0057,2026,2026-04-01,Eastern Mediterranean,Iraq,46,40-49,Female,Current Smoker,22
+LC-0058,2021,2021-09-25,Western Pacific,South Korea,61,60-69,Female,Never Smoked,0
+LC-0059,2026,2026-05-04,Americas,Argentina,60,60-69,Male,Never Smoked,0
+LC-0060,2016,2016-11-17,South-East Asia,Bhutan,58,50-59,Female,Never Smoked,0
+LC-0061,2026,2026-02-05,Eastern Mediterranean,Jordan,80,80-89,Female,Current Smoker,26
+LC-0062,2022,2022-03-18,Western Pacific,Singapore,54,50-59,Female,Never Smoked,0
+LC-0063,2023,2023-01-20,Africa,Ghana,60,60-69,Female,Never Smoked,0
+LC-0064,2020,2020-08-01,Europe,Germany,78,70-79,Male,Never Smoked,0
+LC-0065,2017,2017-06-27,Africa,Ethiopia,39,30-39,Female,Never Smoked,0
+LC-0066,2021,2021-04-02,Eastern Mediterranean,UAE,65,60-69,Male,Never Smoked,0
+LC-0067,2020,2020-10-03,Europe,Germany,73,70-79,Male,Never Smoked,0
+LC-0068,2026,2026-06-16,Eastern Mediterranean,Iran,65,60-69,Female,Never Smoked,0
+LC-0069,2019,2019-09-25,Western Pacific,South Korea,66,60-69,Female,Never Smoked,0
+LC-0070,2020,2020-03-22,Africa,Morocco,59,50-59,Male,Never Smoked,0
+LC-0071,2023,2023-09-06,Africa,Ethiopia,63,60-69,Male,Never Smoked,0
+LC-0072,2022,2022-09-28,South-East Asia,Bhutan,55,50-59,Female,Never Smoked,0
+LC-0073,2015,2015-07-07,Western Pacific,Singapore,55,50-59,Female,Never Smoked,0
+LC-0074,2019,2019-12-23,Europe,Italy,54,50-59,Female,Current Smoker,26
+LC-0075,2016,2016-12-10,Eastern Mediterranean,Lebanon,63,60-69,Female,Never Smoked,0
+LC-0076,2023,2023-11-21,Americas,Colombia,70,70-79,Male,Never Smoked,0
+LC-0077,2022,2022-08-17,Western Pacific,New Zealand,70,70-79,Male,Never Smoked,0
+LC-0078,2024,2024-02-08,Africa,Egypt,56,50-59,Male,Never Smoked,0
+LC-0079,2023,2023-02-11,Western Pacific,China,69,60-69,Male,Current Smoker,9
+LC-0080,2020,2020-10-18,Africa,Egypt,57,50-59,Female,Never Smoked,0
+LC-0081,2019,2019-10-08,South-East Asia,India,47,40-49,Male,Never Smoked,0
+LC-0082,2020,2020-02-23,Europe,UK,62,60-69,Male,Current Smoker,10
+LC-0083,2024,2024-04-03,Eastern Mediterranean,Pakistan,63,60-69,Male,Former Smoker,12
+LC-0084,2019,2019-06-03,Americas,Cuba,69,60-69,Male,Never Smoked,0
+LC-0085,2016,2016-04-09,Western Pacific,New Zealand,59,50-59,Male,Current Smoker,24
+LC-0086,2026,2026-02-18,Western Pacific,South Korea,73,70-79,Male,Never Smoked,0
+LC-0087,2023,2023-12-19,South-East Asia,Bhutan,49,40-49,Male,Current Smoker,19
+LC-0088,2024,2024-08-08,South-East Asia,Maldives,65,60-69,Male,Never Smoked,0
+LC-0089,2016,2016-07-07,South-East Asia,Bangladesh,71,70-79,Male,Never Smoked,0
+LC-0090,2023,2023-02-22,Americas,Chile,53,50-59,Male,Current Smoker,34
+LC-0091,2024,2024-06-14,South-East Asia,Nepal,66,60-69,Male,Current Smoker,9
+LC-0092,2024,2024-08-28,Eastern Mediterranean,Pakistan,68,60-69,Female,Never Smoked,0
+LC-0093,2019,2019-11-21,Americas,Canada,45,40-49,Female,Never Smoked,0
+LC-0094,2018,2018-01-13,Western Pacific,Vietnam,65,60-69,Male,Former Smoker,15
+LC-0095,2017,2017-02-08,South-East Asia,Thailand,38,30-39,Female,Never Smoked,0
+LC-0096,2022,2022-04-18,Europe,Poland,67,60-69,Female,Never Smoked,0
+LC-0097,2020,2020-03-14,Americas,Brazil,67,60-69,Male,Current Smoker,29
+LC-0098,2015,2015-05-15,Americas,Mexico,87,80-89,Male,Never Smoked,0
+LC-0099,2025,2025-02-15,Europe,Netherlands,50,50-59,Female,Current Smoker,12
+LC-0100,2016,2016-02-02,Americas,Cuba,63,60-69,Male,Current Smoker,5
+LC-0101,2021,2021-01-03,Americas,Mexico,72,70-79,Male,Former Smoker,15
+LC-0102,2016,2016-03-14,Western Pacific,New Zealand,68,60-69,Male,Current Smoker,11
+LC-0103,2023,2023-08-07,Western Pacific,Malaysia,59,50-59,Male,Former Smoker,16
+LC-0104,2018,2018-01-06,Western Pacific,Malaysia,60,60-69,Female,Never Smoked,0
+LC-0105,2025,2025-01-13,Western Pacific,Philippines,55,50-59,Male,Never Smoked,0
+LC-0106,2021,2021-08-10,Africa,Tanzania,43,40-49,Male,Current Smoker,38
+LC-0107,2021,2021-12-24,South-East Asia,Timor-Leste,50,50-59,Male,Never Smoked,0
+LC-0108,2019,2019-11-23,Americas,Peru,66,60-69,Female,Never Smoked,0
+LC-0109,2023,2023-03-07,Eastern Mediterranean,Iraq,40,40-49,Female,Never Smoked,0
+LC-0110,2026,2026-02-02,Europe,Sweden,55,50-59,Male,Current Smoker,25
+LC-0111,2024,2024-12-18,Western Pacific,China,50,50-59,Male,Current Smoker,17
+LC-0112,2023,2023-12-11,Western Pacific,China,63,60-69,Female,Never Smoked,0
+LC-0113,2025,2025-01-19,Europe,Poland,71,70-79,Female,Never Smoked,0
+LC-0114,2025,2025-09-28,Europe,Netherlands,55,50-59,Male,Never Smoked,0
+LC-0115,2017,2017-03-02,Europe,Netherlands,68,60-69,Male,Never Smoked,0
+LC-0116,2016,2016-02-28,Eastern Mediterranean,Saudi Arabia,45,40-49,Female,Never Smoked,0
+LC-0117,2020,2020-02-20,Africa,South Africa,33,30-39,Male,Never Smoked,0
+LC-0118,2022,2022-11-28,Americas,Mexico,74,70-79,Male,Never Smoked,0
+LC-0119,2021,2021-07-04,Western Pacific,Mongolia,57,50-59,Male,Never Smoked,0
+LC-0120,2023,2023-04-19,Americas,Venezuela,83,80-89,Male,Current Smoker,40
+LC-0121,2015,2015-01-20,Western Pacific,Japan,65,60-69,Male,Never Smoked,0
+LC-0122,2024,2024-07-22,Western Pacific,Mongolia,48,40-49,Female,Never Smoked,0
+LC-0123,2020,2020-10-17,Europe,Russia,49,40-49,Female,Never Smoked,0
+LC-0124,2022,2022-05-07,Americas,Colombia,66,60-69,Male,Current Smoker,28
+LC-0125,2025,2025-04-09,Eastern Mediterranean,Lebanon,66,60-69,Female,Never Smoked,0
+LC-0126,2021,2021-03-22,Western Pacific,Philippines,67,60-69,Male,Former Smoker,23
+LC-0127,2026,2026-04-11,South-East Asia,Bangladesh,75,70-79,Male,Former Smoker,11
+LC-0128,2020,2020-01-15,Western Pacific,Mongolia,37,30-39,Female,Current Smoker,24
+LC-0129,2021,2021-10-04,Europe,Germany,54,50-59,Male,Current Smoker,30
+LC-0130,2020,2020-09-07,Eastern Mediterranean,Qatar,65,60-69,Male,Never Smoked,0
+LC-0131,2015,2015-05-05,Europe,Russia,67,60-69,Male,Current Smoker,22
+LC-0132,2020,2020-02-08,Europe,Russia,69,60-69,Female,Never Smoked,0
+LC-0133,2017,2017-05-06,Americas,Peru,70,70-79,Male,Never Smoked,0
+LC-0134,2023,2023-09-23,Americas,Argentina,62,60-69,Male,Never Smoked,0
+LC-0135,2022,2022-10-26,Americas,Cuba,77,70-79,Female,Never Smoked,0
+LC-0136,2016,2016-01-22,Europe,Netherlands,62,60-69,Male,Never Smoked,0
+LC-0137,2019,2019-05-22,South-East Asia,Bangladesh,65,60-69,Female,Current Smoker,53
+LC-0138,2017,2017-03-09,Americas,Canada,74,70-79,Female,Current Smoker,5
+LC-0139,2018,2018-02-24,Western Pacific,Singapore,74,70-79,Male,Former Smoker,8
+LC-0140,2025,2025-03-09,Western Pacific,Philippines,39,30-39,Male,Never Smoked,0
+LC-0141,2018,2018-10-07,Western Pacific,Vietnam,53,50-59,Male,Current Smoker,34
+LC-0142,2023,2023-04-22,Americas,Argentina,67,60-69,Male,Current Smoker,5
+LC-0143,2024,2024-09-16,Europe,Spain,42,40-49,Female,Never Smoked,0
+LC-0144,2021,2021-01-03,Western Pacific,Malaysia,55,50-59,Male,Never Smoked,0
+LC-0145,2018,2018-05-02,Western Pacific,China,61,60-69,Male,Current Smoker,37
+LC-0146,2024,2024-06-25,South-East Asia,Indonesia,53,50-59,Female,Never Smoked,0
+LC-0147,2025,2025-11-09,Western Pacific,South Korea,73,70-79,Male,Never Smoked,0
+LC-0148,2026,2026-06-15,Eastern Mediterranean,Qatar,51,50-59,Female,Never Smoked,0
+LC-0149,2026,2026-06-14,Eastern Mediterranean,Qatar,55,50-59,Male,Never Smoked,0
+LC-0150,2021,2021-01-04,South-East Asia,Bangladesh,65,60-69,Male,Never Smoked,0
+LC-0151,2025,2025-12-05,Europe,Netherlands,70,70-79,Male,Never Smoked,0
+LC-0152,2026,2026-01-27,South-East Asia,Sri Lanka,71,70-79,Male,Current Smoker,5
+LC-0153,2024,2024-10-18,Eastern Mediterranean,Saudi Arabia,62,60-69,Male,Never Smoked,0
+LC-0154,2023,2023-07-05,Western Pacific,China,77,70-79,Male,Current Smoker,10
+LC-0155,2026,2026-03-12,Western Pacific,China,65,60-69,Male,Never Smoked,0
+LC-0156,2022,2022-06-07,Americas,Mexico,72,70-79,Female,Former Smoker,10
+LC-0157,2018,2018-11-04,Europe,Russia,60,60-69,Male,Never Smoked,0
+LC-0158,2026,2026-07-07,Americas,Venezuela,77,70-79,Male,Never Smoked,0
+LC-0159,2016,2016-12-05,Western Pacific,Australia,51,50-59,Female,Never Smoked,0
+LC-0160,2023,2023-03-26,Americas,Brazil,50,50-59,Female,Never Smoked,0
+LC-0161,2025,2025-07-01,Eastern Mediterranean,Saudi Arabia,51,50-59,Male,Never Smoked,0
+LC-0162,2015,2015-12-11,South-East Asia,Nepal,42,40-49,Male,Never Smoked,0
+LC-0163,2024,2024-11-28,Eastern Mediterranean,UAE,66,60-69,Female,Current Smoker,13
+LC-0164,2019,2019-05-06,South-East Asia,Bangladesh,62,60-69,Male,Former Smoker,3
+LC-0165,2023,2023-07-28,Americas,USA,49,40-49,Female,Never Smoked,0
+LC-0166,2026,2026-07-08,Western Pacific,Australia,79,70-79,Male,Never Smoked,0
+LC-0167,2023,2023-04-27,Eastern Mediterranean,Oman,73,70-79,Male,Current Smoker,20
+LC-0168,2022,2022-06-10,Eastern Mediterranean,UAE,65,60-69,Male,Never Smoked,0
+LC-0169,2026,2026-02-01,Eastern Mediterranean,UAE,58,50-59,Female,Current Smoker,22
+LC-0170,2021,2021-07-11,Eastern Mediterranean,Iraq,54,50-59,Male,Never Smoked,0
+LC-0171,2026,2026-07-02,Europe,Spain,58,50-59,Male,Current Smoker,8
+LC-0172,2020,2020-06-21,South-East Asia,Timor-Leste,50,50-59,Female,Never Smoked,0
+LC-0173,2025,2025-07-22,Americas,Cuba,60,60-69,Male,Current Smoker,24
+LC-0174,2023,2023-06-01,Americas,Canada,49,40-49,Female,Never Smoked,0
+LC-0175,2022,2022-05-06,Western Pacific,Mongolia,54,50-59,Female,Never Smoked,0
+LC-0176,2016,2016-05-02,Western Pacific,Japan,63,60-69,Male,Never Smoked,0
+LC-0177,2025,2025-10-14,South-East Asia,Sri Lanka,58,50-59,Male,Current Smoker,10
+LC-0178,2025,2025-12-26,Americas,Colombia,60,60-69,Female,Never Smoked,0
+LC-0179,2020,2020-07-20,Americas,Cuba,56,50-59,Female,Never Smoked,0
+LC-0180,2025,2025-02-13,Western Pacific,Mongolia,62,60-69,Female,Never Smoked,0
+LC-0181,2016,2016-04-09,Americas,USA,38,30-39,Male,Never Smoked,0
+LC-0182,2020,2020-12-14,Eastern Mediterranean,Pakistan,59,50-59,Male,Never Smoked,0
+LC-0183,2018,2018-09-26,Western Pacific,Singapore,55,50-59,Male,Current Smoker,31
+LC-0184,2020,2020-11-24,Western Pacific,Australia,69,60-69,Male,Current Smoker,23
+LC-0185,2020,2020-06-14,Europe,Germany,58,50-59,Female,Never Smoked,0
+LC-0186,2015,2015-11-11,Western Pacific,Mongolia,60,60-69,Male,Never Smoked,0
+LC-0187,2026,2026-03-22,Europe,Germany,50,50-59,Male,Never Smoked,0
+LC-0188,2023,2023-12-10,Africa,Algeria,59,50-59,Male,Never Smoked,0
+LC-0189,2019,2019-05-22,Western Pacific,Malaysia,67,60-69,Male,Former Smoker,16
+LC-0190,2024,2024-06-13,Western Pacific,Philippines,83,80-89,Male,Never Smoked,0
+LC-0191,2021,2021-09-05,Western Pacific,Australia,40,40-49,Female,Never Smoked,0
+LC-0192,2026,2026-04-22,Western Pacific,Malaysia,59,50-59,Male,Never Smoked,0
+LC-0193,2022,2022-11-24,Africa,Kenya,58,50-59,Male,Former Smoker,28
+LC-0194,2022,2022-10-19,Americas,Argentina,57,50-59,Female,Never Smoked,0
+LC-0195,2023,2023-07-18,Americas,USA,58,50-59,Female,Never Smoked,0
+LC-0196,2025,2025-05-10,Europe,Italy,89,80-89,Male,Current Smoker,22
+LC-0197,2023,2023-07-26,Europe,Sweden,69,60-69,Male,Never Smoked,0
+LC-0198,2023,2023-10-21,Americas,Colombia,49,40-49,Male,Never Smoked,0
+LC-0199,2023,2023-08-15,Africa,Morocco,38,30-39,Female,Former Smoker,9
+LC-0200,2019,2019-11-07,Western Pacific,Singapore,64,60-69,Male,Never Smoked,0
+LC-0201,2021,2021-08-26,Eastern Mediterranean,Saudi Arabia,63,60-69,Male,Never Smoked,0
+LC-0202,2016,2016-11-03,Americas,Argentina,63,60-69,Female,Current Smoker,28
+LC-0203,2023,2023-09-22,South-East Asia,Bhutan,54,50-59,Female,Never Smoked,0
+LC-0204,2024,2024-06-03,Western Pacific,Australia,66,60-69,Male,Never Smoked,0
+LC-0205,2023,2023-11-10,South-East Asia,Thailand,63,60-69,Male,Never Smoked,0
+LC-0206,2023,2023-04-05,Americas,USA,68,60-69,Male,Former Smoker,9
+LC-0207,2020,2020-01-08,Western Pacific,New Zealand,30,30-39,Female,Current Smoker,36
+LC-0208,2026,2026-05-28,Western Pacific,Japan,50,50-59,Male,Former Smoker,3
+LC-0209,2021,2021-08-14,Europe,Sweden,60,60-69,Male,Current Smoker,21
+LC-0210,2025,2025-04-23,Western Pacific,Malaysia,68,60-69,Male,Never Smoked,0
+LC-0211,2025,2025-08-13,Western Pacific,Australia,50,50-59,Male,Current Smoker,16
+LC-0212,2021,2021-03-21,Western Pacific,China,47,40-49,Female,Never Smoked,0
+LC-0213,2022,2022-02-25,South-East Asia,Nepal,66,60-69,Female,Current Smoker,14
+LC-0214,2015,2015-04-06,Western Pacific,Singapore,65,60-69,Male,Current Smoker,19
+LC-0215,2018,2018-08-02,Americas,Cuba,61,60-69,Female,Never Smoked,0
+LC-0216,2018,2018-04-28,Europe,Germany,54,50-59,Male,Never Smoked,0
+LC-0217,2026,2026-04-05,Western Pacific,New Zealand,54,50-59,Male,Former Smoker,27
+LC-0218,2018,2018-11-17,Europe,Netherlands,51,50-59,Male,Never Smoked,0
+LC-0219,2022,2022-10-11,Americas,Peru,67,60-69,Male,Current Smoker,38
+LC-0220,2017,2017-10-27,Americas,Cuba,79,70-79,Male,Never Smoked,0
+LC-0221,2022,2022-07-27,Europe,Netherlands,63,60-69,Male,Former Smoker,12
+LC-0222,2025,2025-08-06,Africa,Morocco,73,70-79,Male,Current Smoker,29
+LC-0223,2019,2019-08-09,Europe,Italy,67,60-69,Female,Current Smoker,7
+LC-0224,2018,2018-11-09,Africa,Algeria,55,50-59,Male,Never Smoked,0
+LC-0225,2026,2026-04-21,Western Pacific,Australia,58,50-59,Male,Never Smoked,0
+LC-0226,2021,2021-05-15,South-East Asia,Bangladesh,70,70-79,Male,Current Smoker,26
+LC-0227,2024,2024-12-10,Western Pacific,Australia,61,60-69,Female,Never Smoked,0
+LC-0228,2018,2018-05-11,South-East Asia,Sri Lanka,71,70-79,Male,Never Smoked,0
+LC-0229,2016,2016-09-03,South-East Asia,Indonesia,70,70-79,Female,Current Smoker,25
+LC-0230,2018,2018-03-08,Americas,Chile,38,30-39,Female,Current Smoker,10
+LC-0231,2023,2023-12-05,Western Pacific,Australia,88,80-89,Male,Never Smoked,0
+LC-0232,2018,2018-02-14,Western Pacific,Malaysia,41,40-49,Male,Never Smoked,0
+LC-0233,2025,2025-06-18,Americas,Peru,57,50-59,Male,Current Smoker,17
+LC-0234,2024,2024-07-02,Western Pacific,Australia,60,60-69,Male,Former Smoker,12
+LC-0235,2015,2015-07-13,Western Pacific,Mongolia,50,50-59,Female,Current Smoker,44
+LC-0236,2015,2015-12-01,South-East Asia,Bhutan,69,60-69,Female,Never Smoked,0
+LC-0237,2023,2023-07-16,Europe,UK,74,70-79,Male,Current Smoker,28
+LC-0238,2025,2025-06-10,Eastern Mediterranean,Lebanon,59,50-59,Female,Never Smoked,0
+LC-0239,2021,2021-07-18,South-East Asia,Timor-Leste,63,60-69,Male,Never Smoked,0
+LC-0240,2025,2025-10-08,Europe,Poland,49,40-49,Female,Current Smoker,31
+LC-0241,2024,2024-04-09,Western Pacific,Malaysia,49,40-49,Female,Never Smoked,0
+LC-0242,2022,2022-08-01,Europe,Turkey,60,60-69,Male,Never Smoked,0
+LC-0243,2021,2021-06-22,Europe,Turkey,60,60-69,Male,Current Smoker,56
+LC-0244,2024,2024-12-06,Western Pacific,New Zealand,70,70-79,Male,Never Smoked,0
+LC-0245,2021,2021-03-20,Americas,Cuba,74,70-79,Female,Never Smoked,0
+LC-0246,2019,2019-01-13,South-East Asia,Bhutan,52,50-59,Male,Never Smoked,0
+LC-0247,2022,2022-10-22,Western Pacific,China,71,70-79,Male,Current Smoker,15
+LC-0248,2024,2024-02-21,Africa,Tanzania,63,60-69,Female,Never Smoked,0
+LC-0249,2019,2019-03-28,Africa,Morocco,44,40-49,Male,Never Smoked,0
+LC-0250,2016,2016-03-02,Eastern Mediterranean,Iraq,80,80-89,Male,Never Smoked,0
+LC-0251,2023,2023-07-11,Americas,Mexico,58,50-59,Male,Former Smoker,19
+LC-0252,2018,2018-08-11,Eastern Mediterranean,Jordan,35,30-39,Male,Never Smoked,0
+LC-0253,2026,2026-07-07,Western Pacific,Philippines,61,60-69,Male,Never Smoked,0
+LC-0254,2023,2023-07-09,Western Pacific,Japan,59,50-59,Male,Current Smoker,36
+LC-0255,2018,2018-08-01,Western Pacific,Singapore,61,60-69,Female,Current Smoker,22
+LC-0256,2023,2023-01-12,Americas,Mexico,58,50-59,Male,Current Smoker,18
+LC-0257,2019,2019-11-03,South-East Asia,India,42,40-49,Male,Never Smoked,0
+LC-0258,2017,2017-01-08,Western Pacific,Australia,52,50-59,Female,Current Smoker,19
+LC-0259,2026,2026-07-01,Western Pacific,Mongolia,75,70-79,Male,Never Smoked,0
+LC-0260,2026,2026-02-08,Western Pacific,South Korea,66,60-69,Male,Never Smoked,0
+LC-0261,2026,2026-04-22,South-East Asia,Bangladesh,55,50-59,Female,Never Smoked,0
+LC-0262,2020,2020-10-07,Western Pacific,New Zealand,79,70-79,Male,Former Smoker,3
+LC-0263,2018,2018-12-09,Africa,Ghana,69,60-69,Male,Never Smoked,0
+LC-0264,2019,2019-03-20,Americas,Venezuela,71,70-79,Male,Never Smoked,0
+LC-0265,2025,2025-12-23,Europe,Germany,76,70-79,Male,Current Smoker,23
+LC-0266,2015,2015-03-10,Western Pacific,Japan,60,60-69,Female,Never Smoked,0
+LC-0267,2024,2024-10-01,Western Pacific,Philippines,68,60-69,Male,Current Smoker,36
+LC-0268,2020,2020-10-22,Americas,Chile,53,50-59,Male,Current Smoker,24
+LC-0269,2025,2025-07-23,Europe,Italy,49,40-49,Female,Current Smoker,15
+LC-0270,2022,2022-02-19,Western Pacific,Australia,55,50-59,Female,Never Smoked,0
+LC-0271,2024,2024-02-23,Western Pacific,Philippines,76,70-79,Female,Never Smoked,0
+LC-0272,2024,2024-11-20,Eastern Mediterranean,Iran,57,50-59,Female,Never Smoked,0
+LC-0273,2015,2015-10-26,Western Pacific,China,55,50-59,Female,Never Smoked,0
+LC-0274,2017,2017-06-18,Western Pacific,Malaysia,44,40-49,Male,Never Smoked,0
+LC-0275,2023,2023-11-12,South-East Asia,Bangladesh,30,30-39,Female,Never Smoked,0
+LC-0276,2017,2017-09-21,South-East Asia,Sri Lanka,52,50-59,Male,Never Smoked,0
+LC-0277,2024,2024-01-28,Western Pacific,Malaysia,50,50-59,Female,Never Smoked,0
+LC-0278,2015,2015-08-04,Europe,Turkey,71,70-79,Male,Never Smoked,0
+LC-0279,2021,2021-06-21,Eastern Mediterranean,Oman,71,70-79,Male,Never Smoked,0
+LC-0280,2017,2017-12-05,Europe,Turkey,81,80-89,Male,Never Smoked,0
+LC-0281,2022,2022-03-24,Europe,Netherlands,59,50-59,Male,Never Smoked,0
+LC-0282,2026,2026-06-09,Western Pacific,Mongolia,58,50-59,Female,Former Smoker,24
+LC-0283,2015,2015-09-25,Western Pacific,New Zealand,52,50-59,Male,Current Smoker,27
+LC-0284,2018,2018-08-14,Europe,Sweden,80,80-89,Male,Never Smoked,0
+LC-0285,2022,2022-05-11,Americas,Mexico,67,60-69,Male,Current Smoker,19
+LC-0286,2015,2015-02-09,South-East Asia,Maldives,51,50-59,Female,Never Smoked,0
+LC-0287,2023,2023-04-25,Western Pacific,New Zealand,68,60-69,Male,Never Smoked,0
+LC-0288,2023,2023-10-20,Western Pacific,Malaysia,58,50-59,Female,Never Smoked,0
+LC-0289,2022,2022-06-01,Western Pacific,New Zealand,71,70-79,Male,Current Smoker,19
+LC-0290,2024,2024-06-06,Americas,Peru,75,70-79,Female,Never Smoked,0
+LC-0291,2020,2020-04-12,Europe,Spain,70,70-79,Male,Current Smoker,22
+LC-0292,2019,2019-06-09,Europe,Sweden,65,60-69,Male,Current Smoker,14
+LC-0293,2023,2023-12-09,Western Pacific,Singapore,49,40-49,Female,Never Smoked,0
+LC-0294,2021,2021-01-17,South-East Asia,Thailand,52,50-59,Male,Never Smoked,0
+LC-0295,2022,2022-02-08,Western Pacific,Malaysia,74,70-79,Female,Never Smoked,0
+LC-0296,2025,2025-08-18,Africa,Egypt,51,50-59,Male,Never Smoked,0
+LC-0297,2023,2023-12-16,South-East Asia,Maldives,47,40-49,Female,Former Smoker,17
+LC-0298,2021,2021-08-26,Western Pacific,China,53,50-59,Female,Never Smoked,0
+LC-0299,2019,2019-02-10,Eastern Mediterranean,UAE,68,60-69,Male,Never Smoked,0
+LC-0300,2018,2018-07-23,Europe,Italy,52,50-59,Male,Current Smoker,26
+LC-0301,2025,2025-05-22,Europe,Sweden,59,50-59,Male,Never Smoked,0
+LC-0302,2021,2021-06-16,Western Pacific,Singapore,56,50-59,Male,Former Smoker,10
+LC-0303,2016,2016-09-12,Europe,Turkey,61,60-69,Male,Never Smoked,0
+LC-0304,2023,2023-12-18,Africa,Ghana,45,40-49,Male,Never Smoked,0
+LC-0305,2022,2022-06-23,Western Pacific,New Zealand,76,70-79,Male,Never Smoked,0
+LC-0306,2025,2025-05-10,Europe,Spain,68,60-69,Female,Never Smoked,0
+LC-0307,2022,2022-04-04,Americas,Mexico,53,50-59,Female,Current Smoker,7
+LC-0308,2017,2017-06-04,Africa,Algeria,60,60-69,Male,Former Smoker,17
+LC-0309,2020,2020-12-06,Europe,Italy,58,50-59,Male,Never Smoked,0
+LC-0310,2022,2022-04-24,South-East Asia,Maldives,51,50-59,Female,Never Smoked,0
+LC-0311,2019,2019-05-24,South-East Asia,Bhutan,62,60-69,Male,Never Smoked,0
+LC-0312,2021,2021-09-20,Europe,Spain,77,70-79,Female,Current Smoker,25
+LC-0313,2026,2026-01-27,Americas,Mexico,59,50-59,Male,Never Smoked,0
+LC-0314,2017,2017-05-08,Africa,Ghana,69,60-69,Male,Never Smoked,0
+LC-0315,2023,2023-03-10,Eastern Mediterranean,Pakistan,41,40-49,Female,Never Smoked,0
+LC-0316,2024,2024-12-18,Western Pacific,South Korea,60,60-69,Male,Never Smoked,0
+LC-0317,2017,2017-05-02,South-East Asia,India,45,40-49,Female,Never Smoked,0
+LC-0318,2019,2019-09-10,Americas,Brazil,53,50-59,Male,Former Smoker,15
+LC-0319,2016,2016-11-28,Western Pacific,New Zealand,61,60-69,Male,Never Smoked,0
+LC-0320,2023,2023-02-28,Western Pacific,China,71,70-79,Female,Never Smoked,0
+LC-0321,2023,2023-10-10,Europe,Poland,57,50-59,Male,Never Smoked,0
+LC-0322,2020,2020-08-15,Western Pacific,Vietnam,85,80-89,Male,Current Smoker,17
+LC-0323,2020,2020-03-02,Eastern Mediterranean,Iraq,61,60-69,Female,Never Smoked,0
+LC-0324,2020,2020-08-04,Western Pacific,Japan,44,40-49,Male,Current Smoker,35
+LC-0325,2022,2022-07-16,Western Pacific,Japan,69,60-69,Male,Never Smoked,0
+LC-0326,2015,2015-10-21,Europe,UK,62,60-69,Male,Current Smoker,27
+LC-0327,2017,2017-03-05,Western Pacific,Mongolia,64,60-69,Male,Never Smoked,0
+LC-0328,2016,2016-05-03,Eastern Mediterranean,UAE,58,50-59,Male,Former Smoker,23
+LC-0329,2019,2019-02-18,Western Pacific,Malaysia,71,70-79,Male,Current Smoker,28
+LC-0330,2025,2025-10-20,Western Pacific,Mongolia,57,50-59,Male,Current Smoker,34
+LC-0331,2016,2016-04-25,Americas,Cuba,52,50-59,Female,Never Smoked,0
+LC-0332,2021,2021-07-15,Africa,Morocco,51,50-59,Male,Current Smoker,29
+LC-0333,2024,2024-05-28,Western Pacific,Mongolia,70,70-79,Male,Current Smoker,33
+LC-0334,2019,2019-07-10,Europe,Sweden,74,70-79,Male,Former Smoker,11
+LC-0335,2021,2021-10-02,Western Pacific,Mongolia,74,70-79,Male,Never Smoked,0
+LC-0336,2019,2019-12-04,Western Pacific,Australia,66,60-69,Female,Never Smoked,0
+LC-0337,2017,2017-11-07,Eastern Mediterranean,Iraq,64,60-69,Male,Never Smoked,0
+LC-0338,2020,2020-11-03,Africa,Kenya,72,70-79,Male,Never Smoked,0
+LC-0339,2026,2026-02-06,Europe,Netherlands,54,50-59,Male,Never Smoked,0
+LC-0340,2023,2023-02-06,Western Pacific,China,54,50-59,Male,Former Smoker,12
+LC-0341,2022,2022-07-15,Europe,Sweden,56,50-59,Male,Current Smoker,36
+LC-0342,2015,2015-08-10,Western Pacific,China,65,60-69,Male,Never Smoked,0
+LC-0343,2016,2016-04-10,Americas,Argentina,72,70-79,Male,Current Smoker,13
+LC-0344,2017,2017-12-28,Western Pacific,New Zealand,53,50-59,Male,Never Smoked,0
+LC-0345,2018,2018-02-22,Western Pacific,Australia,59,50-59,Female,Never Smoked,0
+LC-0346,2026,2026-03-26,Europe,Sweden,52,50-59,Female,Never Smoked,0
+LC-0347,2015,2015-11-26,South-East Asia,Thailand,49,40-49,Female,Former Smoker,27
+LC-0348,2022,2022-07-04,Americas,Cuba,65,60-69,Male,Never Smoked,0
+LC-0349,2016,2016-04-21,South-East Asia,Indonesia,50,50-59,Male,Never Smoked,0
+LC-0350,2022,2022-05-27,Europe,France,66,60-69,Female,Never Smoked,0
+LC-0351,2018,2018-02-02,Europe,France,58,50-59,Male,Current Smoker,41
+LC-0352,2026,2026-07-05,Western Pacific,Mongolia,53,50-59,Male,Never Smoked,0
+LC-0353,2020,2020-12-27,Europe,Sweden,58,50-59,Male,Former Smoker,16
+LC-0354,2020,2020-05-15,Europe,Germany,52,50-59,Male,Never Smoked,0
+LC-0355,2026,2026-04-23,Eastern Mediterranean,Iraq,45,40-49,Male,Former Smoker,13
+LC-0356,2025,2025-12-13,Western Pacific,Philippines,76,70-79,Male,Never Smoked,0
+LC-0357,2020,2020-09-18,Europe,Poland,65,60-69,Male,Former Smoker,10
+LC-0358,2026,2026-04-03,Western Pacific,Mongolia,58,50-59,Female,Never Smoked,0
+LC-0359,2022,2022-01-14,Western Pacific,Vietnam,68,60-69,Male,Never Smoked,0
+LC-0360,2024,2024-10-09,South-East Asia,India,58,50-59,Male,Never Smoked,0
+LC-0361,2023,2023-02-08,Europe,Sweden,57,50-59,Male,Never Smoked,0
+LC-0362,2016,2016-10-01,Western Pacific,Philippines,78,70-79,Male,Former Smoker,22
+LC-0363,2019,2019-10-02,Americas,Brazil,63,60-69,Male,Never Smoked,0
+LC-0364,2020,2020-08-17,Western Pacific,New Zealand,49,40-49,Female,Never Smoked,0
+LC-0365,2018,2018-05-06,Europe,Sweden,64,60-69,Female,Never Smoked,0
+LC-0366,2021,2021-07-21,South-East Asia,Maldives,65,60-69,Male,Current Smoker,22
+LC-0367,2017,2017-02-16,Europe,Russia,58,50-59,Male,Former Smoker,29
+LC-0368,2016,2016-07-11,South-East Asia,Sri Lanka,64,60-69,Female,Never Smoked,0
+LC-0369,2015,2015-11-04,South-East Asia,Indonesia,49,40-49,Male,Current Smoker,27
+LC-0370,2020,2020-06-14,South-East Asia,Maldives,70,70-79,Male,Never Smoked,0
+LC-0371,2022,2022-05-22,Europe,Turkey,56,50-59,Female,Never Smoked,0
+LC-0372,2024,2024-09-02,South-East Asia,Maldives,51,50-59,Male,Current Smoker,25
+LC-0373,2018,2018-02-11,South-East Asia,Myanmar,61,60-69,Female,Never Smoked,0
+LC-0374,2019,2019-06-04,Western Pacific,Malaysia,66,60-69,Male,Current Smoker,36
+LC-0375,2022,2022-09-27,Eastern Mediterranean,Pakistan,50,50-59,Female,Former Smoker,11
+LC-0376,2020,2020-11-28,Western Pacific,Singapore,43,40-49,Male,Former Smoker,29
+LC-0377,2026,2026-04-14,Europe,UK,89,80-89,Male,Former Smoker,27
+LC-0378,2025,2025-04-17,Western Pacific,Vietnam,59,50-59,Male,Never Smoked,0
+LC-0379,2023,2023-10-25,Americas,Peru,84,80-89,Male,Current Smoker,21
+LC-0380,2021,2021-11-15,South-East Asia,India,60,60-69,Male,Current Smoker,13
+LC-0381,2026,2026-02-09,Europe,Netherlands,65,60-69,Male,Never Smoked,0
+LC-0382,2024,2024-03-10,Eastern Mediterranean,Oman,77,70-79,Female,Current Smoker,29
+LC-0383,2020,2020-12-16,Americas,Canada,71,70-79,Male,Never Smoked,0
+LC-0384,2024,2024-01-21,Americas,Venezuela,55,50-59,Male,Never Smoked,0
+LC-0385,2021,2021-04-23,South-East Asia,Indonesia,71,70-79,Female,Never Smoked,0
+LC-0386,2021,2021-05-18,Western Pacific,China,65,60-69,Male,Former Smoker,18
+LC-0387,2019,2019-09-14,Western Pacific,Japan,63,60-69,Female,Never Smoked,0
+LC-0388,2023,2023-04-27,Europe,Germany,64,60-69,Female,Never Smoked,0
+LC-0389,2024,2024-08-04,Europe,France,53,50-59,Female,Never Smoked,0
+LC-0390,2019,2019-08-23,Europe,Spain,57,50-59,Male,Never Smoked,0
+LC-0391,2018,2018-09-23,Europe,Spain,77,70-79,Male,Former Smoker,12
+LC-0392,2016,2016-07-27,Western Pacific,New Zealand,76,70-79,Male,Never Smoked,0
+LC-0393,2022,2022-08-08,Western Pacific,New Zealand,55,50-59,Female,Never Smoked,0
+LC-0394,2023,2023-09-05,Americas,Chile,49,40-49,Female,Current Smoker,42
+LC-0395,2018,2018-04-20,Western Pacific,Singapore,62,60-69,Female,Current Smoker,5
+LC-0396,2018,2018-12-05,Americas,Canada,62,60-69,Male,Never Smoked,0
+LC-0397,2024,2024-05-25,Western Pacific,Malaysia,76,70-79,Male,Former Smoker,9
+LC-0398,2019,2019-06-26,Western Pacific,Singapore,60,60-69,Male,Never Smoked,0
+LC-0399,2018,2018-05-27,Europe,UK,59,50-59,Male,Never Smoked,0
+LC-0400,2019,2019-05-24,Europe,Spain,57,50-59,Female,Current Smoker,20
+LC-0401,2019,2019-10-19,Western Pacific,New Zealand,74,70-79,Female,Never Smoked,0
+LC-0402,2020,2020-03-15,South-East Asia,Timor-Leste,68,60-69,Male,Never Smoked,0
+LC-0403,2022,2022-08-12,Europe,Russia,55,50-59,Female,Never Smoked,0
+LC-0404,2019,2019-09-25,Africa,Algeria,69,60-69,Male,Never Smoked,0
+LC-0405,2026,2026-04-15,Western Pacific,Vietnam,68,60-69,Female,Never Smoked,0
+LC-0406,2026,2026-07-04,Americas,Mexico,52,50-59,Male,Never Smoked,0
+LC-0407,2020,2020-10-13,Western Pacific,Australia,61,60-69,Male,Current Smoker,36
+LC-0408,2023,2023-07-02,Americas,Colombia,66,60-69,Female,Never Smoked,0
+LC-0409,2015,2015-12-16,Western Pacific,Malaysia,62,60-69,Male,Never Smoked,0
+LC-0410,2022,2022-07-22,Americas,Brazil,64,60-69,Female,Former Smoker,15
+LC-0411,2025,2025-08-02,Western Pacific,South Korea,49,40-49,Female,Current Smoker,24
+LC-0412,2025,2025-09-19,Europe,Russia,74,70-79,Male,Never Smoked,0
+LC-0413,2018,2018-02-28,Europe,Poland,63,60-69,Male,Never Smoked,0
+LC-0414,2021,2021-02-17,South-East Asia,Maldives,61,60-69,Male,Never Smoked,0
+LC-0415,2022,2022-01-24,Europe,France,59,50-59,Female,Current Smoker,38
+LC-0416,2019,2019-07-28,Americas,Brazil,43,40-49,Male,Current Smoker,9
+LC-0417,2020,2020-02-16,Europe,Spain,67,60-69,Male,Never Smoked,0
+LC-0418,2026,2026-03-20,Eastern Mediterranean,Lebanon,55,50-59,Female,Never Smoked,0
+LC-0419,2017,2017-11-03,Africa,Ghana,54,50-59,Male,Never Smoked,0
+LC-0420,2023,2023-11-28,Western Pacific,Singapore,56,50-59,Female,Former Smoker,5
+LC-0421,2018,2018-07-11,Eastern Mediterranean,Oman,70,70-79,Male,Current Smoker,25
+LC-0422,2019,2019-09-02,Europe,Sweden,58,50-59,Male,Current Smoker,33
+LC-0423,2025,2025-02-08,Europe,Spain,51,50-59,Male,Never Smoked,0
+LC-0424,2024,2024-04-24,Western Pacific,Japan,53,50-59,Female,Never Smoked,0
+LC-0425,2022,2022-07-04,Europe,Germany,40,40-49,Female,Current Smoker,38
+LC-0426,2018,2018-08-06,South-East Asia,Myanmar,47,40-49,Male,Current Smoker,28
+LC-0427,2024,2024-01-02,South-East Asia,Sri Lanka,89,80-89,Male,Never Smoked,0
+LC-0428,2019,2019-01-10,Americas,Colombia,64,60-69,Male,Never Smoked,0
+LC-0429,2026,2026-03-14,Eastern Mediterranean,Saudi Arabia,76,70-79,Female,Current Smoker,28
+LC-0430,2017,2017-04-17,Western Pacific,Malaysia,63,60-69,Male,Never Smoked,0
+LC-0431,2026,2026-05-22,Eastern Mediterranean,Saudi Arabia,53,50-59,Female,Never Smoked,0
+LC-0432,2020,2020-03-06,Europe,Germany,50,50-59,Female,Never Smoked,0
+LC-0433,2020,2020-10-28,Africa,Tanzania,63,60-69,Male,Never Smoked,0
+LC-0434,2018,2018-10-22,Africa,Egypt,49,40-49,Female,Never Smoked,0
+LC-0435,2019,2019-08-19,Western Pacific,South Korea,51,50-59,Male,Never Smoked,0
+LC-0436,2015,2015-04-15,Western Pacific,Philippines,52,50-59,Male,Current Smoker,32
+LC-0437,2019,2019-08-09,Western Pacific,China,70,70-79,Male,Former Smoker,27
+LC-0438,2023,2023-08-10,Eastern Mediterranean,Qatar,74,70-79,Male,Current Smoker,29
+LC-0439,2024,2024-03-03,Americas,Peru,64,60-69,Female,Current Smoker,29
+LC-0440,2015,2015-06-19,Europe,Spain,57,50-59,Male,Current Smoker,15
+LC-0441,2015,2015-11-14,Africa,Ethiopia,89,80-89,Male,Current Smoker,29
+LC-0442,2020,2020-08-28,Western Pacific,Philippines,69,60-69,Male,Never Smoked,0
+LC-0443,2015,2015-04-13,Western Pacific,New Zealand,56,50-59,Male,Current Smoker,26
+LC-0444,2019,2019-02-08,Western Pacific,Malaysia,76,70-79,Male,Never Smoked,0
+LC-0445,2026,2026-05-12,Europe,Sweden,54,50-59,Female,Never Smoked,0
+LC-0446,2025,2025-05-23,Western Pacific,Philippines,72,70-79,Female,Never Smoked,0
+LC-0447,2021,2021-01-27,Americas,Chile,76,70-79,Male,Never Smoked,0
+LC-0448,2022,2022-05-01,Europe,Sweden,53,50-59,Male,Never Smoked,0
+LC-0449,2023,2023-11-25,Western Pacific,China,45,40-49,Female,Former Smoker,14
+LC-0450,2020,2020-10-24,South-East Asia,Maldives,75,70-79,Male,Current Smoker,35
+LC-0451,2020,2020-05-25,Western Pacific,Australia,65,60-69,Male,Never Smoked,0
+LC-0452,2023,2023-10-26,South-East Asia,Sri Lanka,57,50-59,Male,Former Smoker,11
+LC-0453,2024,2024-04-21,Eastern Mediterranean,UAE,65,60-69,Male,Never Smoked,0
+LC-0454,2024,2024-10-09,South-East Asia,Indonesia,63,60-69,Male,Never Smoked,0
+LC-0455,2021,2021-11-04,South-East Asia,India,58,50-59,Male,Never Smoked,0
+LC-0456,2023,2023-05-26,South-East Asia,Maldives,71,70-79,Male,Never Smoked,0
+LC-0457,2022,2022-01-19,Western Pacific,Vietnam,71,70-79,Male,Former Smoker,21
+LC-0458,2022,2022-12-05,Eastern Mediterranean,Iran,61,60-69,Female,Never Smoked,0
+LC-0459,2024,2024-05-11,Eastern Mediterranean,Lebanon,54,50-59,Male,Current Smoker,18
+LC-0460,2020,2020-03-07,Africa,Kenya,65,60-69,Female,Never Smoked,0
+LC-0461,2022,2022-09-12,Americas,Cuba,55,50-59,Male,Current Smoker,12
+LC-0462,2022,2022-09-09,South-East Asia,Indonesia,53,50-59,Male,Former Smoker,15
+LC-0463,2026,2026-03-27,Western Pacific,New Zealand,64,60-69,Male,Former Smoker,3
+LC-0464,2022,2022-05-24,Eastern Mediterranean,Jordan,72,70-79,Male,Never Smoked,0
+LC-0465,2023,2023-02-15,Eastern Mediterranean,Iran,64,60-69,Female,Never Smoked,0
+LC-0466,2022,2022-03-25,Africa,Egypt,62,60-69,Male,Never Smoked,0
+LC-0467,2025,2025-11-24,South-East Asia,Nepal,55,50-59,Male,Never Smoked,0
+LC-0468,2022,2022-09-12,Eastern Mediterranean,Iran,48,40-49,Male,Never Smoked,0
+LC-0469,2020,2020-07-01,South-East Asia,Myanmar,68,60-69,Male,Never Smoked,0
+LC-0470,2019,2019-09-04,Europe,Poland,59,50-59,Male,Never Smoked,0
+LC-0471,2019,2019-06-22,Western Pacific,Philippines,78,70-79,Male,Never Smoked,0
+LC-0472,2017,2017-10-13,Western Pacific,Vietnam,58,50-59,Male,Never Smoked,0
+LC-0473,2022,2022-02-22,Western Pacific,Australia,55,50-59,Male,Never Smoked,0
+LC-0474,2024,2024-08-01,Americas,Venezuela,34,30-39,Female,Current Smoker,28
+LC-0475,2017,2017-09-11,Western Pacific,Mongolia,53,50-59,Female,Never Smoked,0
+LC-0476,2017,2017-04-21,Africa,South Africa,59,50-59,Female,Never Smoked,0
+LC-0477,2019,2019-11-27,South-East Asia,Maldives,45,40-49,Female,Never Smoked,0
+LC-0478,2025,2025-12-10,Europe,Turkey,67,60-69,Male,Never Smoked,0
+LC-0479,2016,2016-02-05,Eastern Mediterranean,Pakistan,82,80-89,Male,Never Smoked,0
+LC-0480,2019,2019-01-10,Americas,Peru,65,60-69,Male,Never Smoked,0
+LC-0481,2024,2024-02-04,Western Pacific,Australia,57,50-59,Male,Former Smoker,7
+LC-0482,2023,2023-09-05,Europe,Turkey,65,60-69,Female,Never Smoked,0
+LC-0483,2018,2018-08-12,Americas,Cuba,54,50-59,Male,Current Smoker,36
+LC-0484,2016,2016-07-19,Eastern Mediterranean,Saudi Arabia,81,80-89,Male,Never Smoked,0
+LC-0485,2025,2025-07-21,Europe,Germany,75,70-79,Female,Never Smoked,0
+LC-0486,2021,2021-08-20,Western Pacific,Malaysia,69,60-69,Female,Never Smoked,0
+LC-0487,2018,2018-05-02,Western Pacific,Vietnam,76,70-79,Male,Never Smoked,0
+LC-0488,2026,2026-02-15,Europe,Poland,79,70-79,Male,Current Smoker,33
+LC-0489,2022,2022-04-28,Americas,Colombia,48,40-49,Female,Never Smoked,0
+LC-0490,2026,2026-01-22,Western Pacific,Vietnam,52,50-59,Male,Never Smoked,0
+LC-0491,2020,2020-09-21,Western Pacific,Vietnam,73,70-79,Male,Never Smoked,0
+LC-0492,2020,2020-01-13,Americas,Argentina,62,60-69,Female,Never Smoked,0
+LC-0493,2018,2018-04-04,Western Pacific,New Zealand,47,40-49,Male,Never Smoked,0
+LC-0494,2025,2025-02-22,Europe,Italy,51,50-59,Male,Never Smoked,0
+LC-0495,2025,2025-11-21,Americas,Venezuela,50,50-59,Female,Current Smoker,27
+LC-0496,2019,2019-01-02,Western Pacific,Vietnam,56,50-59,Female,Never Smoked,0
+LC-0497,2015,2015-04-05,South-East Asia,Bhutan,70,70-79,Male,Never Smoked,0
+LC-0498,2017,2017-04-03,Europe,Netherlands,58,50-59,Female,Never Smoked,0
+LC-0499,2019,2019-04-19,Western Pacific,Australia,68,60-69,Male,Current Smoker,23
+LC-0500,2026,2026-07-04,Americas,Colombia,52,50-59,Female,Current Smoker,22
+LC-0501,2026,2026-07-03,Eastern Mediterranean,Kuwait,35,30-39,Female,Never Smoked,0
+LC-0502,2023,2023-01-09,Europe,France,47,40-49,Female,Never Smoked,0
+LC-0503,2025,2025-03-18,Americas,Argentina,60,60-69,Male,Current Smoker,16
+LC-0504,2018,2018-03-04,Eastern Mediterranean,Pakistan,70,70-79,Male,Former Smoker,15
+LC-0505,2018,2018-03-01,Americas,Colombia,53,50-59,Male,Current Smoker,22
+LC-0506,2023,2023-04-19,South-East Asia,Sri Lanka,53,50-59,Male,Current Smoker,11
+LC-0507,2018,2018-01-06,South-East Asia,Myanmar,76,70-79,Female,Current Smoker,26
+LC-0508,2018,2018-01-05,Eastern Mediterranean,Lebanon,58,50-59,Female,Never Smoked,0
+LC-0509,2018,2018-09-04,Western Pacific,Japan,57,50-59,Male,Never Smoked,0
+LC-0510,2015,2015-08-15,Western Pacific,Vietnam,57,50-59,Female,Never Smoked,0
+LC-0511,2026,2026-05-19,South-East Asia,Bangladesh,39,30-39,Female,Former Smoker,19
+LC-0512,2022,2022-08-17,Western Pacific,Australia,63,60-69,Female,Former Smoker,19
+LC-0513,2023,2023-10-02,South-East Asia,Timor-Leste,56,50-59,Female,Never Smoked,0
+LC-0514,2020,2020-05-15,Europe,UK,68,60-69,Male,Current Smoker,22
+LC-0515,2023,2023-01-16,Europe,Turkey,47,40-49,Male,Current Smoker,28
+LC-0516,2026,2026-04-22,Western Pacific,Japan,48,40-49,Male,Never Smoked,0
+LC-0517,2023,2023-08-23,South-East Asia,Maldives,72,70-79,Female,Never Smoked,0
+LC-0518,2017,2017-02-03,Americas,Colombia,60,60-69,Male,Never Smoked,0
+LC-0519,2024,2024-10-05,Western Pacific,Japan,63,60-69,Male,Never Smoked,0
+LC-0520,2021,2021-03-09,Europe,Sweden,60,60-69,Male,Current Smoker,14
+LC-0521,2024,2024-11-19,Eastern Mediterranean,Qatar,59,50-59,Male,Never Smoked,0
+LC-0522,2021,2021-12-11,Americas,Chile,55,50-59,Male,Never Smoked,0
+LC-0523,2021,2021-10-17,Western Pacific,Philippines,61,60-69,Female,Never Smoked,0
+LC-0524,2023,2023-08-17,Americas,Venezuela,79,70-79,Female,Never Smoked,0
+LC-0525,2026,2026-04-04,South-East Asia,Bangladesh,32,30-39,Female,Never Smoked,0
+LC-0526,2022,2022-11-21,South-East Asia,Timor-Leste,60,60-69,Female,Former Smoker,15
+LC-0527,2020,2020-12-28,Americas,Mexico,61,60-69,Male,Former Smoker,8
+LC-0528,2017,2017-07-15,Americas,Mexico,76,70-79,Male,Current Smoker,5
+LC-0529,2021,2021-07-11,Western Pacific,New Zealand,70,70-79,Male,Former Smoker,12
+LC-0530,2019,2019-07-14,South-East Asia,Bangladesh,74,70-79,Male,Never Smoked,0
+LC-0531,2026,2026-03-14,Americas,Colombia,65,60-69,Male,Never Smoked,0
+LC-0532,2024,2024-11-09,Western Pacific,Vietnam,73,70-79,Male,Former Smoker,30
+LC-0533,2019,2019-03-22,Eastern Mediterranean,Oman,58,50-59,Male,Current Smoker,23
+LC-0534,2025,2025-02-03,Europe,Germany,48,40-49,Female,Never Smoked,0
+LC-0535,2018,2018-02-14,Americas,Canada,55,50-59,Male,Never Smoked,0
+LC-0536,2022,2022-12-24,South-East Asia,Sri Lanka,69,60-69,Female,Never Smoked,0
+LC-0537,2026,2026-07-03,Eastern Mediterranean,Qatar,67,60-69,Male,Never Smoked,0
+LC-0538,2024,2024-01-19,Americas,Cuba,58,50-59,Female,Never Smoked,0
+LC-0539,2023,2023-09-11,Western Pacific,Japan,70,70-79,Female,Never Smoked,0
+LC-0540,2015,2015-07-12,South-East Asia,Nepal,69,60-69,Male,Current Smoker,20
+LC-0541,2022,2022-12-02,Africa,Ethiopia,54,50-59,Male,Never Smoked,0
+LC-0542,2026,2026-05-10,Americas,Colombia,62,60-69,Male,Current Smoker,34
+LC-0543,2022,2022-02-19,Americas,Cuba,79,70-79,Male,Never Smoked,0
+LC-0544,2016,2016-04-05,South-East Asia,Maldives,70,70-79,Male,Current Smoker,38
+LC-0545,2025,2025-04-28,Eastern Mediterranean,Iran,71,70-79,Male,Current Smoker,30
+LC-0546,2021,2021-06-28,Americas,Cuba,62,60-69,Male,Never Smoked,0
+LC-0547,2023,2023-06-04,Eastern Mediterranean,Iraq,69,60-69,Male,Never Smoked,0
+LC-0548,2022,2022-10-08,South-East Asia,Nepal,38,30-39,Female,Never Smoked,0
+LC-0549,2026,2026-07-01,Americas,Venezuela,66,60-69,Male,Current Smoker,30
+LC-0550,2023,2023-11-27,Europe,Spain,79,70-79,Male,Current Smoker,23
+LC-0551,2026,2026-01-06,Africa,Ethiopia,49,40-49,Male,Never Smoked,0
+LC-0552,2020,2020-12-25,South-East Asia,Myanmar,53,50-59,Female,Never Smoked,0
+LC-0553,2023,2023-06-12,Africa,Nigeria,61,60-69,Male,Never Smoked,0
+LC-0554,2026,2026-02-28,Western Pacific,South Korea,87,80-89,Male,Never Smoked,0
+LC-0555,2018,2018-10-22,Americas,Chile,68,60-69,Male,Never Smoked,0
+LC-0556,2016,2016-02-05,Western Pacific,China,62,60-69,Male,Never Smoked,0
+LC-0557,2024,2024-02-24,Europe,Netherlands,66,60-69,Male,Former Smoker,17
+LC-0558,2020,2020-04-13,Europe,Turkey,55,50-59,Male,Never Smoked,0
+LC-0559,2021,2021-08-11,Western Pacific,South Korea,85,80-89,Male,Never Smoked,0
+LC-0560,2026,2026-03-10,Africa,Ghana,76,70-79,Male,Current Smoker,34
+LC-0561,2025,2025-10-20,Europe,Germany,47,40-49,Female,Current Smoker,27
+LC-0562,2018,2018-01-05,Africa,Kenya,79,70-79,Male,Never Smoked,0
+LC-0563,2022,2022-10-02,Western Pacific,Japan,53,50-59,Female,Current Smoker,20
+LC-0564,2019,2019-05-15,Western Pacific,Malaysia,49,40-49,Female,Never Smoked,0
+LC-0565,2017,2017-08-20,South-East Asia,Maldives,67,60-69,Male,Never Smoked,0
+LC-0566,2016,2016-07-09,Western Pacific,Australia,51,50-59,Male,Current Smoker,12
+LC-0567,2023,2023-09-04,Africa,Ghana,60,60-69,Female,Never Smoked,0
+LC-0568,2022,2022-07-04,South-East Asia,Myanmar,66,60-69,Male,Never Smoked,0
+LC-0569,2024,2024-11-22,Europe,Sweden,64,60-69,Male,Never Smoked,0
+LC-0570,2015,2015-08-17,Western Pacific,Philippines,66,60-69,Male,Never Smoked,0
+LC-0571,2025,2025-01-08,Western Pacific,Malaysia,71,70-79,Male,Never Smoked,0
+LC-0572,2016,2016-10-02,Western Pacific,China,60,60-69,Female,Current Smoker,11
+LC-0573,2020,2020-04-10,Africa,Egypt,53,50-59,Male,Current Smoker,24
+LC-0574,2023,2023-03-25,Americas,Argentina,57,50-59,Female,Current Smoker,16
+LC-0575,2019,2019-05-11,Europe,Germany,63,60-69,Male,Never Smoked,0
+LC-0576,2024,2024-01-16,Africa,Tanzania,57,50-59,Female,Never Smoked,0
+LC-0577,2023,2023-03-05,Western Pacific,Malaysia,53,50-59,Female,Never Smoked,0
+LC-0578,2021,2021-09-23,Europe,Italy,53,50-59,Female,Current Smoker,19
+LC-0579,2025,2025-09-18,Europe,Russia,68,60-69,Male,Former Smoker,18
+LC-0580,2017,2017-02-13,Europe,UK,65,60-69,Male,Current Smoker,31
+LC-0581,2026,2026-04-01,Western Pacific,New Zealand,66,60-69,Male,Former Smoker,11
+LC-0582,2023,2023-02-28,Americas,Colombia,69,60-69,Female,Never Smoked,0
+LC-0583,2023,2023-10-14,Europe,Sweden,50,50-59,Male,Former Smoker,9
+LC-0584,2025,2025-07-23,Western Pacific,Malaysia,79,70-79,Male,Never Smoked,0
+LC-0585,2024,2024-05-04,Western Pacific,Malaysia,67,60-69,Male,Never Smoked,0
+LC-0586,2020,2020-01-11,Africa,Kenya,61,60-69,Female,Current Smoker,18
+LC-0587,2018,2018-10-15,Americas,Colombia,58,50-59,Female,Never Smoked,0
+LC-0588,2022,2022-02-14,Americas,Canada,69,60-69,Male,Former Smoker,24
+LC-0589,2024,2024-04-14,Western Pacific,Mongolia,66,60-69,Female,Current Smoker,16
+LC-0590,2017,2017-07-17,Africa,South Africa,49,40-49,Female,Never Smoked,0
+LC-0591,2017,2017-07-28,Western Pacific,Philippines,67,60-69,Male,Never Smoked,0
+LC-0592,2022,2022-12-11,Africa,Egypt,54,50-59,Female,Never Smoked,0
+LC-0593,2024,2024-06-25,Eastern Mediterranean,Saudi Arabia,54,50-59,Male,Never Smoked,0
+LC-0594,2023,2023-02-17,Americas,Canada,47,40-49,Male,Former Smoker,16
+LC-0595,2026,2026-05-17,South-East Asia,Thailand,47,40-49,Female,Never Smoked,0
+LC-0596,2025,2025-06-12,Eastern Mediterranean,Saudi Arabia,47,40-49,Female,Never Smoked,0
+LC-0597,2018,2018-04-04,South-East Asia,Indonesia,62,60-69,Male,Never Smoked,0
+LC-0598,2026,2026-03-07,Europe,France,41,40-49,Female,Never Smoked,0
+LC-0599,2016,2016-10-05,Western Pacific,Japan,50,50-59,Male,Former Smoker,24
+LC-0600,2019,2019-03-25,Americas,Peru,85,80-89,Male,Former Smoker,15
+LC-0601,2021,2021-08-25,Western Pacific,Mongolia,71,70-79,Male,Never Smoked,0
+LC-0602,2026,2026-07-08,Europe,Sweden,60,60-69,Female,Never Smoked,0
+LC-0603,2018,2018-11-21,Western Pacific,Mongolia,50,50-59,Male,Current Smoker,27
+LC-0604,2021,2021-06-28,Western Pacific,Vietnam,33,30-39,Male,Never Smoked,0
+LC-0605,2025,2025-03-15,Europe,Germany,62,60-69,Male,Former Smoker,7
+LC-0606,2021,2021-08-15,Europe,Spain,41,40-49,Female,Never Smoked,0
+LC-0607,2025,2025-05-19,Eastern Mediterranean,Pakistan,72,70-79,Male,Never Smoked,0
+LC-0608,2026,2026-03-17,Americas,Canada,56,50-59,Male,Current Smoker,6
+LC-0609,2016,2016-05-15,South-East Asia,Maldives,63,60-69,Male,Never Smoked,0
+LC-0610,2020,2020-01-02,Americas,Colombia,61,60-69,Female,Never Smoked,0
+LC-0611,2018,2018-05-03,South-East Asia,Bangladesh,55,50-59,Male,Never Smoked,0
+LC-0612,2022,2022-10-20,Americas,Cuba,62,60-69,Female,Never Smoked,0
+LC-0613,2024,2024-07-15,Americas,Venezuela,73,70-79,Male,Never Smoked,0
+LC-0614,2021,2021-09-26,Western Pacific,China,64,60-69,Male,Never Smoked,0
+LC-0615,2025,2025-08-26,Western Pacific,Mongolia,51,50-59,Male,Never Smoked,0
+LC-0616,2022,2022-11-07,Eastern Mediterranean,Jordan,68,60-69,Male,Former Smoker,3
+LC-0617,2026,2026-05-16,Americas,Cuba,60,60-69,Male,Never Smoked,0
+LC-0618,2020,2020-03-02,Western Pacific,New Zealand,64,60-69,Male,Current Smoker,33
+LC-0619,2019,2019-02-26,Eastern Mediterranean,Jordan,67,60-69,Male,Current Smoker,16
+LC-0620,2015,2015-12-03,Western Pacific,Singapore,60,60-69,Female,Former Smoker,25
+LC-0621,2021,2021-11-06,Europe,UK,63,60-69,Male,Current Smoker,38
+LC-0622,2016,2016-04-23,Eastern Mediterranean,Oman,59,50-59,Female,Never Smoked,0
+LC-0623,2019,2019-08-17,Americas,Cuba,80,80-89,Male,Never Smoked,0
+LC-0624,2018,2018-10-06,Europe,Russia,67,60-69,Male,Never Smoked,0
+LC-0625,2021,2021-06-10,Western Pacific,Malaysia,52,50-59,Male,Current Smoker,20
+LC-0626,2026,2026-04-25,Western Pacific,Vietnam,81,80-89,Male,Current Smoker,28
+LC-0627,2024,2024-11-20,Western Pacific,China,79,70-79,Female,Never Smoked,0
+LC-0628,2015,2015-11-21,Western Pacific,Vietnam,68,60-69,Female,Never Smoked,0
+LC-0629,2018,2018-02-11,Western Pacific,Japan,61,60-69,Male,Never Smoked,0
+LC-0630,2025,2025-09-22,Western Pacific,Malaysia,70,70-79,Female,Never Smoked,0
+LC-0631,2018,2018-05-09,South-East Asia,Bhutan,77,70-79,Male,Current Smoker,13
+LC-0632,2019,2019-03-11,Americas,Canada,77,70-79,Male,Never Smoked,0
+LC-0633,2019,2019-10-22,Western Pacific,South Korea,67,60-69,Female,Current Smoker,7
+LC-0634,2025,2025-06-10,Americas,Chile,49,40-49,Female,Never Smoked,0
+LC-0635,2022,2022-03-20,Americas,Canada,66,60-69,Female,Never Smoked,0
+LC-0636,2022,2022-05-18,Eastern Mediterranean,Lebanon,57,50-59,Male,Never Smoked,0
+LC-0637,2021,2021-11-26,Americas,Colombia,38,30-39,Female,Never Smoked,0
+LC-0638,2018,2018-03-22,Western Pacific,Singapore,54,50-59,Female,Never Smoked,0
+LC-0639,2024,2024-02-21,Americas,Chile,54,50-59,Female,Never Smoked,0
+LC-0640,2019,2019-09-12,Eastern Mediterranean,Pakistan,59,50-59,Female,Never Smoked,0
+LC-0641,2023,2023-06-10,Western Pacific,South Korea,70,70-79,Male,Former Smoker,16
+LC-0642,2023,2023-04-11,Western Pacific,New Zealand,41,40-49,Male,Never Smoked,0
+LC-0643,2024,2024-04-08,South-East Asia,Indonesia,77,70-79,Female,Former Smoker,25
+LC-0644,2026,2026-02-03,Western Pacific,Philippines,51,50-59,Female,Never Smoked,0
+LC-0645,2021,2021-02-17,Western Pacific,Singapore,64,60-69,Male,Current Smoker,48
+LC-0646,2016,2016-12-17,Eastern Mediterranean,Pakistan,53,50-59,Male,Never Smoked,0
+LC-0647,2018,2018-11-11,Eastern Mediterranean,Kuwait,64,60-69,Male,Current Smoker,21
+LC-0648,2016,2016-03-20,South-East Asia,Nepal,43,40-49,Female,Never Smoked,0
+LC-0649,2015,2015-03-06,Americas,Brazil,67,60-69,Male,Never Smoked,0
+LC-0650,2021,2021-12-25,Western Pacific,Mongolia,55,50-59,Male,Never Smoked,0
+LC-0651,2022,2022-03-24,Americas,Peru,74,70-79,Male,Never Smoked,0
+LC-0652,2018,2018-01-14,Europe,Russia,83,80-89,Female,Never Smoked,0
+LC-0653,2026,2026-06-24,Western Pacific,Australia,63,60-69,Male,Never Smoked,0
+LC-0654,2021,2021-08-20,Western Pacific,Philippines,60,60-69,Male,Never Smoked,0
+LC-0655,2022,2022-12-26,Western Pacific,New Zealand,68,60-69,Male,Never Smoked,0
+LC-0656,2024,2024-04-18,Western Pacific,Australia,55,50-59,Female,Current Smoker,39
+LC-0657,2024,2024-05-26,Eastern Mediterranean,Oman,69,60-69,Male,Never Smoked,0
+LC-0658,2023,2023-04-12,Eastern Mediterranean,Kuwait,51,50-59,Female,Never Smoked,0
+LC-0659,2025,2025-08-15,Eastern Mediterranean,Iraq,38,30-39,Male,Never Smoked,0
+LC-0660,2022,2022-07-17,South-East Asia,Timor-Leste,85,80-89,Male,Current Smoker,22
+LC-0661,2017,2017-07-06,Eastern Mediterranean,UAE,76,70-79,Male,Never Smoked,0
+LC-0662,2022,2022-10-05,South-East Asia,Myanmar,54,50-59,Male,Former Smoker,22
+LC-0663,2024,2024-01-21,Americas,Peru,48,40-49,Male,Current Smoker,15
+LC-0664,2022,2022-06-18,Eastern Mediterranean,Iran,64,60-69,Male,Never Smoked,0
+LC-0665,2022,2022-12-28,Eastern Mediterranean,Qatar,64,60-69,Male,Current Smoker,5
+LC-0666,2026,2026-07-02,South-East Asia,Myanmar,48,40-49,Male,Never Smoked,0
+LC-0667,2021,2021-02-25,South-East Asia,Indonesia,69,60-69,Male,Never Smoked,0
+LC-0668,2017,2017-05-15,Western Pacific,Singapore,49,40-49,Female,Never Smoked,0
+LC-0669,2025,2025-03-27,Europe,Turkey,48,40-49,Male,Former Smoker,18
+LC-0670,2023,2023-02-08,Eastern Mediterranean,Oman,78,70-79,Male,Never Smoked,0
+LC-0671,2020,2020-06-01,Eastern Mediterranean,Lebanon,61,60-69,Male,Never Smoked,0
+LC-0672,2021,2021-01-13,Western Pacific,Singapore,62,60-69,Female,Never Smoked,0
+LC-0673,2019,2019-06-08,South-East Asia,Nepal,51,50-59,Female,Never Smoked,0
+LC-0674,2015,2015-02-12,Western Pacific,Australia,67,60-69,Male,Former Smoker,3
+LC-0675,2022,2022-01-11,Western Pacific,Japan,56,50-59,Female,Never Smoked,0
+LC-0676,2021,2021-12-21,Europe,Russia,73,70-79,Female,Never Smoked,0
+LC-0677,2023,2023-03-05,Europe,UK,63,60-69,Female,Never Smoked,0
+LC-0678,2024,2024-05-27,Eastern Mediterranean,Oman,85,80-89,Male,Never Smoked,0
+LC-0679,2018,2018-12-27,South-East Asia,Indonesia,59,50-59,Male,Current Smoker,19
+LC-0680,2022,2022-12-16,Africa,Morocco,53,50-59,Male,Current Smoker,24
+LC-0681,2025,2025-10-01,Americas,Canada,65,60-69,Female,Never Smoked,0
+LC-0682,2019,2019-01-09,Africa,Egypt,62,60-69,Male,Never Smoked,0
+LC-0683,2017,2017-03-18,South-East Asia,Bhutan,65,60-69,Male,Never Smoked,0
+LC-0684,2025,2025-09-14,Eastern Mediterranean,Iran,75,70-79,Male,Former Smoker,13
+LC-0685,2025,2025-05-08,Europe,Spain,63,60-69,Male,Former Smoker,30
+LC-0686,2025,2025-02-02,Europe,Italy,58,50-59,Female,Never Smoked,0
+LC-0687,2020,2020-07-21,Europe,Sweden,77,70-79,Male,Never Smoked,0
+LC-0688,2018,2018-08-03,Eastern Mediterranean,Iran,60,60-69,Female,Never Smoked,0
+LC-0689,2016,2016-08-20,Europe,Netherlands,45,40-49,Female,Never Smoked,0
+LC-0690,2026,2026-01-21,Western Pacific,Singapore,47,40-49,Female,Never Smoked,0
+LC-0691,2017,2017-10-08,Eastern Mediterranean,Saudi Arabia,59,50-59,Male,Never Smoked,0
+LC-0692,2026,2026-03-14,Western Pacific,China,66,60-69,Female,Never Smoked,0
+LC-0693,2025,2025-10-12,Europe,Italy,52,50-59,Male,Current Smoker,26
+LC-0694,2024,2024-10-14,Africa,Kenya,70,70-79,Male,Never Smoked,0
+LC-0695,2024,2024-11-22,Americas,Canada,70,70-79,Male,Never Smoked,0
+LC-0696,2020,2020-09-12,Africa,South Africa,46,40-49,Female,Never Smoked,0
+LC-0697,2015,2015-09-18,Europe,Netherlands,51,50-59,Male,Current Smoker,31
+LC-0698,2025,2025-09-18,South-East Asia,India,63,60-69,Female,Never Smoked,0
+LC-0699,2021,2021-07-28,South-East Asia,Maldives,56,50-59,Male,Never Smoked,0
+LC-0700,2021,2021-01-21,Europe,Turkey,41,40-49,Female,Never Smoked,0
+LC-0701,2020,2020-06-09,Europe,UK,41,40-49,Female,Never Smoked,0
+LC-0702,2019,2019-06-26,Africa,South Africa,70,70-79,Female,Never Smoked,0
+LC-0703,2019,2019-06-08,Europe,Germany,44,40-49,Female,Never Smoked,0
+LC-0704,2025,2025-10-24,Americas,Colombia,56,50-59,Male,Never Smoked,0
+LC-0705,2024,2024-03-02,Western Pacific,Vietnam,61,60-69,Female,Never Smoked,0
+LC-0706,2026,2026-05-11,South-East Asia,Indonesia,74,70-79,Female,Former Smoker,12
+LC-0707,2024,2024-11-15,Africa,Morocco,70,70-79,Female,Never Smoked,0
+LC-0708,2018,2018-11-06,Western Pacific,South Korea,63,60-69,Female,Never Smoked,0
+LC-0709,2021,2021-02-23,Western Pacific,New Zealand,46,40-49,Male,Current Smoker,21
+LC-0710,2025,2025-01-10,Eastern Mediterranean,UAE,58,50-59,Female,Never Smoked,0
+LC-0711,2020,2020-01-26,Eastern Mediterranean,UAE,48,40-49,Female,Never Smoked,0
+LC-0712,2018,2018-01-11,Europe,Spain,75,70-79,Male,Current Smoker,43
+LC-0713,2019,2019-09-13,Europe,Netherlands,52,50-59,Female,Never Smoked,0
+LC-0714,2019,2019-08-09,Europe,UK,77,70-79,Female,Current Smoker,14
+LC-0715,2019,2019-11-07,Western Pacific,Philippines,58,50-59,Female,Current Smoker,21
+LC-0716,2026,2026-03-28,Western Pacific,China,75,70-79,Male,Current Smoker,18
+LC-0717,2017,2017-11-11,Western Pacific,Philippines,60,60-69,Female,Former Smoker,19
+LC-0718,2024,2024-02-26,Africa,Ghana,65,60-69,Male,Never Smoked,0
+LC-0719,2025,2025-07-13,South-East Asia,Maldives,58,50-59,Male,Current Smoker,28
+LC-0720,2018,2018-07-11,Europe,France,69,60-69,Male,Never Smoked,0
+LC-0721,2021,2021-08-23,Eastern Mediterranean,Oman,70,70-79,Male,Never Smoked,0
+LC-0722,2017,2017-06-26,Europe,Netherlands,51,50-59,Female,Never Smoked,0
+LC-0723,2021,2021-05-26,Western Pacific,Japan,46,40-49,Male,Current Smoker,24
+LC-0724,2026,2026-06-14,Americas,Canada,70,70-79,Female,Never Smoked,0
+LC-0725,2017,2017-07-20,Americas,Brazil,50,50-59,Male,Never Smoked,0
+LC-0726,2022,2022-09-10,South-East Asia,Sri Lanka,73,70-79,Male,Current Smoker,34
+LC-0727,2024,2024-02-03,Eastern Mediterranean,Jordan,58,50-59,Male,Never Smoked,0
+LC-0728,2020,2020-11-10,Europe,Spain,65,60-69,Male,Never Smoked,0
+LC-0729,2020,2020-08-20,Western Pacific,Malaysia,60,60-69,Male,Never Smoked,0
+LC-0730,2017,2017-03-23,Western Pacific,New Zealand,65,60-69,Male,Current Smoker,5
+LC-0731,2024,2024-06-15,Western Pacific,China,58,50-59,Male,Current Smoker,25
+LC-0732,2020,2020-12-28,Europe,Russia,65,60-69,Male,Current Smoker,28
+LC-0733,2018,2018-10-14,Americas,Argentina,75,70-79,Male,Current Smoker,38
+LC-0734,2016,2016-11-26,Europe,UK,64,60-69,Male,Current Smoker,31
+LC-0735,2023,2023-02-22,South-East Asia,Nepal,60,60-69,Male,Never Smoked,0
+LC-0736,2025,2025-06-17,Eastern Mediterranean,Saudi Arabia,41,40-49,Male,Current Smoker,42
+LC-0737,2025,2025-01-05,Europe,Sweden,66,60-69,Male,Never Smoked,0
+LC-0738,2015,2015-11-26,Europe,Poland,60,60-69,Female,Never Smoked,0
+LC-0739,2024,2024-01-05,Africa,South Africa,73,70-79,Male,Never Smoked,0
+LC-0740,2018,2018-04-25,Eastern Mediterranean,Jordan,51,50-59,Female,Never Smoked,0
+LC-0741,2024,2024-06-13,Europe,Sweden,52,50-59,Female,Former Smoker,18
+LC-0742,2022,2022-01-20,Americas,Brazil,64,60-69,Female,Never Smoked,0
+LC-0743,2025,2025-11-15,Europe,Russia,65,60-69,Female,Former Smoker,3
+LC-0744,2026,2026-03-15,Western Pacific,Japan,51,50-59,Male,Never Smoked,0
+LC-0745,2020,2020-10-05,Americas,Cuba,69,60-69,Male,Current Smoker,19
+LC-0746,2023,2023-06-13,Europe,Russia,40,40-49,Male,Never Smoked,0
+LC-0747,2021,2021-11-09,Americas,Mexico,59,50-59,Male,Current Smoker,22
+LC-0748,2018,2018-02-01,Eastern Mediterranean,Saudi Arabia,51,50-59,Female,Current Smoker,19
+LC-0749,2022,2022-08-17,Americas,Chile,56,50-59,Male,Never Smoked,0
+LC-0750,2026,2026-05-04,Europe,Spain,56,50-59,Male,Former Smoker,8
+LC-0751,2020,2020-05-23,Eastern Mediterranean,Oman,72,70-79,Male,Never Smoked,0
+LC-0752,2023,2023-04-20,Western Pacific,Philippines,54,50-59,Male,Never Smoked,0
+LC-0753,2023,2023-12-16,Eastern Mediterranean,UAE,60,60-69,Female,Never Smoked,0
+LC-0754,2021,2021-02-05,Europe,Germany,56,50-59,Male,Current Smoker,7
+LC-0755,2023,2023-08-06,Western Pacific,New Zealand,69,60-69,Female,Never Smoked,0
+LC-0756,2021,2021-02-26,Americas,Colombia,74,70-79,Male,Current Smoker,41
+LC-0757,2017,2017-11-12,South-East Asia,Bangladesh,44,40-49,Male,Never Smoked,0
+LC-0758,2025,2025-09-18,Europe,Spain,65,60-69,Male,Current Smoker,13
+LC-0759,2023,2023-05-28,South-East Asia,Indonesia,47,40-49,Female,Never Smoked,0
+LC-0760,2021,2021-12-23,Western Pacific,South Korea,77,70-79,Male,Never Smoked,0
+LC-0761,2023,2023-06-17,Western Pacific,Australia,66,60-69,Male,Never Smoked,0
+LC-0762,2016,2016-02-07,Eastern Mediterranean,Saudi Arabia,60,60-69,Female,Never Smoked,0
+LC-0763,2025,2025-04-26,Americas,Peru,64,60-69,Male,Never Smoked,0
+LC-0764,2025,2025-01-12,Eastern Mediterranean,Qatar,65,60-69,Male,Never Smoked,0
+LC-0765,2019,2019-10-12,Eastern Mediterranean,Oman,41,40-49,Male,Never Smoked,0
+LC-0766,2020,2020-09-05,Europe,Sweden,72,70-79,Male,Former Smoker,25
+LC-0767,2018,2018-02-03,Europe,Spain,47,40-49,Female,Never Smoked,0
+LC-0768,2024,2024-07-23,Europe,Poland,60,60-69,Male,Never Smoked,0
+LC-0769,2024,2024-09-14,Western Pacific,Malaysia,83,80-89,Male,Never Smoked,0
+LC-0770,2025,2025-10-03,Americas,Brazil,47,40-49,Female,Never Smoked,0
+LC-0771,2023,2023-06-21,Europe,Germany,71,70-79,Male,Never Smoked,0
+LC-0772,2023,2023-08-15,Europe,Netherlands,47,40-49,Male,Current Smoker,37
+LC-0773,2024,2024-06-05,Europe,Netherlands,75,70-79,Male,Current Smoker,10
+LC-0774,2024,2024-11-19,Western Pacific,South Korea,63,60-69,Male,Never Smoked,0
+LC-0775,2022,2022-03-14,Americas,Cuba,62,60-69,Male,Never Smoked,0
+LC-0776,2024,2024-01-27,Americas,Canada,62,60-69,Male,Current Smoker,18
+LC-0777,2016,2016-09-05,South-East Asia,Myanmar,56,50-59,Male,Never Smoked,0
+LC-0778,2017,2017-03-06,Europe,Russia,61,60-69,Male,Current Smoker,5
+LC-0779,2018,2018-12-08,South-East Asia,Sri Lanka,49,40-49,Female,Never Smoked,0
+LC-0780,2019,2019-09-10,Eastern Mediterranean,Iran,47,40-49,Male,Current Smoker,16
+LC-0781,2019,2019-05-07,Europe,Netherlands,57,50-59,Male,Never Smoked,0
+LC-0782,2023,2023-05-05,Western Pacific,Philippines,81,80-89,Male,Current Smoker,9
+LC-0783,2024,2024-10-18,Africa,South Africa,67,60-69,Male,Never Smoked,0
+LC-0784,2025,2025-09-21,Eastern Mediterranean,Saudi Arabia,72,70-79,Male,Never Smoked,0
+LC-0785,2021,2021-10-19,Western Pacific,South Korea,66,60-69,Female,Current Smoker,30
+LC-0786,2025,2025-03-22,South-East Asia,Bhutan,52,50-59,Female,Never Smoked,0
+LC-0787,2023,2023-12-20,Western Pacific,Vietnam,68,60-69,Male,Current Smoker,25
+LC-0788,2026,2026-07-01,South-East Asia,India,56,50-59,Female,Never Smoked,0
+LC-0789,2022,2022-02-02,Western Pacific,Mongolia,67,60-69,Male,Current Smoker,18
+LC-0790,2025,2025-05-21,Western Pacific,Australia,67,60-69,Male,Current Smoker,20
+LC-0791,2022,2022-10-14,Africa,Uganda,73,70-79,Male,Never Smoked,0
+LC-0792,2020,2020-11-01,South-East Asia,Maldives,46,40-49,Female,Never Smoked,0
+LC-0793,2019,2019-11-18,Americas,Argentina,64,60-69,Male,Former Smoker,11
+LC-0794,2022,2022-11-10,Europe,Poland,60,60-69,Female,Former Smoker,12
+LC-0795,2021,2021-04-26,Western Pacific,Malaysia,70,70-79,Male,Never Smoked,0
+LC-0796,2016,2016-05-15,Americas,Canada,58,50-59,Male,Never Smoked,0
+LC-0797,2018,2018-12-02,Europe,France,54,50-59,Female,Never Smoked,0
+LC-0798,2015,2015-08-14,Africa,Morocco,63,60-69,Male,Never Smoked,0
+LC-0799,2022,2022-08-07,South-East Asia,Sri Lanka,73,70-79,Male,Never Smoked,0
+LC-0800,2024,2024-10-05,Americas,Colombia,59,50-59,Male,Never Smoked,0
+LC-0801,2016,2016-12-11,Europe,Russia,52,50-59,Male,Never Smoked,0
+LC-0802,2017,2017-07-05,Eastern Mediterranean,Jordan,61,60-69,Male,Never Smoked,0
+LC-0803,2023,2023-09-18,Western Pacific,Japan,42,40-49,Male,Never Smoked,0
+LC-0804,2021,2021-06-08,Europe,Poland,56,50-59,Female,Never Smoked,0
+LC-0805,2026,2026-01-09,Western Pacific,New Zealand,70,70-79,Female,Never Smoked,0
+LC-0806,2019,2019-04-05,South-East Asia,Bangladesh,59,50-59,Male,Never Smoked,0
+LC-0807,2018,2018-01-10,Western Pacific,Malaysia,61,60-69,Female,Never Smoked,0
+LC-0808,2023,2023-10-14,Africa,Egypt,56,50-59,Male,Never Smoked,0
+LC-0809,2019,2019-03-27,Eastern Mediterranean,Jordan,48,40-49,Female,Current Smoker,41
+LC-0810,2016,2016-10-24,Western Pacific,Vietnam,83,80-89,Female,Never Smoked,0
+LC-0811,2026,2026-02-25,Americas,Brazil,62,60-69,Male,Never Smoked,0
+LC-0812,2024,2024-08-17,Africa,Morocco,71,70-79,Male,Current Smoker,32
+LC-0813,2025,2025-08-10,Americas,Peru,70,70-79,Male,Never Smoked,0
+LC-0814,2020,2020-01-03,Western Pacific,Malaysia,72,70-79,Male,Current Smoker,39
+LC-0815,2017,2017-09-15,Americas,Mexico,54,50-59,Male,Never Smoked,0
+LC-0816,2024,2024-04-19,Americas,Colombia,76,70-79,Female,Never Smoked,0
+LC-0817,2018,2018-01-02,Western Pacific,Philippines,68,60-69,Male,Never Smoked,0
+LC-0818,2017,2017-08-20,Western Pacific,New Zealand,49,40-49,Female,Never Smoked,0
+LC-0819,2017,2017-05-18,South-East Asia,India,62,60-69,Female,Never Smoked,0
+LC-0820,2019,2019-02-14,Europe,France,83,80-89,Male,Current Smoker,5
+LC-0821,2021,2021-05-24,Eastern Mediterranean,Jordan,51,50-59,Female,Never Smoked,0
+LC-0822,2023,2023-07-12,Western Pacific,China,72,70-79,Male,Former Smoker,20
+LC-0823,2016,2016-07-02,Americas,Venezuela,51,50-59,Female,Former Smoker,5
+LC-0824,2020,2020-09-07,Africa,Ghana,70,70-79,Female,Current Smoker,27
+LC-0825,2020,2020-09-10,Western Pacific,Japan,47,40-49,Female,Never Smoked,0
+LC-0826,2021,2021-07-17,Americas,Peru,49,40-49,Male,Never Smoked,0
+LC-0827,2021,2021-09-09,Europe,Sweden,62,60-69,Female,Never Smoked,0
+LC-0828,2018,2018-11-20,Western Pacific,Japan,55,50-59,Male,Never Smoked,0
+LC-0829,2023,2023-03-04,Africa,Tanzania,57,50-59,Male,Never Smoked,0
+LC-0830,2020,2020-06-26,Americas,Colombia,61,60-69,Male,Never Smoked,0
+LC-0831,2015,2015-09-12,Western Pacific,South Korea,56,50-59,Male,Current Smoker,22
+LC-0832,2024,2024-04-20,Africa,Algeria,47,40-49,Male,Current Smoker,13
+LC-0833,2022,2022-07-17,Americas,USA,47,40-49,Female,Never Smoked,0
+LC-0834,2017,2017-01-02,South-East Asia,Indonesia,59,50-59,Male,Current Smoker,28
+LC-0835,2022,2022-12-11,Americas,Peru,58,50-59,Male,Never Smoked,0
+LC-0836,2024,2024-09-15,Europe,France,72,70-79,Male,Former Smoker,14
+LC-0837,2019,2019-10-17,Western Pacific,South Korea,69,60-69,Male,Never Smoked,0
+LC-0838,2017,2017-06-20,Eastern Mediterranean,Jordan,59,50-59,Female,Never Smoked,0
+LC-0839,2021,2021-03-13,South-East Asia,Bhutan,70,70-79,Male,Never Smoked,0
+LC-0840,2016,2016-12-27,South-East Asia,Myanmar,43,40-49,Female,Never Smoked,0
+LC-0841,2020,2020-10-11,South-East Asia,Timor-Leste,75,70-79,Female,Never Smoked,0
+LC-0842,2024,2024-09-18,Americas,Peru,57,50-59,Male,Current Smoker,37
+LC-0843,2019,2019-12-19,Americas,Argentina,71,70-79,Male,Current Smoker,19
+LC-0844,2015,2015-08-27,Americas,USA,41,40-49,Female,Never Smoked,0
+LC-0845,2024,2024-06-11,Europe,Germany,58,50-59,Male,Never Smoked,0
+LC-0846,2022,2022-07-19,Western Pacific,Philippines,82,80-89,Male,Current Smoker,26
+LC-0847,2019,2019-12-28,Europe,UK,54,50-59,Male,Never Smoked,0
+LC-0848,2026,2026-05-16,Western Pacific,Philippines,70,70-79,Male,Current Smoker,26
+LC-0849,2024,2024-11-26,South-East Asia,Bhutan,64,60-69,Female,Never Smoked,0
+LC-0850,2021,2021-10-08,Americas,USA,67,60-69,Male,Former Smoker,20
+LC-0851,2019,2019-10-16,Western Pacific,South Korea,59,50-59,Male,Current Smoker,18
+LC-0852,2018,2018-09-21,Europe,Sweden,71,70-79,Female,Current Smoker,25
+LC-0853,2022,2022-07-05,Americas,Mexico,66,60-69,Male,Current Smoker,46
+LC-0854,2024,2024-01-19,Western Pacific,Japan,69,60-69,Male,Current Smoker,30
+LC-0855,2023,2023-04-01,Western Pacific,New Zealand,62,60-69,Female,Never Smoked,0
+LC-0856,2016,2016-06-14,Western Pacific,South Korea,63,60-69,Female,Never Smoked,0
+LC-0857,2023,2023-07-23,Eastern Mediterranean,UAE,51,50-59,Female,Never Smoked,0
+LC-0858,2024,2024-07-17,Europe,Sweden,47,40-49,Female,Never Smoked,0
+LC-0859,2023,2023-08-28,Americas,USA,67,60-69,Female,Never Smoked,0
+LC-0860,2016,2016-12-05,South-East Asia,Timor-Leste,62,60-69,Male,Never Smoked,0
+LC-0861,2022,2022-04-18,Western Pacific,Vietnam,66,60-69,Male,Never Smoked,0
+LC-0862,2023,2023-11-16,Western Pacific,Singapore,50,50-59,Female,Current Smoker,14
+LC-0863,2024,2024-07-11,South-East Asia,Indonesia,38,30-39,Female,Never Smoked,0
+LC-0864,2022,2022-08-18,South-East Asia,Sri Lanka,76,70-79,Male,Never Smoked,0
+LC-0865,2018,2018-09-12,Western Pacific,Philippines,67,60-69,Male,Former Smoker,11
+LC-0866,2017,2017-10-16,Europe,Italy,64,60-69,Male,Never Smoked,0
+LC-0867,2020,2020-04-09,Europe,Netherlands,63,60-69,Male,Former Smoker,12
+LC-0868,2023,2023-05-08,Americas,Argentina,49,40-49,Male,Former Smoker,18
+LC-0869,2025,2025-05-23,Americas,Mexico,54,50-59,Male,Never Smoked,0
+LC-0870,2019,2019-12-23,Western Pacific,New Zealand,50,50-59,Male,Never Smoked,0
+LC-0871,2020,2020-06-16,Eastern Mediterranean,Jordan,60,60-69,Female,Never Smoked,0
+LC-0872,2026,2026-05-26,Eastern Mediterranean,Iraq,62,60-69,Male,Current Smoker,13
+LC-0873,2026,2026-03-04,Europe,Sweden,73,70-79,Male,Former Smoker,16
+LC-0874,2017,2017-11-18,Europe,Turkey,51,50-59,Male,Never Smoked,0
+LC-0875,2024,2024-07-27,Western Pacific,Vietnam,63,60-69,Male,Never Smoked,0
+LC-0876,2022,2022-03-10,Europe,UK,63,60-69,Male,Never Smoked,0
+LC-0877,2020,2020-05-23,Americas,Canada,57,50-59,Female,Never Smoked,0
+LC-0878,2024,2024-06-15,South-East Asia,Myanmar,65,60-69,Female,Former Smoker,12
+LC-0879,2016,2016-12-16,Europe,Italy,71,70-79,Female,Never Smoked,0
+LC-0880,2024,2024-04-27,Western Pacific,Singapore,59,50-59,Female,Current Smoker,15
+LC-0881,2022,2022-05-18,South-East Asia,Myanmar,56,50-59,Female,Never Smoked,0
+LC-0882,2024,2024-03-04,Europe,Sweden,63,60-69,Female,Never Smoked,0
+LC-0883,2024,2024-12-19,Europe,Italy,37,30-39,Female,Never Smoked,0
+LC-0884,2025,2025-04-02,Americas,Cuba,57,50-59,Male,Never Smoked,0
+LC-0885,2026,2026-02-21,Europe,Italy,60,60-69,Female,Never Smoked,0
+LC-0886,2021,2021-01-04,South-East Asia,Nepal,61,60-69,Female,Never Smoked,0
+LC-0887,2018,2018-06-23,Americas,Peru,42,40-49,Female,Never Smoked,0
+LC-0888,2026,2026-01-22,Europe,France,53,50-59,Male,Never Smoked,0
+LC-0889,2018,2018-01-18,Americas,Brazil,62,60-69,Female,Never Smoked,0
+LC-0890,2026,2026-04-21,Americas,Peru,76,70-79,Male,Never Smoked,0
+LC-0891,2015,2015-08-21,Americas,Mexico,79,70-79,Male,Current Smoker,12
+LC-0892,2017,2017-05-11,Europe,Spain,79,70-79,Male,Current Smoker,29
+LC-0893,2021,2021-11-02,Europe,Germany,46,40-49,Male,Current Smoker,25
+LC-0894,2024,2024-11-19,Western Pacific,Australia,51,50-59,Male,Never Smoked,0
+LC-0895,2025,2025-09-24,Western Pacific,China,38,30-39,Female,Never Smoked,0
+LC-0896,2015,2015-03-14,South-East Asia,Indonesia,59,50-59,Female,Never Smoked,0
+LC-0897,2015,2015-01-27,Europe,Turkey,70,70-79,Male,Current Smoker,12
+LC-0898,2024,2024-08-06,Americas,Argentina,72,70-79,Male,Never Smoked,0
+LC-0899,2016,2016-01-01,Europe,Spain,65,60-69,Female,Current Smoker,29
+LC-0900,2015,2015-10-20,Europe,Germany,59,50-59,Male,Current Smoker,25
+LC-0901,2017,2017-06-10,Western Pacific,New Zealand,67,60-69,Female,Never Smoked,0
+LC-0902,2023,2023-11-18,Europe,Netherlands,45,40-49,Female,Never Smoked,0
+LC-0903,2016,2016-08-05,Western Pacific,Singapore,77,70-79,Male,Never Smoked,0
+LC-0904,2019,2019-08-09,Western Pacific,Australia,64,60-69,Male,Never Smoked,0
+LC-0905,2025,2025-02-11,Americas,Brazil,48,40-49,Female,Never Smoked,0
+LC-0906,2025,2025-12-15,Western Pacific,Philippines,88,80-89,Male,Never Smoked,0
+LC-0907,2016,2016-12-06,Western Pacific,China,56,50-59,Male,Current Smoker,5
+LC-0908,2017,2017-12-11,Western Pacific,Philippines,82,80-89,Male,Current Smoker,23
+LC-0909,2020,2020-10-22,Africa,Egypt,48,40-49,Female,Current Smoker,33
+LC-0910,2021,2021-03-20,Western Pacific,Malaysia,58,50-59,Male,Current Smoker,16
+LC-0911,2019,2019-07-17,Eastern Mediterranean,Jordan,68,60-69,Female,Never Smoked,0
+LC-0912,2025,2025-02-13,Western Pacific,Japan,65,60-69,Female,Current Smoker,22
+LC-0913,2025,2025-03-05,Western Pacific,New Zealand,57,50-59,Male,Never Smoked,0
+LC-0914,2024,2024-06-08,Americas,USA,73,70-79,Male,Current Smoker,44
+LC-0915,2025,2025-05-13,Western Pacific,Australia,66,60-69,Male,Never Smoked,0
+LC-0916,2018,2018-08-25,Western Pacific,Philippines,43,40-49,Female,Never Smoked,0
+LC-0917,2021,2021-06-10,Western Pacific,Mongolia,57,50-59,Male,Never Smoked,0
+LC-0918,2020,2020-12-19,Western Pacific,China,65,60-69,Female,Never Smoked,0
+LC-0919,2024,2024-05-21,Europe,Russia,67,60-69,Female,Never Smoked,0
+LC-0920,2024,2024-12-08,Western Pacific,China,66,60-69,Female,Never Smoked,0
+LC-0921,2024,2024-11-04,Eastern Mediterranean,Oman,58,50-59,Female,Never Smoked,0
+LC-0922,2017,2017-05-06,Western Pacific,Malaysia,54,50-59,Female,Current Smoker,35
+LC-0923,2020,2020-11-17,Western Pacific,Philippines,84,80-89,Male,Current Smoker,28
+LC-0924,2022,2022-12-04,Americas,Argentina,89,80-89,Male,Never Smoked,0
+LC-0925,2022,2022-06-20,South-East Asia,Thailand,71,70-79,Male,Never Smoked,0
+LC-0926,2026,2026-02-05,Western Pacific,New Zealand,70,70-79,Male,Current Smoker,5
+LC-0927,2026,2026-02-15,Eastern Mediterranean,Kuwait,63,60-69,Female,Former Smoker,10
+LC-0928,2025,2025-06-14,Western Pacific,Singapore,53,50-59,Female,Never Smoked,0
+LC-0929,2020,2020-08-25,Western Pacific,Singapore,70,70-79,Male,Current Smoker,15
+LC-0930,2017,2017-11-27,Europe,Italy,76,70-79,Female,Current Smoker,33
+LC-0931,2020,2020-04-22,Americas,Venezuela,71,70-79,Male,Former Smoker,29
+LC-0932,2024,2024-02-17,Europe,Poland,59,50-59,Female,Former Smoker,26
+LC-0933,2025,2025-09-23,Western Pacific,Vietnam,63,60-69,Male,Current Smoker,25
+LC-0934,2023,2023-02-19,Western Pacific,Japan,63,60-69,Female,Never Smoked,0
+LC-0935,2025,2025-01-27,Americas,Cuba,63,60-69,Male,Never Smoked,0
+LC-0936,2022,2022-09-07,Western Pacific,Mongolia,63,60-69,Male,Never Smoked,0
+LC-0937,2023,2023-09-05,Africa,Kenya,53,50-59,Female,Never Smoked,0
+LC-0938,2016,2016-06-28,Americas,Cuba,67,60-69,Female,Current Smoker,31
+LC-0939,2022,2022-08-04,Americas,Mexico,65,60-69,Male,Never Smoked,0
+LC-0940,2017,2017-12-19,Americas,Peru,59,50-59,Male,Never Smoked,0
+LC-0941,2026,2026-01-17,Western Pacific,New Zealand,61,60-69,Female,Former Smoker,22
+LC-0942,2023,2023-01-15,Americas,Brazil,69,60-69,Male,Never Smoked,0
+LC-0943,2022,2022-09-14,Western Pacific,New Zealand,62,60-69,Male,Never Smoked,0
+LC-0944,2021,2021-10-02,Europe,Netherlands,47,40-49,Male,Never Smoked,0
+LC-0945,2024,2024-08-22,Europe,Spain,49,40-49,Female,Never Smoked,0
+LC-0946,2015,2015-12-01,Americas,Chile,57,50-59,Female,Never Smoked,0
+LC-0947,2019,2019-05-27,Western Pacific,China,65,60-69,Male,Current Smoker,8
+LC-0948,2025,2025-12-07,Western Pacific,Mongolia,54,50-59,Female,Never Smoked,0
+LC-0949,2024,2024-02-02,Western Pacific,Malaysia,61,60-69,Male,Current Smoker,38
+LC-0950,2016,2016-06-23,Western Pacific,Japan,60,60-69,Male,Never Smoked,0
+LC-0951,2017,2017-09-02,Europe,Germany,67,60-69,Female,Never Smoked,0
+LC-0952,2026,2026-04-02,South-East Asia,Myanmar,75,70-79,Male,Never Smoked,0
+LC-0953,2020,2020-07-06,Western Pacific,South Korea,74,70-79,Female,Never Smoked,0
+LC-0954,2016,2016-11-24,Americas,Chile,57,50-59,Male,Never Smoked,0
+LC-0955,2022,2022-06-13,Western Pacific,New Zealand,47,40-49,Female,Current Smoker,21
+LC-0956,2024,2024-07-13,South-East Asia,Bangladesh,64,60-69,Male,Never Smoked,0
+LC-0957,2019,2019-11-22,Western Pacific,Singapore,40,40-49,Female,Current Smoker,25
+LC-0958,2019,2019-03-21,South-East Asia,Sri Lanka,70,70-79,Male,Never Smoked,0
+LC-0959,2023,2023-02-06,Europe,Netherlands,72,70-79,Male,Never Smoked,0
+LC-0960,2026,2026-04-17,South-East Asia,Indonesia,54,50-59,Female,Never Smoked,0
+LC-0961,2025,2025-12-08,Eastern Mediterranean,Pakistan,63,60-69,Female,Never Smoked,0
+LC-0962,2026,2026-07-01,Eastern Mediterranean,Iraq,73,70-79,Male,Never Smoked,0
+LC-0963,2019,2019-08-22,Western Pacific,Singapore,67,60-69,Male,Current Smoker,30
+LC-0964,2023,2023-07-18,Europe,Turkey,63,60-69,Male,Current Smoker,24
+LC-0965,2023,2023-04-08,South-East Asia,Maldives,63,60-69,Male,Current Smoker,21
+LC-0966,2020,2020-06-05,Americas,Argentina,54,50-59,Female,Never Smoked,0
+LC-0967,2021,2021-04-24,South-East Asia,Bangladesh,62,60-69,Male,Never Smoked,0
+LC-0968,2023,2023-01-26,Western Pacific,Malaysia,73,70-79,Male,Never Smoked,0
+LC-0969,2023,2023-10-25,Western Pacific,China,60,60-69,Male,Never Smoked,0
+LC-0970,2026,2026-02-07,Europe,Germany,53,50-59,Male,Current Smoker,28
+LC-0971,2019,2019-02-20,Americas,USA,53,50-59,Male,Never Smoked,0
+LC-0972,2023,2023-08-20,Americas,USA,61,60-69,Female,Never Smoked,0
+LC-0973,2025,2025-04-24,Western Pacific,China,69,60-69,Male,Former Smoker,12
+LC-0974,2024,2024-07-15,South-East Asia,Thailand,59,50-59,Male,Never Smoked,0
+LC-0975,2024,2024-09-07,Western Pacific,China,59,50-59,Male,Never Smoked,0
+LC-0976,2025,2025-03-17,Eastern Mediterranean,Iraq,54,50-59,Female,Never Smoked,0
+LC-0977,2017,2017-04-27,Americas,Venezuela,72,70-79,Male,Never Smoked,0
+LC-0978,2023,2023-06-19,Africa,Uganda,72,70-79,Male,Current Smoker,37
+LC-0979,2022,2022-11-27,Eastern Mediterranean,Jordan,51,50-59,Male,Never Smoked,0
+LC-0980,2026,2026-02-10,Africa,Kenya,61,60-69,Male,Never Smoked,0
+LC-0981,2021,2021-11-17,Western Pacific,Australia,69,60-69,Male,Never Smoked,0
+LC-0982,2023,2023-07-10,Western Pacific,Philippines,63,60-69,Female,Never Smoked,0
+LC-0983,2023,2023-01-18,Western Pacific,Mongolia,61,60-69,Female,Never Smoked,0
+LC-0984,2025,2025-12-06,Western Pacific,Malaysia,55,50-59,Female,Never Smoked,0
+LC-0985,2017,2017-09-16,Western Pacific,China,47,40-49,Female,Former Smoker,5
+LC-0986,2016,2016-06-21,South-East Asia,Nepal,64,60-69,Female,Never Smoked,0
+LC-0987,2023,2023-09-11,Europe,Turkey,53,50-59,Female,Never Smoked,0
+LC-0988,2020,2020-07-05,South-East Asia,Myanmar,74,70-79,Male,Former Smoker,10
+LC-0989,2022,2022-07-06,South-East Asia,Timor-Leste,53,50-59,Female,Former Smoker,24
+LC-0990,2017,2017-08-08,Western Pacific,Australia,45,40-49,Female,Never Smoked,0
+LC-0991,2020,2020-05-28,Western Pacific,South Korea,60,60-69,Female,Never Smoked,0
+LC-0992,2026,2026-07-08,Western Pacific,China,60,60-69,Male,Never Smoked,0
+LC-0993,2023,2023-09-14,Eastern Mediterranean,Lebanon,65,60-69,Male,Never Smoked,0
+LC-0994,2021,2021-09-17,Western Pacific,South Korea,63,60-69,Male,Current Smoker,33
+LC-0995,2022,2022-07-08,South-East Asia,Myanmar,49,40-49,Female,Never Smoked,0
+LC-0996,2022,2022-04-11,South-East Asia,Bangladesh,78,70-79,Male,Never Smoked,0
+LC-0997,2020,2020-08-28,South-East Asia,Sri Lanka,56,50-59,Female,Never Smoked,0
+LC-0998,2023,2023-02-18,Western Pacific,Australia,62,60-69,Female,Never Smoked,0
+LC-0999,2026,2026-01-09,Africa,Tanzania,54,50-59,Female,Never Smoked,0
+LC-1000,2018,2018-11-20,Europe,Sweden,62,60-69,Male,Never Smoked,0
+LC-1001,2023,2023-01-28,Africa,South Africa,76,70-79,Female,Never Smoked,0
+LC-1002,2025,2025-04-26,South-East Asia,Bhutan,62,60-69,Male,Current Smoker,10
+LC-1003,2024,2024-12-22,Europe,Netherlands,75,70-79,Male,Current Smoker,5
+LC-1004,2015,2015-04-16,South-East Asia,Thailand,75,70-79,Male,Never Smoked,0
+LC-1005,2022,2022-06-10,Eastern Mediterranean,Pakistan,67,60-69,Male,Never Smoked,0
+LC-1006,2026,2026-02-07,South-East Asia,Bangladesh,65,60-69,Male,Never Smoked,0
+LC-1007,2016,2016-12-25,Americas,Peru,55,50-59,Male,Current Smoker,25
+LC-1008,2026,2026-02-23,Western Pacific,Mongolia,60,60-69,Male,Never Smoked,0
+LC-1009,2026,2026-06-07,Europe,Turkey,52,50-59,Female,Never Smoked,0
+LC-1010,2018,2018-04-18,Europe,Russia,39,30-39,Female,Never Smoked,0
+LC-1011,2022,2022-05-13,Western Pacific,New Zealand,57,50-59,Female,Never Smoked,0
+LC-1012,2021,2021-09-21,Western Pacific,Vietnam,59,50-59,Female,Never Smoked,0
+LC-1013,2025,2025-05-09,Eastern Mediterranean,Jordan,63,60-69,Male,Never Smoked,0
+LC-1014,2022,2022-09-16,South-East Asia,Maldives,65,60-69,Male,Never Smoked,0
+LC-1015,2024,2024-02-26,Eastern Mediterranean,Oman,59,50-59,Female,Never Smoked,0
+LC-1016,2016,2016-06-07,Africa,Ghana,66,60-69,Male,Never Smoked,0
+LC-1017,2026,2026-03-14,Western Pacific,China,74,70-79,Male,Never Smoked,0
+LC-1018,2026,2026-05-28,Europe,Italy,61,60-69,Male,Never Smoked,0
+LC-1019,2016,2016-12-05,Americas,USA,40,40-49,Male,Never Smoked,0
+LC-1020,2018,2018-05-18,Africa,Uganda,55,50-59,Female,Current Smoker,24
+LC-1021,2019,2019-10-24,Western Pacific,Malaysia,52,50-59,Female,Current Smoker,35
+LC-1022,2023,2023-05-05,Western Pacific,Australia,65,60-69,Male,Never Smoked,0
+LC-1023,2024,2024-06-08,Eastern Mediterranean,Lebanon,60,60-69,Male,Never Smoked,0
+LC-1024,2026,2026-05-27,Americas,Mexico,67,60-69,Male,Current Smoker,16
+LC-1025,2018,2018-08-18,Americas,Colombia,84,80-89,Female,Never Smoked,0
+LC-1026,2016,2016-05-25,Europe,Poland,58,50-59,Female,Former Smoker,21
+LC-1027,2026,2026-06-21,Europe,Poland,65,60-69,Female,Never Smoked,0
+LC-1028,2016,2016-08-06,Europe,Russia,52,50-59,Female,Never Smoked,0
+LC-1029,2017,2017-03-05,South-East Asia,Timor-Leste,59,50-59,Female,Never Smoked,0
+LC-1030,2023,2023-08-06,Western Pacific,Singapore,55,50-59,Male,Never Smoked,0
+LC-1031,2024,2024-11-02,South-East Asia,Timor-Leste,61,60-69,Female,Never Smoked,0
+LC-1032,2021,2021-01-27,South-East Asia,Bangladesh,73,70-79,Male,Never Smoked,0
+LC-1033,2017,2017-11-02,Western Pacific,China,63,60-69,Male,Never Smoked,0
+LC-1034,2018,2018-07-05,South-East Asia,Thailand,81,80-89,Male,Never Smoked,0
+LC-1035,2025,2025-02-23,Europe,France,54,50-59,Male,Never Smoked,0
+LC-1036,2026,2026-01-07,Americas,Cuba,51,50-59,Female,Never Smoked,0
+LC-1037,2019,2019-08-12,Americas,USA,68,60-69,Male,Never Smoked,0
+LC-1038,2025,2025-10-21,Western Pacific,Mongolia,49,40-49,Female,Former Smoker,14
+LC-1039,2022,2022-08-22,Western Pacific,New Zealand,60,60-69,Male,Never Smoked,0
+LC-1040,2022,2022-01-01,Eastern Mediterranean,Qatar,30,30-39,Male,Never Smoked,0
+LC-1041,2018,2018-09-14,Western Pacific,China,51,50-59,Male,Current Smoker,28
+LC-1042,2025,2025-01-17,Americas,Argentina,56,50-59,Male,Current Smoker,16
+LC-1043,2021,2021-09-10,Africa,Nigeria,62,60-69,Male,Never Smoked,0
+LC-1044,2025,2025-09-27,Eastern Mediterranean,Lebanon,52,50-59,Male,Current Smoker,35
+LC-1045,2016,2016-03-04,Western Pacific,Japan,59,50-59,Female,Never Smoked,0
+LC-1046,2019,2019-09-05,South-East Asia,Thailand,64,60-69,Male,Never Smoked,0
+LC-1047,2023,2023-04-20,South-East Asia,Timor-Leste,53,50-59,Female,Never Smoked,0
+LC-1048,2022,2022-05-27,Europe,Russia,62,60-69,Female,Never Smoked,0
+LC-1049,2023,2023-05-26,Americas,Chile,66,60-69,Male,Never Smoked,0
+LC-1050,2017,2017-02-12,Eastern Mediterranean,Lebanon,55,50-59,Male,Never Smoked,0
+LC-1051,2015,2015-08-19,Americas,Mexico,59,50-59,Female,Never Smoked,0
+LC-1052,2016,2016-12-08,Western Pacific,Philippines,76,70-79,Female,Never Smoked,0
+LC-1053,2018,2018-11-27,Eastern Mediterranean,Iran,69,60-69,Male,Never Smoked,0
+LC-1054,2018,2018-11-28,Europe,UK,58,50-59,Male,Never Smoked,0
+LC-1055,2023,2023-02-13,Western Pacific,Malaysia,63,60-69,Female,Current Smoker,9
+LC-1056,2025,2025-07-18,Western Pacific,New Zealand,47,40-49,Female,Current Smoker,27
+LC-1057,2023,2023-01-21,Americas,USA,54,50-59,Female,Never Smoked,0
+LC-1058,2019,2019-12-06,Americas,Canada,60,60-69,Male,Never Smoked,0
+LC-1059,2023,2023-08-28,Americas,Chile,61,60-69,Male,Former Smoker,16
+LC-1060,2020,2020-11-26,Western Pacific,Vietnam,55,50-59,Male,Current Smoker,21
+LC-1061,2019,2019-10-28,Americas,Canada,54,50-59,Female,Never Smoked,0
+LC-1062,2016,2016-09-02,Europe,Italy,78,70-79,Male,Current Smoker,27
+LC-1063,2019,2019-04-28,Europe,Sweden,57,50-59,Male,Current Smoker,22
+LC-1064,2025,2025-08-09,Western Pacific,China,64,60-69,Male,Never Smoked,0
+LC-1065,2021,2021-02-22,Western Pacific,Philippines,60,60-69,Female,Never Smoked,0
+LC-1066,2019,2019-09-19,Western Pacific,China,49,40-49,Female,Former Smoker,12
+LC-1067,2023,2023-03-28,South-East Asia,Sri Lanka,69,60-69,Male,Never Smoked,0
+LC-1068,2026,2026-01-07,Europe,Sweden,63,60-69,Female,Never Smoked,0
+LC-1069,2016,2016-03-25,Western Pacific,Malaysia,56,50-59,Female,Current Smoker,34
+LC-1070,2020,2020-02-10,Europe,France,69,60-69,Male,Current Smoker,30
+LC-1071,2016,2016-10-08,South-East Asia,Bhutan,52,50-59,Female,Never Smoked,0
+LC-1072,2026,2026-07-07,Western Pacific,Singapore,55,50-59,Female,Never Smoked,0
+LC-1073,2015,2015-06-13,Europe,France,54,50-59,Male,Current Smoker,18
+LC-1074,2024,2024-12-24,Western Pacific,Japan,70,70-79,Female,Never Smoked,0
+LC-1075,2020,2020-09-24,Europe,Russia,38,30-39,Female,Never Smoked,0
+LC-1076,2021,2021-01-04,Western Pacific,Malaysia,74,70-79,Female,Current Smoker,16
+LC-1077,2023,2023-04-27,Eastern Mediterranean,Iran,48,40-49,Male,Former Smoker,24
+LC-1078,2021,2021-06-20,South-East Asia,Bhutan,80,80-89,Female,Never Smoked,0
+LC-1079,2020,2020-10-13,Americas,Colombia,43,40-49,Male,Never Smoked,0
+LC-1080,2017,2017-01-21,Americas,Argentina,57,50-59,Male,Current Smoker,31
+LC-1081,2021,2021-08-16,Western Pacific,Australia,64,60-69,Female,Never Smoked,0
+LC-1082,2018,2018-06-18,Western Pacific,Malaysia,56,50-59,Male,Current Smoker,35
+LC-1083,2021,2021-07-06,South-East Asia,Bhutan,61,60-69,Female,Never Smoked,0
+LC-1084,2023,2023-11-13,Americas,Canada,64,60-69,Female,Never Smoked,0
+LC-1085,2020,2020-10-10,Europe,Italy,57,50-59,Male,Current Smoker,15
+LC-1086,2026,2026-06-03,Europe,Germany,52,50-59,Female,Never Smoked,0
+LC-1087,2018,2018-05-05,Africa,Tanzania,39,30-39,Male,Never Smoked,0
+LC-1088,2018,2018-12-26,South-East Asia,Indonesia,50,50-59,Female,Never Smoked,0
+LC-1089,2025,2025-12-13,South-East Asia,Sri Lanka,56,50-59,Male,Never Smoked,0
+LC-1090,2024,2024-06-04,Americas,Canada,65,60-69,Male,Never Smoked,0
+LC-1091,2026,2026-01-10,Western Pacific,New Zealand,48,40-49,Male,Never Smoked,0
+LC-1092,2025,2025-06-25,Western Pacific,Philippines,59,50-59,Male,Current Smoker,14
+LC-1093,2016,2016-02-05,Europe,Germany,63,60-69,Male,Never Smoked,0
+LC-1094,2017,2017-03-14,South-East Asia,Maldives,56,50-59,Male,Never Smoked,0
+LC-1095,2016,2016-09-18,Western Pacific,Singapore,48,40-49,Female,Never Smoked,0
+LC-1096,2025,2025-07-04,Western Pacific,China,74,70-79,Female,Never Smoked,0
+LC-1097,2026,2026-01-12,Western Pacific,Singapore,60,60-69,Female,Never Smoked,0
+LC-1098,2015,2015-02-20,Europe,Sweden,53,50-59,Female,Never Smoked,0
+LC-1099,2025,2025-06-28,Europe,Turkey,68,60-69,Male,Current Smoker,6
+LC-1100,2023,2023-01-10,Europe,Turkey,47,40-49,Male,Current Smoker,31
+LC-1101,2024,2024-07-25,Western Pacific,Japan,65,60-69,Male,Former Smoker,24
+LC-1102,2020,2020-12-18,Western Pacific,Australia,68,60-69,Male,Former Smoker,3
+LC-1103,2022,2022-10-17,South-East Asia,Indonesia,51,50-59,Female,Former Smoker,21
+LC-1104,2021,2021-11-13,Eastern Mediterranean,Saudi Arabia,62,60-69,Male,Former Smoker,13
+LC-1105,2022,2022-03-09,Americas,Argentina,68,60-69,Male,Never Smoked,0
+LC-1106,2023,2023-05-16,Americas,Brazil,52,50-59,Male,Never Smoked,0
+LC-1107,2017,2017-02-06,Americas,Chile,55,50-59,Female,Current Smoker,33
+LC-1108,2025,2025-05-14,Western Pacific,Philippines,63,60-69,Male,Former Smoker,9
+LC-1109,2024,2024-08-26,Americas,Canada,58,50-59,Male,Never Smoked,0
+LC-1110,2016,2016-06-09,Americas,Mexico,61,60-69,Male,Never Smoked,0
+LC-1111,2025,2025-12-21,Europe,Poland,64,60-69,Male,Current Smoker,25
+LC-1112,2016,2016-10-20,Western Pacific,Australia,55,50-59,Male,Never Smoked,0
+LC-1113,2026,2026-04-04,Africa,Kenya,53,50-59,Male,Never Smoked,0
+LC-1114,2020,2020-05-01,Eastern Mediterranean,Lebanon,44,40-49,Female,Never Smoked,0
+LC-1115,2025,2025-06-27,Eastern Mediterranean,Kuwait,66,60-69,Male,Current Smoker,22
+LC-1116,2024,2024-07-26,Europe,Russia,59,50-59,Male,Former Smoker,10
+LC-1117,2018,2018-08-11,Eastern Mediterranean,Lebanon,68,60-69,Female,Never Smoked,0
+LC-1118,2024,2024-11-20,Western Pacific,South Korea,55,50-59,Female,Never Smoked,0
+LC-1119,2021,2021-05-11,Africa,Uganda,42,40-49,Female,Never Smoked,0
+LC-1120,2015,2015-12-07,Western Pacific,New Zealand,73,70-79,Male,Never Smoked,0
+LC-1121,2024,2024-06-06,Western Pacific,Malaysia,57,50-59,Female,Never Smoked,0
+LC-1122,2018,2018-06-10,Western Pacific,New Zealand,59,50-59,Female,Never Smoked,0
+LC-1123,2015,2015-10-26,Europe,Italy,71,70-79,Female,Never Smoked,0
+LC-1124,2020,2020-06-13,Europe,Spain,63,60-69,Male,Current Smoker,50
+LC-1125,2025,2025-07-12,Western Pacific,Japan,42,40-49,Female,Never Smoked,0
+LC-1126,2022,2022-10-07,Western Pacific,Mongolia,50,50-59,Female,Never Smoked,0
+LC-1127,2026,2026-05-06,Western Pacific,Singapore,53,50-59,Male,Current Smoker,14
+LC-1128,2021,2021-01-24,Western Pacific,New Zealand,44,40-49,Female,Current Smoker,16
+LC-1129,2021,2021-12-07,Africa,Morocco,62,60-69,Male,Never Smoked,0
+LC-1130,2024,2024-05-27,Western Pacific,Japan,59,50-59,Female,Never Smoked,0
+LC-1131,2024,2024-07-22,Western Pacific,New Zealand,54,50-59,Female,Never Smoked,0
+LC-1132,2025,2025-03-21,South-East Asia,Myanmar,62,60-69,Male,Never Smoked,0
+LC-1133,2017,2017-04-09,South-East Asia,Indonesia,64,60-69,Female,Never Smoked,0
+LC-1134,2018,2018-12-14,Americas,Chile,75,70-79,Male,Current Smoker,24
+LC-1135,2022,2022-02-15,Europe,Sweden,75,70-79,Male,Former Smoker,24
+LC-1136,2021,2021-08-19,Americas,Chile,37,30-39,Female,Never Smoked,0
+LC-1137,2025,2025-09-17,South-East Asia,Nepal,49,40-49,Male,Former Smoker,17
+LC-1138,2025,2025-09-02,Europe,Russia,49,40-49,Female,Never Smoked,0
+LC-1139,2023,2023-12-26,Europe,Netherlands,53,50-59,Male,Current Smoker,37
+LC-1140,2020,2020-10-21,South-East Asia,Bangladesh,67,60-69,Female,Never Smoked,0
+LC-1141,2017,2017-02-25,Western Pacific,Australia,64,60-69,Female,Current Smoker,29
+LC-1142,2020,2020-11-22,Europe,Russia,57,50-59,Male,Never Smoked,0
+LC-1143,2022,2022-03-21,South-East Asia,Bhutan,65,60-69,Male,Never Smoked,0
+LC-1144,2018,2018-01-19,Western Pacific,Malaysia,40,40-49,Female,Never Smoked,0
+LC-1145,2024,2024-06-26,South-East Asia,Nepal,74,70-79,Male,Never Smoked,0
+LC-1146,2018,2018-02-01,Europe,Germany,54,50-59,Male,Current Smoker,9
+LC-1147,2025,2025-05-08,Americas,Cuba,73,70-79,Female,Current Smoker,29
+LC-1148,2016,2016-12-17,Americas,Cuba,56,50-59,Female,Never Smoked,0
+LC-1149,2026,2026-05-23,South-East Asia,Bhutan,65,60-69,Female,Never Smoked,0
+LC-1150,2025,2025-04-15,Western Pacific,Vietnam,72,70-79,Male,Current Smoker,34
+LC-1151,2019,2019-07-15,Americas,Venezuela,70,70-79,Male,Never Smoked,0
+LC-1152,2020,2020-12-17,Europe,France,56,50-59,Male,Never Smoked,0
+LC-1153,2019,2019-06-01,Eastern Mediterranean,Oman,41,40-49,Female,Current Smoker,5
+LC-1154,2026,2026-01-10,Western Pacific,Malaysia,55,50-59,Female,Never Smoked,0
+LC-1155,2020,2020-02-04,Europe,France,54,50-59,Female,Former Smoker,6
+LC-1156,2017,2017-06-10,Western Pacific,Vietnam,56,50-59,Female,Never Smoked,0
+LC-1157,2021,2021-08-26,Americas,Mexico,48,40-49,Female,Never Smoked,0
+LC-1158,2023,2023-09-16,South-East Asia,Sri Lanka,65,60-69,Male,Current Smoker,35
+LC-1159,2025,2025-08-04,Europe,Poland,68,60-69,Male,Never Smoked,0
+LC-1160,2025,2025-12-23,Europe,Poland,70,70-79,Male,Former Smoker,26
+LC-1161,2024,2024-06-03,Africa,Ethiopia,74,70-79,Male,Former Smoker,21
+LC-1162,2026,2026-01-26,South-East Asia,Bangladesh,60,60-69,Female,Never Smoked,0
+LC-1163,2021,2021-01-28,Western Pacific,Vietnam,70,70-79,Female,Never Smoked,0
+LC-1164,2021,2021-11-04,Europe,France,54,50-59,Male,Never Smoked,0
+LC-1165,2019,2019-12-08,Western Pacific,Singapore,52,50-59,Male,Current Smoker,5
+LC-1166,2024,2024-03-18,Africa,Kenya,38,30-39,Female,Never Smoked,0
+LC-1167,2024,2024-06-18,Europe,Turkey,47,40-49,Female,Former Smoker,33
+LC-1168,2022,2022-08-08,South-East Asia,Nepal,63,60-69,Male,Never Smoked,0
+LC-1169,2020,2020-11-06,South-East Asia,Indonesia,72,70-79,Female,Never Smoked,0
+LC-1170,2019,2019-11-22,South-East Asia,Nepal,53,50-59,Male,Never Smoked,0
+LC-1171,2015,2015-07-01,Western Pacific,Mongolia,82,80-89,Male,Never Smoked,0
+LC-1172,2016,2016-04-15,South-East Asia,Bhutan,80,80-89,Male,Former Smoker,13
+LC-1173,2023,2023-07-13,Eastern Mediterranean,Pakistan,64,60-69,Male,Never Smoked,0
+LC-1174,2018,2018-12-07,South-East Asia,Thailand,63,60-69,Male,Never Smoked,0
+LC-1175,2022,2022-05-25,Western Pacific,Japan,55,50-59,Female,Current Smoker,30
+LC-1176,2021,2021-10-04,Africa,Algeria,63,60-69,Female,Never Smoked,0
+LC-1177,2025,2025-03-12,Europe,Russia,43,40-49,Male,Never Smoked,0
+LC-1178,2017,2017-04-15,South-East Asia,Bangladesh,53,50-59,Female,Current Smoker,30
+LC-1179,2017,2017-05-22,Eastern Mediterranean,Oman,50,50-59,Male,Never Smoked,0
+LC-1180,2023,2023-09-21,Western Pacific,Vietnam,58,50-59,Female,Never Smoked,0
+LC-1181,2021,2021-10-13,Western Pacific,Mongolia,45,40-49,Female,Never Smoked,0
+LC-1182,2017,2017-07-19,Europe,Germany,59,50-59,Male,Current Smoker,21
+LC-1183,2023,2023-06-12,Eastern Mediterranean,Oman,43,40-49,Male,Never Smoked,0
+LC-1184,2021,2021-10-06,Americas,Argentina,68,60-69,Male,Never Smoked,0
+LC-1185,2026,2026-05-19,Western Pacific,Japan,63,60-69,Male,Never Smoked,0
+LC-1186,2025,2025-11-05,Europe,Russia,57,50-59,Female,Former Smoker,19
+LC-1187,2024,2024-02-08,Western Pacific,Philippines,83,80-89,Male,Never Smoked,0
+LC-1188,2018,2018-02-06,South-East Asia,Sri Lanka,64,60-69,Male,Never Smoked,0
+LC-1189,2022,2022-12-05,South-East Asia,Timor-Leste,77,70-79,Male,Never Smoked,0
+LC-1190,2016,2016-07-14,Americas,Venezuela,65,60-69,Female,Never Smoked,0
+LC-1191,2017,2017-03-19,South-East Asia,Nepal,47,40-49,Male,Never Smoked,0
+LC-1192,2026,2026-04-06,South-East Asia,Maldives,63,60-69,Female,Never Smoked,0
+LC-1193,2023,2023-11-18,Eastern Mediterranean,Saudi Arabia,57,50-59,Female,Never Smoked,0
+LC-1194,2020,2020-09-06,Western Pacific,New Zealand,65,60-69,Male,Never Smoked,0
+LC-1195,2018,2018-05-05,Americas,Brazil,61,60-69,Male,Former Smoker,3
+LC-1196,2019,2019-06-27,Western Pacific,New Zealand,58,50-59,Male,Never Smoked,0
+LC-1197,2023,2023-10-02,South-East Asia,Sri Lanka,67,60-69,Female,Never Smoked,0
+LC-1198,2023,2023-01-16,Western Pacific,South Korea,48,40-49,Female,Current Smoker,13
+LC-1199,2015,2015-04-27,South-East Asia,Nepal,51,50-59,Male,Current Smoker,24
+LC-1200,2026,2026-05-17,Europe,Poland,63,60-69,Male,Current Smoker,33
+LC-1201,2025,2025-07-22,Americas,Peru,64,60-69,Female,Never Smoked,0
+LC-1202,2023,2023-07-23,Western Pacific,New Zealand,54,50-59,Male,Never Smoked,0
+LC-1203,2016,2016-08-06,Europe,Germany,42,40-49,Male,Never Smoked,0
+LC-1204,2026,2026-05-01,South-East Asia,Thailand,54,50-59,Male,Current Smoker,31
+LC-1205,2017,2017-05-02,South-East Asia,Myanmar,48,40-49,Male,Never Smoked,0
+LC-1206,2016,2016-04-18,Europe,Spain,76,70-79,Male,Never Smoked,0
+LC-1207,2017,2017-03-25,Western Pacific,New Zealand,57,50-59,Male,Current Smoker,33
+LC-1208,2022,2022-10-24,South-East Asia,Maldives,47,40-49,Female,Current Smoker,17
+LC-1209,2024,2024-09-17,Western Pacific,Japan,69,60-69,Male,Current Smoker,34
+LC-1210,2023,2023-10-04,South-East Asia,Myanmar,61,60-69,Male,Never Smoked,0
+LC-1211,2023,2023-09-27,Western Pacific,Vietnam,45,40-49,Male,Former Smoker,26
+LC-1212,2024,2024-09-27,Western Pacific,China,45,40-49,Male,Current Smoker,32
+LC-1213,2025,2025-12-15,Eastern Mediterranean,Qatar,64,60-69,Female,Never Smoked,0
+LC-1214,2017,2017-04-14,Eastern Mediterranean,Iran,84,80-89,Male,Never Smoked,0
+LC-1215,2021,2021-12-27,Europe,Italy,73,70-79,Male,Current Smoker,10
+LC-1216,2025,2025-05-28,Europe,UK,51,50-59,Male,Never Smoked,0
+LC-1217,2025,2025-08-09,Western Pacific,Vietnam,55,50-59,Male,Current Smoker,27
+LC-1218,2023,2023-02-15,Africa,South Africa,68,60-69,Male,Former Smoker,23
+LC-1219,2022,2022-04-07,Europe,Sweden,54,50-59,Male,Current Smoker,37
+LC-1220,2025,2025-12-12,Europe,Sweden,77,70-79,Male,Never Smoked,0
+LC-1221,2017,2017-11-14,Americas,Brazil,68,60-69,Male,Current Smoker,35
+LC-1222,2023,2023-10-05,Western Pacific,Australia,53,50-59,Male,Current Smoker,34
+LC-1223,2023,2023-04-26,Western Pacific,China,52,50-59,Female,Never Smoked,0
+LC-1224,2023,2023-10-12,Americas,Cuba,61,60-69,Male,Current Smoker,23
+LC-1225,2020,2020-05-20,Eastern Mediterranean,Qatar,53,50-59,Male,Never Smoked,0
+LC-1226,2021,2021-03-11,Eastern Mediterranean,Iraq,50,50-59,Female,Never Smoked,0
+LC-1227,2021,2021-05-19,Europe,Spain,69,60-69,Male,Never Smoked,0
+LC-1228,2020,2020-09-22,South-East Asia,Bangladesh,39,30-39,Female,Never Smoked,0
+LC-1229,2023,2023-03-25,Western Pacific,Malaysia,54,50-59,Male,Current Smoker,22
+LC-1230,2018,2018-01-09,Europe,France,77,70-79,Male,Former Smoker,29
+LC-1231,2022,2022-12-28,Americas,Brazil,56,50-59,Female,Never Smoked,0
+LC-1232,2025,2025-04-05,Europe,Russia,71,70-79,Male,Current Smoker,37
+LC-1233,2017,2017-04-25,South-East Asia,Nepal,51,50-59,Male,Former Smoker,15
+LC-1234,2018,2018-08-05,Africa,Uganda,42,40-49,Female,Never Smoked,0
+LC-1235,2026,2026-06-09,Europe,Turkey,49,40-49,Male,Never Smoked,0
+LC-1236,2021,2021-07-15,Europe,Germany,65,60-69,Female,Never Smoked,0
+LC-1237,2024,2024-11-26,Western Pacific,Japan,54,50-59,Male,Current Smoker,16
+LC-1238,2020,2020-07-17,Western Pacific,Philippines,51,50-59,Female,Never Smoked,0
+LC-1239,2026,2026-06-12,Western Pacific,New Zealand,60,60-69,Male,Current Smoker,24
+LC-1240,2024,2024-08-11,South-East Asia,Bhutan,55,50-59,Male,Current Smoker,13
+LC-1241,2015,2015-01-28,Americas,Canada,61,60-69,Female,Never Smoked,0
+LC-1242,2025,2025-12-15,Americas,Colombia,53,50-59,Female,Never Smoked,0
+LC-1243,2019,2019-02-26,Eastern Mediterranean,Qatar,71,70-79,Male,Never Smoked,0
+LC-1244,2020,2020-07-07,Eastern Mediterranean,Lebanon,72,70-79,Female,Never Smoked,0
+LC-1245,2022,2022-04-16,Europe,Spain,52,50-59,Male,Never Smoked,0
+LC-1246,2024,2024-06-27,Western Pacific,Philippines,43,40-49,Male,Current Smoker,32
+LC-1247,2020,2020-06-18,Western Pacific,Mongolia,56,50-59,Female,Never Smoked,0
+LC-1248,2026,2026-02-19,South-East Asia,Maldives,64,60-69,Male,Former Smoker,9
+LC-1249,2023,2023-06-22,South-East Asia,India,58,50-59,Female,Never Smoked,0
+LC-1250,2021,2021-01-04,South-East Asia,Maldives,46,40-49,Female,Current Smoker,10
+LC-1251,2022,2022-01-04,Americas,Brazil,60,60-69,Male,Never Smoked,0
+LC-1252,2023,2023-08-15,Americas,USA,42,40-49,Male,Never Smoked,0
+LC-1253,2017,2017-07-07,Eastern Mediterranean,Saudi Arabia,78,70-79,Male,Current Smoker,13
+LC-1254,2024,2024-11-10,South-East Asia,Indonesia,59,50-59,Male,Never Smoked,0
+LC-1255,2022,2022-05-03,Europe,Russia,61,60-69,Male,Former Smoker,27
+LC-1256,2017,2017-05-03,Europe,Russia,45,40-49,Female,Never Smoked,0
+LC-1257,2026,2026-06-21,South-East Asia,Indonesia,61,60-69,Male,Never Smoked,0
+LC-1258,2020,2020-01-13,Western Pacific,Philippines,63,60-69,Male,Current Smoker,32
+LC-1259,2016,2016-12-23,Americas,Mexico,64,60-69,Female,Current Smoker,12
+LC-1260,2022,2022-07-21,Western Pacific,Japan,49,40-49,Male,Never Smoked,0
+LC-1261,2026,2026-06-04,Western Pacific,China,60,60-69,Male,Never Smoked,0
+LC-1262,2019,2019-04-16,Europe,Germany,69,60-69,Male,Current Smoker,16
+LC-1263,2023,2023-03-19,Western Pacific,Australia,62,60-69,Male,Never Smoked,0
+LC-1264,2025,2025-09-22,Americas,Peru,48,40-49,Female,Never Smoked,0
+LC-1265,2025,2025-01-01,Eastern Mediterranean,Jordan,46,40-49,Female,Never Smoked,0
+LC-1266,2020,2020-02-28,Americas,Chile,63,60-69,Female,Former Smoker,9
+LC-1267,2024,2024-12-05,South-East Asia,Maldives,57,50-59,Male,Never Smoked,0
+LC-1268,2026,2026-01-08,Eastern Mediterranean,Lebanon,54,50-59,Male,Never Smoked,0
+LC-1269,2021,2021-02-24,Western Pacific,Japan,46,40-49,Male,Former Smoker,19
+LC-1270,2024,2024-02-11,Europe,Russia,64,60-69,Female,Current Smoker,31
+LC-1271,2026,2026-03-05,Western Pacific,Malaysia,67,60-69,Female,Never Smoked,0
+LC-1272,2019,2019-03-21,Western Pacific,South Korea,45,40-49,Female,Former Smoker,26
+LC-1273,2021,2021-02-17,Africa,Uganda,59,50-59,Female,Never Smoked,0
+LC-1274,2024,2024-01-20,Western Pacific,South Korea,43,40-49,Female,Never Smoked,0
+LC-1275,2020,2020-08-12,Western Pacific,Australia,54,50-59,Male,Never Smoked,0
+LC-1276,2024,2024-11-24,Western Pacific,South Korea,80,80-89,Male,Never Smoked,0
+LC-1277,2019,2019-07-20,Americas,Peru,53,50-59,Female,Never Smoked,0
+LC-1278,2017,2017-04-03,Western Pacific,Japan,51,50-59,Female,Never Smoked,0
+LC-1279,2019,2019-03-25,Western Pacific,Japan,56,50-59,Female,Never Smoked,0
+LC-1280,2016,2016-10-24,Americas,Chile,65,60-69,Male,Former Smoker,13
+LC-1281,2023,2023-06-14,South-East Asia,Sri Lanka,66,60-69,Female,Former Smoker,7
+LC-1282,2021,2021-03-08,Americas,Argentina,72,70-79,Female,Never Smoked,0
+LC-1283,2020,2020-11-03,Americas,Mexico,62,60-69,Male,Former Smoker,3
+LC-1284,2024,2024-09-20,Western Pacific,Mongolia,87,80-89,Male,Never Smoked,0
+LC-1285,2026,2026-06-20,Europe,Spain,51,50-59,Female,Never Smoked,0
+LC-1286,2021,2021-12-01,Americas,Argentina,65,60-69,Female,Never Smoked,0
+LC-1287,2026,2026-02-17,Western Pacific,Mongolia,60,60-69,Female,Never Smoked,0
+LC-1288,2021,2021-09-07,Western Pacific,Malaysia,71,70-79,Female,Never Smoked,0
+LC-1289,2020,2020-05-21,Europe,UK,78,70-79,Male,Never Smoked,0
+LC-1290,2021,2021-04-16,Europe,Turkey,56,50-59,Male,Current Smoker,40
+LC-1291,2026,2026-01-08,Europe,Poland,53,50-59,Female,Never Smoked,0
+LC-1292,2017,2017-11-20,South-East Asia,Bangladesh,55,50-59,Female,Current Smoker,39
+LC-1293,2018,2018-09-01,Americas,Colombia,68,60-69,Male,Never Smoked,0
+LC-1294,2022,2022-06-05,South-East Asia,Nepal,58,50-59,Male,Never Smoked,0
+LC-1295,2025,2025-10-14,Western Pacific,Vietnam,56,50-59,Male,Current Smoker,13
+LC-1296,2020,2020-09-22,Africa,Kenya,58,50-59,Female,Former Smoker,12
+LC-1297,2024,2024-08-25,Europe,Germany,53,50-59,Female,Never Smoked,0
+LC-1298,2018,2018-01-19,Europe,Germany,43,40-49,Female,Former Smoker,18
+LC-1299,2020,2020-01-09,Europe,Italy,55,50-59,Male,Current Smoker,31
+LC-1300,2026,2026-01-02,South-East Asia,Nepal,47,40-49,Female,Never Smoked,0
+LC-1301,2016,2016-09-10,Western Pacific,Singapore,52,50-59,Male,Current Smoker,19
+LC-1302,2025,2025-07-14,Europe,Turkey,54,50-59,Female,Former Smoker,11
+LC-1303,2022,2022-02-21,Europe,Netherlands,68,60-69,Male,Former Smoker,3
+LC-1304,2024,2024-09-20,Europe,France,57,50-59,Male,Never Smoked,0
+LC-1305,2017,2017-05-03,Americas,Argentina,52,50-59,Male,Current Smoker,24
+LC-1306,2024,2024-02-17,Europe,Italy,53,50-59,Female,Former Smoker,9
+LC-1307,2021,2021-03-18,Western Pacific,Vietnam,51,50-59,Female,Current Smoker,12
+LC-1308,2022,2022-07-19,Europe,Germany,70,70-79,Female,Never Smoked,0
+LC-1309,2024,2024-05-23,Europe,Turkey,44,40-49,Male,Never Smoked,0
+LC-1310,2023,2023-12-28,Eastern Mediterranean,UAE,57,50-59,Male,Never Smoked,0
+LC-1311,2018,2018-01-08,Eastern Mediterranean,Iran,59,50-59,Male,Never Smoked,0
+LC-1312,2020,2020-07-04,Western Pacific,New Zealand,77,70-79,Female,Never Smoked,0
+LC-1313,2025,2025-10-20,Europe,UK,70,70-79,Male,Current Smoker,33
+LC-1314,2016,2016-05-22,Western Pacific,South Korea,57,50-59,Male,Never Smoked,0
+LC-1315,2023,2023-02-01,South-East Asia,Indonesia,81,80-89,Female,Never Smoked,0
+LC-1316,2015,2015-12-01,Eastern Mediterranean,Saudi Arabia,58,50-59,Male,Never Smoked,0
+LC-1317,2020,2020-08-12,Western Pacific,Singapore,70,70-79,Male,Never Smoked,0
+LC-1318,2017,2017-09-26,Africa,Ethiopia,50,50-59,Female,Never Smoked,0
+LC-1319,2023,2023-03-12,Eastern Mediterranean,Saudi Arabia,63,60-69,Male,Never Smoked,0
+LC-1320,2017,2017-12-25,South-East Asia,Myanmar,48,40-49,Male,Current Smoker,17
+LC-1321,2024,2024-12-04,Western Pacific,China,53,50-59,Male,Former Smoker,16
+LC-1322,2020,2020-06-26,Western Pacific,Malaysia,64,60-69,Female,Never Smoked,0
+LC-1323,2026,2026-03-17,Africa,South Africa,63,60-69,Female,Never Smoked,0
+LC-1324,2019,2019-05-23,Western Pacific,Mongolia,56,50-59,Female,Never Smoked,0
+LC-1325,2020,2020-11-03,Americas,Peru,79,70-79,Female,Never Smoked,0
+LC-1326,2022,2022-08-17,South-East Asia,Sri Lanka,61,60-69,Female,Never Smoked,0
+LC-1327,2026,2026-01-16,Americas,Venezuela,75,70-79,Male,Never Smoked,0
+LC-1328,2026,2026-02-12,Europe,France,64,60-69,Male,Never Smoked,0
+LC-1329,2017,2017-05-25,Eastern Mediterranean,Iran,81,80-89,Male,Never Smoked,0
+LC-1330,2022,2022-10-22,Europe,Germany,79,70-79,Male,Never Smoked,0
+LC-1331,2026,2026-02-24,South-East Asia,Timor-Leste,60,60-69,Female,Never Smoked,0
+LC-1332,2024,2024-01-02,Africa,Nigeria,47,40-49,Female,Never Smoked,0
+LC-1333,2016,2016-04-02,Western Pacific,New Zealand,66,60-69,Male,Current Smoker,10
+LC-1334,2019,2019-06-13,Africa,Kenya,62,60-69,Male,Never Smoked,0
+LC-1335,2025,2025-03-28,Americas,USA,68,60-69,Male,Never Smoked,0
+LC-1336,2019,2019-09-26,Western Pacific,Malaysia,75,70-79,Female,Never Smoked,0
+LC-1337,2018,2018-04-11,Western Pacific,Australia,59,50-59,Male,Former Smoker,12
+LC-1338,2024,2024-07-24,South-East Asia,Sri Lanka,70,70-79,Male,Former Smoker,37
+LC-1339,2020,2020-05-27,South-East Asia,Bangladesh,46,40-49,Male,Never Smoked,0
+LC-1340,2024,2024-10-12,Western Pacific,Japan,61,60-69,Male,Current Smoker,21
+LC-1341,2024,2024-09-22,Europe,UK,66,60-69,Male,Former Smoker,25
+LC-1342,2023,2023-03-08,Eastern Mediterranean,Qatar,73,70-79,Male,Current Smoker,35
+LC-1343,2022,2022-01-13,South-East Asia,Bangladesh,62,60-69,Female,Never Smoked,0
+LC-1344,2022,2022-08-28,Europe,Spain,77,70-79,Female,Current Smoker,28
+LC-1345,2024,2024-05-11,South-East Asia,Bangladesh,55,50-59,Male,Never Smoked,0
+LC-1346,2018,2018-09-15,Western Pacific,China,52,50-59,Male,Never Smoked,0
+LC-1347,2024,2024-06-07,Europe,Spain,82,80-89,Male,Never Smoked,0
+LC-1348,2026,2026-05-26,Western Pacific,Philippines,75,70-79,Male,Never Smoked,0
+LC-1349,2024,2024-12-20,South-East Asia,Thailand,51,50-59,Male,Never Smoked,0
+LC-1350,2026,2026-04-12,Americas,Venezuela,71,70-79,Male,Never Smoked,0
+LC-1351,2024,2024-08-25,Western Pacific,Australia,60,60-69,Female,Current Smoker,33
+LC-1352,2026,2026-06-18,Western Pacific,Australia,64,60-69,Male,Never Smoked,0
+LC-1353,2017,2017-03-01,South-East Asia,Nepal,63,60-69,Female,Never Smoked,0
+LC-1354,2022,2022-01-08,Eastern Mediterranean,Qatar,78,70-79,Male,Never Smoked,0
+LC-1355,2025,2025-06-21,Europe,UK,75,70-79,Male,Former Smoker,14
+LC-1356,2023,2023-06-01,South-East Asia,Nepal,64,60-69,Male,Never Smoked,0
+LC-1357,2019,2019-12-24,Americas,Argentina,51,50-59,Female,Never Smoked,0
+LC-1358,2022,2022-02-07,South-East Asia,Timor-Leste,58,50-59,Male,Former Smoker,3
+LC-1359,2026,2026-02-14,Eastern Mediterranean,Oman,75,70-79,Male,Never Smoked,0
+LC-1360,2026,2026-01-05,Europe,Spain,60,60-69,Male,Never Smoked,0
+LC-1361,2020,2020-02-02,South-East Asia,Thailand,69,60-69,Male,Never Smoked,0
+LC-1362,2020,2020-09-14,Western Pacific,Vietnam,61,60-69,Male,Never Smoked,0
+LC-1363,2015,2015-08-24,South-East Asia,Bangladesh,59,50-59,Male,Never Smoked,0
+LC-1364,2018,2018-10-04,South-East Asia,Timor-Leste,59,50-59,Male,Current Smoker,32
+LC-1365,2017,2017-03-21,South-East Asia,Nepal,52,50-59,Male,Never Smoked,0
+LC-1366,2024,2024-02-19,Western Pacific,Mongolia,51,50-59,Male,Never Smoked,0
+LC-1367,2026,2026-01-14,Africa,Kenya,62,60-69,Female,Former Smoker,21
+LC-1368,2021,2021-04-10,Eastern Mediterranean,Iraq,60,60-69,Female,Never Smoked,0
+LC-1369,2025,2025-06-26,South-East Asia,Nepal,56,50-59,Male,Never Smoked,0
+LC-1370,2018,2018-12-27,Western Pacific,Vietnam,62,60-69,Female,Never Smoked,0
+LC-1371,2024,2024-06-15,Western Pacific,Philippines,70,70-79,Male,Never Smoked,0
+LC-1372,2019,2019-04-03,Europe,Italy,51,50-59,Male,Former Smoker,25
+LC-1373,2019,2019-03-25,Europe,Sweden,79,70-79,Female,Never Smoked,0
+LC-1374,2026,2026-01-05,Europe,Germany,52,50-59,Female,Never Smoked,0
+LC-1375,2017,2017-03-15,Western Pacific,New Zealand,50,50-59,Female,Never Smoked,0
+LC-1376,2025,2025-06-14,Africa,South Africa,73,70-79,Male,Never Smoked,0
+LC-1377,2025,2025-09-12,South-East Asia,Thailand,60,60-69,Male,Never Smoked,0
+LC-1378,2017,2017-08-10,Western Pacific,New Zealand,52,50-59,Male,Current Smoker,35
+LC-1379,2018,2018-05-28,Western Pacific,Japan,49,40-49,Male,Never Smoked,0
+LC-1380,2025,2025-02-06,South-East Asia,Myanmar,64,60-69,Male,Never Smoked,0
+LC-1381,2022,2022-12-23,Eastern Mediterranean,Kuwait,58,50-59,Male,Current Smoker,11
+LC-1382,2026,2026-01-07,Western Pacific,Vietnam,50,50-59,Male,Never Smoked,0
+LC-1383,2021,2021-03-03,Americas,Mexico,79,70-79,Male,Never Smoked,0
+LC-1384,2026,2026-03-13,Western Pacific,Singapore,78,70-79,Male,Never Smoked,0
+LC-1385,2023,2023-01-22,Western Pacific,Philippines,57,50-59,Male,Never Smoked,0
+LC-1386,2025,2025-05-27,Americas,Brazil,69,60-69,Male,Never Smoked,0
+LC-1387,2017,2017-01-13,South-East Asia,Maldives,52,50-59,Female,Never Smoked,0
+LC-1388,2023,2023-09-24,Europe,Netherlands,61,60-69,Female,Never Smoked,0
+LC-1389,2023,2023-04-04,Americas,Peru,44,40-49,Male,Never Smoked,0
+LC-1390,2022,2022-02-26,Western Pacific,South Korea,60,60-69,Male,Never Smoked,0
+LC-1391,2019,2019-02-01,Americas,USA,56,50-59,Male,Never Smoked,0
+LC-1392,2018,2018-04-05,Europe,Italy,68,60-69,Female,Never Smoked,0
+LC-1393,2026,2026-07-07,Western Pacific,Vietnam,75,70-79,Male,Never Smoked,0
+LC-1394,2023,2023-11-21,South-East Asia,Bangladesh,59,50-59,Female,Never Smoked,0
+LC-1395,2021,2021-10-19,Americas,Argentina,81,80-89,Female,Never Smoked,0
+LC-1396,2015,2015-02-01,South-East Asia,Bangladesh,75,70-79,Male,Never Smoked,0
+LC-1397,2025,2025-04-21,Americas,Peru,58,50-59,Female,Never Smoked,0
+LC-1398,2026,2026-07-03,Europe,Germany,68,60-69,Male,Never Smoked,0
+LC-1399,2023,2023-06-04,Americas,USA,76,70-79,Female,Never Smoked,0
+LC-1400,2025,2025-08-02,Africa,Kenya,61,60-69,Female,Never Smoked,0
+LC-1401,2017,2017-10-14,Americas,Chile,52,50-59,Male,Never Smoked,0
+LC-1402,2023,2023-08-01,Western Pacific,Malaysia,59,50-59,Female,Never Smoked,0
+LC-1403,2021,2021-11-14,Western Pacific,South Korea,56,50-59,Male,Never Smoked,0
+LC-1404,2021,2021-06-07,Western Pacific,South Korea,52,50-59,Female,Never Smoked,0
+LC-1405,2018,2018-05-09,Western Pacific,New Zealand,57,50-59,Male,Never Smoked,0
+LC-1406,2015,2015-03-02,Europe,Sweden,52,50-59,Male,Never Smoked,0
+LC-1407,2023,2023-10-20,Americas,Mexico,53,50-59,Female,Never Smoked,0
+LC-1408,2026,2026-06-10,Europe,Poland,74,70-79,Female,Current Smoker,15
+LC-1409,2017,2017-07-18,Europe,Poland,73,70-79,Female,Former Smoker,22
+LC-1410,2026,2026-01-03,Western Pacific,Philippines,62,60-69,Male,Never Smoked,0
+LC-1411,2019,2019-07-05,Western Pacific,Malaysia,73,70-79,Male,Current Smoker,22
+LC-1412,2019,2019-04-21,South-East Asia,Timor-Leste,67,60-69,Male,Current Smoker,5
+LC-1413,2018,2018-04-21,Africa,Algeria,60,60-69,Male,Never Smoked,0
+LC-1414,2026,2026-07-01,Western Pacific,Malaysia,79,70-79,Male,Never Smoked,0
+LC-1415,2021,2021-12-12,Europe,Poland,65,60-69,Female,Current Smoker,25
+LC-1416,2026,2026-05-26,Americas,Peru,47,40-49,Male,Never Smoked,0
+LC-1417,2016,2016-06-19,Americas,Cuba,45,40-49,Female,Never Smoked,0
+LC-1418,2018,2018-06-13,Americas,Argentina,61,60-69,Male,Never Smoked,0
+LC-1419,2026,2026-02-01,Eastern Mediterranean,Jordan,60,60-69,Male,Current Smoker,24
+LC-1420,2020,2020-10-08,Western Pacific,China,54,50-59,Male,Never Smoked,0
+LC-1421,2020,2020-05-02,Europe,Poland,62,60-69,Male,Current Smoker,16
+LC-1422,2026,2026-05-12,Western Pacific,Mongolia,47,40-49,Female,Never Smoked,0
+LC-1423,2023,2023-04-06,South-East Asia,Bangladesh,48,40-49,Male,Never Smoked,0
+LC-1424,2023,2023-04-22,Western Pacific,Australia,66,60-69,Male,Current Smoker,24
+LC-1425,2017,2017-05-18,Western Pacific,China,71,70-79,Male,Current Smoker,35
+LC-1426,2023,2023-04-19,Eastern Mediterranean,Lebanon,41,40-49,Female,Never Smoked,0
+LC-1427,2024,2024-06-27,Africa,Kenya,54,50-59,Male,Never Smoked,0
+LC-1428,2024,2024-03-08,South-East Asia,Bhutan,63,60-69,Female,Current Smoker,15
+LC-1429,2018,2018-06-26,Western Pacific,Vietnam,60,60-69,Female,Never Smoked,0
+LC-1430,2025,2025-10-01,Eastern Mediterranean,Jordan,51,50-59,Male,Never Smoked,0
+LC-1431,2021,2021-10-19,Americas,Brazil,60,60-69,Male,Never Smoked,0
+LC-1432,2024,2024-10-07,Europe,Poland,49,40-49,Female,Current Smoker,24
+LC-1433,2017,2017-09-10,Europe,France,65,60-69,Female,Never Smoked,0
+LC-1434,2020,2020-08-02,Americas,Canada,50,50-59,Female,Never Smoked,0
+LC-1435,2023,2023-01-08,Western Pacific,Mongolia,68,60-69,Male,Current Smoker,24
+LC-1436,2020,2020-04-01,Americas,Cuba,68,60-69,Male,Never Smoked,0
+LC-1437,2024,2024-08-01,Africa,Ghana,77,70-79,Male,Never Smoked,0
+LC-1438,2025,2025-10-07,Western Pacific,South Korea,62,60-69,Female,Never Smoked,0
+LC-1439,2025,2025-06-23,Western Pacific,South Korea,72,70-79,Male,Never Smoked,0
+LC-1440,2019,2019-06-02,Americas,USA,54,50-59,Male,Current Smoker,22
+LC-1441,2019,2019-03-19,Europe,France,52,50-59,Female,Never Smoked,0
+LC-1442,2026,2026-07-02,Western Pacific,Singapore,76,70-79,Female,Never Smoked,0
+LC-1443,2025,2025-06-03,South-East Asia,Sri Lanka,76,70-79,Male,Former Smoker,16
+LC-1444,2016,2016-12-22,South-East Asia,Nepal,51,50-59,Male,Never Smoked,0
+LC-1445,2019,2019-10-04,Europe,Russia,56,50-59,Male,Current Smoker,41
+LC-1446,2020,2020-05-11,Western Pacific,South Korea,67,60-69,Female,Current Smoker,26
+LC-1447,2017,2017-03-24,Western Pacific,Malaysia,62,60-69,Female,Never Smoked,0
+LC-1448,2022,2022-11-16,Europe,Russia,73,70-79,Male,Never Smoked,0
+LC-1449,2015,2015-03-23,Americas,Cuba,62,60-69,Male,Never Smoked,0
+LC-1450,2026,2026-06-20,Americas,Colombia,48,40-49,Female,Never Smoked,0
+LC-1451,2022,2022-04-22,South-East Asia,Bhutan,61,60-69,Male,Former Smoker,13
+LC-1452,2017,2017-03-13,South-East Asia,Myanmar,51,50-59,Female,Never Smoked,0
+LC-1453,2020,2020-12-23,Western Pacific,Philippines,61,60-69,Male,Former Smoker,11
+LC-1454,2018,2018-03-06,Western Pacific,China,59,50-59,Male,Never Smoked,0
+LC-1455,2017,2017-12-19,Americas,Chile,59,50-59,Male,Former Smoker,11
+LC-1456,2026,2026-07-01,Americas,Brazil,66,60-69,Male,Never Smoked,0
+LC-1457,2025,2025-10-11,Europe,Sweden,53,50-59,Female,Never Smoked,0
+LC-1458,2020,2020-04-21,Europe,Sweden,48,40-49,Male,Current Smoker,24
+LC-1459,2019,2019-02-16,Eastern Mediterranean,Saudi Arabia,55,50-59,Female,Never Smoked,0
+LC-1460,2023,2023-06-24,Western Pacific,Japan,62,60-69,Female,Never Smoked,0
+LC-1461,2026,2026-02-12,Americas,Colombia,61,60-69,Male,Current Smoker,5
+LC-1462,2024,2024-03-21,Western Pacific,Japan,63,60-69,Female,Never Smoked,0
+LC-1463,2021,2021-12-22,Americas,Colombia,45,40-49,Male,Never Smoked,0
+LC-1464,2020,2020-08-01,Western Pacific,Philippines,78,70-79,Male,Never Smoked,0
+LC-1465,2023,2023-04-08,Americas,Canada,48,40-49,Female,Never Smoked,0
+LC-1466,2020,2020-06-09,Europe,Germany,84,80-89,Male,Never Smoked,0
+LC-1467,2022,2022-12-01,Western Pacific,China,55,50-59,Female,Current Smoker,20
+LC-1468,2024,2024-07-15,Americas,Chile,71,70-79,Male,Never Smoked,0
+LC-1469,2021,2021-03-14,Europe,Poland,42,40-49,Male,Current Smoker,7
+LC-1470,2018,2018-07-12,Western Pacific,Singapore,58,50-59,Male,Never Smoked,0
+LC-1471,2017,2017-07-04,Eastern Mediterranean,Oman,76,70-79,Male,Never Smoked,0
+LC-1472,2019,2019-10-21,Western Pacific,Australia,66,60-69,Female,Never Smoked,0
+LC-1473,2021,2021-03-15,Europe,Germany,64,60-69,Male,Never Smoked,0
+LC-1474,2024,2024-01-10,Eastern Mediterranean,Pakistan,65,60-69,Male,Never Smoked,0
+LC-1475,2016,2016-06-09,Western Pacific,Japan,70,70-79,Male,Current Smoker,24
+LC-1476,2019,2019-02-11,South-East Asia,Indonesia,55,50-59,Male,Current Smoker,44
+LC-1477,2025,2025-07-06,South-East Asia,Bangladesh,53,50-59,Male,Current Smoker,37
+LC-1478,2018,2018-09-03,Europe,Russia,70,70-79,Male,Current Smoker,12
+LC-1479,2025,2025-10-20,Western Pacific,New Zealand,58,50-59,Male,Never Smoked,0
+LC-1480,2025,2025-12-01,South-East Asia,Nepal,76,70-79,Male,Current Smoker,26
+LC-1481,2021,2021-11-06,Eastern Mediterranean,Kuwait,59,50-59,Female,Never Smoked,0
+LC-1482,2020,2020-07-06,Eastern Mediterranean,Pakistan,51,50-59,Male,Never Smoked,0
+LC-1483,2021,2021-02-11,Western Pacific,Australia,65,60-69,Male,Never Smoked,0
+LC-1484,2021,2021-04-14,Americas,Cuba,60,60-69,Male,Current Smoker,38
+LC-1485,2019,2019-12-24,Western Pacific,Singapore,43,40-49,Male,Never Smoked,0
+LC-1486,2015,2015-05-22,Western Pacific,Philippines,69,60-69,Male,Never Smoked,0
+LC-1487,2026,2026-03-08,Western Pacific,Japan,44,40-49,Male,Never Smoked,0
+LC-1488,2022,2022-01-13,Eastern Mediterranean,Kuwait,73,70-79,Female,Never Smoked,0
+LC-1489,2024,2024-09-27,Americas,Peru,64,60-69,Female,Current Smoker,33
+LC-1490,2023,2023-03-02,Western Pacific,Vietnam,70,70-79,Male,Former Smoker,9
+LC-1491,2018,2018-01-14,South-East Asia,Bangladesh,70,70-79,Male,Never Smoked,0
+LC-1492,2016,2016-05-27,Eastern Mediterranean,Kuwait,62,60-69,Male,Current Smoker,41
+LC-1493,2020,2020-08-07,South-East Asia,Bangladesh,65,60-69,Male,Never Smoked,0
+LC-1494,2026,2026-01-07,Americas,Brazil,57,50-59,Male,Current Smoker,25
+LC-1495,2019,2019-11-10,Western Pacific,Japan,64,60-69,Male,Never Smoked,0
+LC-1496,2019,2019-08-28,Western Pacific,Japan,55,50-59,Male,Former Smoker,5
+LC-1497,2017,2017-05-26,Eastern Mediterranean,Lebanon,56,50-59,Male,Current Smoker,20
+LC-1498,2016,2016-08-16,Americas,Argentina,60,60-69,Male,Never Smoked,0
+LC-1499,2017,2017-02-21,Africa,Algeria,68,60-69,Male,Current Smoker,22
+LC-1500,2025,2025-07-06,Eastern Mediterranean,Jordan,78,70-79,Male,Never Smoked,0
+LC-1501,2023,2023-07-12,Western Pacific,South Korea,57,50-59,Male,Never Smoked,0
+LC-1502,2019,2019-08-02,Western Pacific,Philippines,69,60-69,Male,Former Smoker,4
+LC-1503,2016,2016-08-15,Western Pacific,Philippines,63,60-69,Male,Former Smoker,25
+LC-1504,2019,2019-04-27,Eastern Mediterranean,Iraq,71,70-79,Male,Former Smoker,26
+LC-1505,2023,2023-10-02,Americas,Brazil,51,50-59,Female,Never Smoked,0
+LC-1506,2018,2018-12-22,Europe,Germany,65,60-69,Male,Former Smoker,16
+LC-1507,2025,2025-02-22,Western Pacific,Vietnam,55,50-59,Male,Former Smoker,28
+LC-1508,2017,2017-09-14,Africa,Uganda,57,50-59,Male,Current Smoker,40
+LC-1509,2021,2021-04-18,South-East Asia,India,65,60-69,Male,Never Smoked,0
+LC-1510,2019,2019-07-27,Western Pacific,Singapore,65,60-69,Female,Never Smoked,0
+LC-1511,2015,2015-07-18,South-East Asia,Maldives,72,70-79,Male,Current Smoker,24
+LC-1512,2024,2024-10-08,Americas,Peru,57,50-59,Male,Current Smoker,23
+LC-1513,2015,2015-05-03,Eastern Mediterranean,Lebanon,63,60-69,Female,Never Smoked,0
+LC-1514,2017,2017-12-02,Europe,Netherlands,57,50-59,Male,Current Smoker,24
+LC-1515,2016,2016-10-17,Europe,Sweden,78,70-79,Male,Never Smoked,0
+LC-1516,2020,2020-11-20,Western Pacific,South Korea,67,60-69,Male,Current Smoker,22
+LC-1517,2021,2021-02-25,Europe,Poland,49,40-49,Female,Current Smoker,18
+LC-1518,2021,2021-03-06,Western Pacific,Australia,53,50-59,Female,Never Smoked,0
+LC-1519,2021,2021-04-05,Americas,USA,51,50-59,Female,Never Smoked,0
+LC-1520,2021,2021-07-03,Americas,Chile,59,50-59,Female,Current Smoker,7
+LC-1521,2016,2016-04-27,Europe,France,55,50-59,Male,Never Smoked,0
+LC-1522,2017,2017-10-09,South-East Asia,Sri Lanka,52,50-59,Female,Never Smoked,0
+LC-1523,2022,2022-12-26,Western Pacific,Japan,89,80-89,Male,Never Smoked,0
+LC-1524,2017,2017-02-13,Western Pacific,Singapore,74,70-79,Male,Never Smoked,0
+LC-1525,2024,2024-07-18,Western Pacific,Vietnam,55,50-59,Female,Never Smoked,0
+LC-1526,2024,2024-05-17,Europe,Poland,69,60-69,Female,Current Smoker,29
+LC-1527,2019,2019-01-26,Europe,Sweden,69,60-69,Male,Former Smoker,9
+LC-1528,2015,2015-10-17,South-East Asia,Nepal,77,70-79,Female,Never Smoked,0
+LC-1529,2017,2017-02-14,Western Pacific,South Korea,52,50-59,Male,Never Smoked,0
+LC-1530,2024,2024-03-19,Europe,Sweden,44,40-49,Female,Never Smoked,0
+LC-1531,2026,2026-05-25,Europe,Germany,71,70-79,Male,Current Smoker,10
+LC-1532,2020,2020-02-19,South-East Asia,Bangladesh,48,40-49,Male,Never Smoked,0
+LC-1533,2017,2017-05-28,Eastern Mediterranean,Qatar,72,70-79,Male,Current Smoker,27
+LC-1534,2025,2025-06-14,Africa,Ethiopia,62,60-69,Male,Never Smoked,0
+LC-1535,2023,2023-07-21,Western Pacific,New Zealand,52,50-59,Female,Never Smoked,0
+LC-1536,2026,2026-05-20,Americas,Peru,74,70-79,Male,Former Smoker,15
+LC-1537,2021,2021-01-06,Europe,Spain,55,50-59,Male,Current Smoker,5
+LC-1538,2023,2023-07-05,Africa,Uganda,50,50-59,Male,Never Smoked,0
+LC-1539,2022,2022-10-22,Europe,Turkey,80,80-89,Male,Current Smoker,5
+LC-1540,2018,2018-01-13,Western Pacific,Vietnam,55,50-59,Male,Never Smoked,0
+LC-1541,2021,2021-12-08,Western Pacific,China,63,60-69,Male,Never Smoked,0
+LC-1542,2026,2026-06-16,Americas,Argentina,57,50-59,Female,Current Smoker,34
+LC-1543,2025,2025-06-01,Europe,Russia,57,50-59,Female,Never Smoked,0
+LC-1544,2021,2021-05-10,Americas,Argentina,66,60-69,Male,Never Smoked,0
+LC-1545,2016,2016-08-28,Western Pacific,Japan,52,50-59,Male,Current Smoker,14
+LC-1546,2022,2022-04-05,Western Pacific,Philippines,70,70-79,Female,Current Smoker,8
+LC-1547,2021,2021-12-15,Europe,Russia,57,50-59,Female,Never Smoked,0
+LC-1548,2017,2017-05-24,Africa,Tanzania,47,40-49,Female,Never Smoked,0
+LC-1549,2025,2025-10-21,Eastern Mediterranean,Iran,75,70-79,Male,Never Smoked,0
+LC-1550,2025,2025-04-15,Western Pacific,Australia,56,50-59,Male,Former Smoker,3
+LC-1551,2023,2023-07-24,Western Pacific,New Zealand,51,50-59,Female,Former Smoker,18
+LC-1552,2025,2025-09-28,Africa,Ghana,58,50-59,Male,Never Smoked,0
+LC-1553,2024,2024-01-17,Africa,Kenya,51,50-59,Male,Never Smoked,0
+LC-1554,2020,2020-02-10,Western Pacific,Singapore,51,50-59,Male,Current Smoker,25
+LC-1555,2020,2020-07-05,Eastern Mediterranean,Qatar,41,40-49,Female,Never Smoked,0
+LC-1556,2025,2025-10-01,Americas,Brazil,50,50-59,Female,Never Smoked,0
+LC-1557,2021,2021-04-27,Western Pacific,Australia,61,60-69,Male,Current Smoker,17
+LC-1558,2017,2017-01-08,Western Pacific,China,64,60-69,Male,Never Smoked,0
+LC-1559,2025,2025-08-02,Western Pacific,Vietnam,65,60-69,Male,Never Smoked,0
+LC-1560,2015,2015-12-07,Europe,Spain,63,60-69,Male,Never Smoked,0
+LC-1561,2026,2026-03-27,Western Pacific,New Zealand,53,50-59,Male,Never Smoked,0
+LC-1562,2025,2025-09-13,South-East Asia,Bangladesh,71,70-79,Male,Never Smoked,0
+LC-1563,2026,2026-06-01,Europe,Italy,67,60-69,Male,Never Smoked,0
+LC-1564,2017,2017-06-16,Western Pacific,Mongolia,47,40-49,Male,Former Smoker,28
+LC-1565,2022,2022-08-06,Western Pacific,New Zealand,50,50-59,Male,Former Smoker,3
+LC-1566,2026,2026-05-18,Americas,Colombia,78,70-79,Male,Never Smoked,0
+LC-1567,2023,2023-06-06,Western Pacific,Philippines,75,70-79,Male,Never Smoked,0
+LC-1568,2025,2025-12-27,South-East Asia,Bangladesh,74,70-79,Female,Never Smoked,0
+LC-1569,2016,2016-05-01,Eastern Mediterranean,Lebanon,60,60-69,Female,Never Smoked,0
+LC-1570,2015,2015-01-06,Western Pacific,Mongolia,54,50-59,Male,Never Smoked,0
+LC-1571,2023,2023-04-28,South-East Asia,Thailand,74,70-79,Male,Never Smoked,0
+LC-1572,2017,2017-11-08,Europe,Italy,52,50-59,Female,Former Smoker,5
+LC-1573,2023,2023-05-21,South-East Asia,Nepal,76,70-79,Male,Current Smoker,34
+LC-1574,2020,2020-09-01,Eastern Mediterranean,Pakistan,74,70-79,Male,Former Smoker,12
+LC-1575,2016,2016-08-05,Americas,Brazil,61,60-69,Male,Never Smoked,0
+LC-1576,2026,2026-05-26,South-East Asia,India,72,70-79,Male,Former Smoker,9
+LC-1577,2017,2017-04-09,Europe,Sweden,62,60-69,Female,Never Smoked,0
+LC-1578,2016,2016-05-23,South-East Asia,Myanmar,71,70-79,Male,Never Smoked,0
+LC-1579,2019,2019-07-13,Western Pacific,Vietnam,69,60-69,Male,Current Smoker,29
+LC-1580,2021,2021-08-09,Western Pacific,Australia,58,50-59,Male,Never Smoked,0
+LC-1581,2022,2022-08-10,Eastern Mediterranean,Qatar,55,50-59,Female,Never Smoked,0
+LC-1582,2021,2021-10-13,Western Pacific,Mongolia,73,70-79,Male,Current Smoker,32
+LC-1583,2018,2018-02-01,Eastern Mediterranean,Qatar,44,40-49,Male,Never Smoked,0
+LC-1584,2021,2021-11-27,Europe,Russia,48,40-49,Male,Current Smoker,31
+LC-1585,2019,2019-09-21,Western Pacific,Mongolia,52,50-59,Female,Never Smoked,0
+LC-1586,2024,2024-10-10,Western Pacific,Philippines,61,60-69,Male,Current Smoker,22
+LC-1587,2024,2024-11-04,Western Pacific,New Zealand,62,60-69,Female,Never Smoked,0
+LC-1588,2024,2024-02-11,Western Pacific,Philippines,54,50-59,Female,Never Smoked,0
+LC-1589,2020,2020-11-11,Americas,Argentina,45,40-49,Female,Current Smoker,21
+LC-1590,2019,2019-05-21,South-East Asia,Myanmar,63,60-69,Female,Current Smoker,27
+LC-1591,2025,2025-04-05,Western Pacific,Singapore,71,70-79,Male,Never Smoked,0
+LC-1592,2015,2015-04-02,Western Pacific,Mongolia,67,60-69,Female,Never Smoked,0
+LC-1593,2024,2024-07-22,South-East Asia,Sri Lanka,70,70-79,Female,Never Smoked,0
+LC-1594,2025,2025-11-05,Europe,UK,74,70-79,Male,Never Smoked,0
+LC-1595,2017,2017-11-16,Western Pacific,Philippines,41,40-49,Male,Current Smoker,20
+LC-1596,2017,2017-05-14,Western Pacific,Malaysia,66,60-69,Male,Former Smoker,5
+LC-1597,2021,2021-07-24,Americas,USA,59,50-59,Male,Never Smoked,0
+LC-1598,2024,2024-10-23,Europe,Sweden,74,70-79,Male,Never Smoked,0
+LC-1599,2020,2020-04-11,South-East Asia,Thailand,70,70-79,Female,Never Smoked,0
+LC-1600,2024,2024-11-18,Western Pacific,New Zealand,68,60-69,Male,Current Smoker,32
+LC-1601,2021,2021-11-12,Americas,Cuba,45,40-49,Female,Never Smoked,0
+LC-1602,2022,2022-05-28,Americas,Brazil,57,50-59,Male,Current Smoker,32
+LC-1603,2025,2025-11-18,Americas,Brazil,65,60-69,Male,Former Smoker,10
+LC-1604,2018,2018-05-04,Eastern Mediterranean,Oman,70,70-79,Male,Current Smoker,36
+LC-1605,2022,2022-03-24,Eastern Mediterranean,Iraq,65,60-69,Female,Never Smoked,0
+LC-1606,2017,2017-12-26,Eastern Mediterranean,Qatar,60,60-69,Female,Never Smoked,0
+LC-1607,2018,2018-03-22,Europe,Russia,52,50-59,Male,Never Smoked,0
+LC-1608,2026,2026-06-03,Western Pacific,Australia,49,40-49,Female,Never Smoked,0
+LC-1609,2024,2024-06-08,Europe,Spain,54,50-59,Male,Never Smoked,0
+LC-1610,2015,2015-07-26,Europe,Russia,81,80-89,Male,Current Smoker,25
+LC-1611,2016,2016-06-09,South-East Asia,Bhutan,38,30-39,Male,Never Smoked,0
+LC-1612,2020,2020-05-15,Western Pacific,Japan,56,50-59,Female,Never Smoked,0
+LC-1613,2023,2023-08-02,Americas,Venezuela,48,40-49,Female,Current Smoker,17
+LC-1614,2025,2025-10-20,Western Pacific,Japan,58,50-59,Male,Never Smoked,0
+LC-1615,2019,2019-08-07,Europe,Netherlands,72,70-79,Male,Never Smoked,0
+LC-1616,2021,2021-02-28,South-East Asia,Nepal,60,60-69,Female,Never Smoked,0
+LC-1617,2021,2021-09-10,Western Pacific,Malaysia,52,50-59,Female,Never Smoked,0
+LC-1618,2021,2021-01-28,South-East Asia,Indonesia,53,50-59,Female,Never Smoked,0
+LC-1619,2020,2020-03-07,Western Pacific,Vietnam,51,50-59,Male,Never Smoked,0
+LC-1620,2018,2018-07-19,Americas,Peru,45,40-49,Female,Never Smoked,0
+LC-1621,2021,2021-03-11,Eastern Mediterranean,Saudi Arabia,59,50-59,Female,Never Smoked,0
+LC-1622,2021,2021-02-16,Western Pacific,Vietnam,30,30-39,Female,Never Smoked,0
+LC-1623,2026,2026-06-06,Africa,Ghana,71,70-79,Female,Never Smoked,0
+LC-1624,2026,2026-06-02,South-East Asia,India,55,50-59,Male,Never Smoked,0
+LC-1625,2023,2023-08-09,Eastern Mediterranean,UAE,63,60-69,Female,Never Smoked,0
+LC-1626,2023,2023-03-19,Europe,France,67,60-69,Male,Former Smoker,29
+LC-1627,2023,2023-08-26,Western Pacific,Japan,67,60-69,Male,Never Smoked,0
+LC-1628,2021,2021-03-20,Americas,Chile,47,40-49,Female,Never Smoked,0
+LC-1629,2024,2024-11-14,Europe,Turkey,65,60-69,Male,Current Smoker,12
+LC-1630,2018,2018-07-16,Americas,Chile,58,50-59,Female,Never Smoked,0
+LC-1631,2020,2020-01-02,Eastern Mediterranean,Qatar,66,60-69,Male,Current Smoker,21
+LC-1632,2024,2024-04-24,Western Pacific,Vietnam,60,60-69,Male,Current Smoker,12
+LC-1633,2023,2023-01-11,South-East Asia,Timor-Leste,65,60-69,Male,Never Smoked,0
+LC-1634,2022,2022-04-01,Western Pacific,China,50,50-59,Male,Current Smoker,26
+LC-1635,2020,2020-11-24,Europe,Italy,89,80-89,Male,Never Smoked,0
+LC-1636,2024,2024-04-23,Americas,Colombia,56,50-59,Female,Never Smoked,0
+LC-1637,2022,2022-05-05,Americas,Canada,80,80-89,Male,Former Smoker,7
+LC-1638,2016,2016-07-17,South-East Asia,Bhutan,51,50-59,Male,Former Smoker,3
+LC-1639,2026,2026-03-06,Eastern Mediterranean,Iran,59,50-59,Female,Never Smoked,0
+LC-1640,2020,2020-01-10,Africa,Ethiopia,53,50-59,Female,Never Smoked,0
+LC-1641,2023,2023-08-24,Africa,Algeria,87,80-89,Male,Never Smoked,0
+LC-1642,2015,2015-10-17,Eastern Mediterranean,Jordan,62,60-69,Male,Never Smoked,0
+LC-1643,2015,2015-07-22,Europe,France,72,70-79,Male,Current Smoker,5
+LC-1644,2026,2026-03-16,Americas,Colombia,62,60-69,Male,Never Smoked,0
+LC-1645,2023,2023-04-06,Western Pacific,Malaysia,59,50-59,Male,Never Smoked,0
+LC-1646,2022,2022-01-08,Americas,Mexico,62,60-69,Male,Never Smoked,0
+LC-1647,2023,2023-12-05,Western Pacific,Australia,51,50-59,Male,Never Smoked,0
+LC-1648,2021,2021-12-01,Western Pacific,Mongolia,51,50-59,Female,Never Smoked,0
+LC-1649,2026,2026-05-06,South-East Asia,Bangladesh,54,50-59,Female,Never Smoked,0
+LC-1650,2019,2019-06-23,Eastern Mediterranean,Pakistan,44,40-49,Female,Never Smoked,0
+LC-1651,2023,2023-07-21,Western Pacific,Philippines,56,50-59,Male,Current Smoker,21
+LC-1652,2018,2018-09-20,Eastern Mediterranean,Pakistan,60,60-69,Male,Never Smoked,0
+LC-1653,2017,2017-10-02,Western Pacific,Japan,53,50-59,Male,Former Smoker,16
+LC-1654,2022,2022-11-27,Western Pacific,China,66,60-69,Male,Current Smoker,34
+LC-1655,2023,2023-01-23,Western Pacific,Japan,59,50-59,Female,Never Smoked,0
+LC-1656,2016,2016-07-15,Americas,Chile,73,70-79,Male,Never Smoked,0
+LC-1657,2026,2026-01-18,Americas,Argentina,57,50-59,Female,Never Smoked,0
+LC-1658,2022,2022-08-23,Europe,France,80,80-89,Female,Never Smoked,0
+LC-1659,2023,2023-04-23,Western Pacific,China,68,60-69,Male,Never Smoked,0
+LC-1660,2026,2026-03-14,Western Pacific,Japan,86,80-89,Male,Former Smoker,3
+LC-1661,2018,2018-11-17,Americas,Argentina,49,40-49,Female,Never Smoked,0
+LC-1662,2020,2020-10-20,Western Pacific,South Korea,67,60-69,Female,Never Smoked,0
+LC-1663,2026,2026-04-27,Western Pacific,Japan,51,50-59,Female,Never Smoked,0
+LC-1664,2019,2019-09-24,Europe,Sweden,61,60-69,Male,Never Smoked,0
+LC-1665,2023,2023-02-10,Western Pacific,Japan,72,70-79,Male,Current Smoker,31
+LC-1666,2015,2015-02-16,South-East Asia,Thailand,64,60-69,Male,Former Smoker,10
+LC-1667,2022,2022-10-07,Western Pacific,Philippines,66,60-69,Female,Never Smoked,0
+LC-1668,2017,2017-09-07,Europe,Russia,65,60-69,Male,Never Smoked,0
+LC-1669,2023,2023-12-14,Eastern Mediterranean,Iraq,50,50-59,Female,Never Smoked,0
+LC-1670,2022,2022-03-02,Western Pacific,Singapore,79,70-79,Male,Never Smoked,0
+LC-1671,2015,2015-08-07,Americas,Peru,41,40-49,Male,Current Smoker,11
+LC-1672,2025,2025-06-08,Western Pacific,China,57,50-59,Male,Never Smoked,0
+LC-1673,2017,2017-01-22,Western Pacific,Japan,87,80-89,Male,Never Smoked,0
+LC-1674,2025,2025-02-27,Western Pacific,Mongolia,61,60-69,Male,Never Smoked,0
+LC-1675,2023,2023-11-16,Western Pacific,South Korea,55,50-59,Male,Never Smoked,0
+LC-1676,2021,2021-02-25,Western Pacific,Singapore,58,50-59,Male,Current Smoker,39
+LC-1677,2021,2021-02-24,Europe,Germany,54,50-59,Female,Never Smoked,0
+LC-1678,2022,2022-05-21,Western Pacific,Australia,78,70-79,Male,Current Smoker,29
+LC-1679,2024,2024-08-10,South-East Asia,Myanmar,49,40-49,Male,Never Smoked,0
+LC-1680,2022,2022-08-02,Americas,Canada,55,50-59,Female,Never Smoked,0
+LC-1681,2022,2022-03-28,Europe,UK,89,80-89,Male,Never Smoked,0
+LC-1682,2025,2025-05-12,Africa,Ghana,83,80-89,Male,Never Smoked,0
+LC-1683,2016,2016-07-24,Eastern Mediterranean,Iran,81,80-89,Male,Never Smoked,0
+LC-1684,2016,2016-02-28,Eastern Mediterranean,Pakistan,50,50-59,Female,Never Smoked,0
+LC-1685,2022,2022-01-28,Western Pacific,South Korea,53,50-59,Female,Former Smoker,13
+LC-1686,2017,2017-11-21,Europe,France,64,60-69,Male,Never Smoked,0
+LC-1687,2024,2024-06-12,Europe,Poland,61,60-69,Female,Never Smoked,0
+LC-1688,2023,2023-10-09,Americas,Canada,63,60-69,Male,Never Smoked,0
+LC-1689,2023,2023-06-27,Americas,Colombia,59,50-59,Male,Never Smoked,0
+LC-1690,2026,2026-02-04,Western Pacific,Malaysia,49,40-49,Female,Current Smoker,28
+LC-1691,2017,2017-07-15,Europe,Spain,68,60-69,Male,Never Smoked,0
+LC-1692,2026,2026-07-07,Eastern Mediterranean,Oman,71,70-79,Male,Former Smoker,12
+LC-1693,2021,2021-07-21,Americas,Brazil,78,70-79,Male,Current Smoker,33
+LC-1694,2020,2020-02-05,Americas,USA,57,50-59,Male,Former Smoker,30
+LC-1695,2023,2023-03-04,Europe,Turkey,59,50-59,Male,Current Smoker,28
+LC-1696,2025,2025-10-16,Africa,Uganda,56,50-59,Female,Never Smoked,0
+LC-1697,2018,2018-11-15,Americas,Brazil,40,40-49,Male,Never Smoked,0
+LC-1698,2018,2018-10-13,South-East Asia,Sri Lanka,65,60-69,Male,Current Smoker,23
+LC-1699,2026,2026-05-01,Western Pacific,South Korea,59,50-59,Male,Former Smoker,12
+LC-1700,2021,2021-08-16,Eastern Mediterranean,Iran,54,50-59,Male,Never Smoked,0
+LC-1701,2021,2021-07-15,Europe,UK,72,70-79,Male,Current Smoker,14
+LC-1702,2021,2021-02-09,Western Pacific,Vietnam,71,70-79,Female,Current Smoker,21
+LC-1703,2020,2020-01-23,Western Pacific,Singapore,68,60-69,Male,Current Smoker,30
+LC-1704,2026,2026-07-04,Western Pacific,Vietnam,52,50-59,Female,Never Smoked,0
+LC-1705,2019,2019-09-17,Americas,Venezuela,71,70-79,Male,Never Smoked,0
+LC-1706,2020,2020-02-14,Americas,Mexico,57,50-59,Male,Never Smoked,0
+LC-1707,2021,2021-08-12,Eastern Mediterranean,Lebanon,73,70-79,Male,Former Smoker,12
+LC-1708,2025,2025-03-27,Europe,Netherlands,58,50-59,Male,Never Smoked,0
+LC-1709,2017,2017-10-02,Western Pacific,China,45,40-49,Male,Never Smoked,0
+LC-1710,2015,2015-11-06,Western Pacific,Singapore,57,50-59,Male,Never Smoked,0
+LC-1711,2025,2025-08-28,Africa,Morocco,59,50-59,Female,Never Smoked,0
+LC-1712,2021,2021-03-03,Western Pacific,New Zealand,50,50-59,Male,Current Smoker,26
+LC-1713,2017,2017-06-08,Africa,Ghana,67,60-69,Female,Never Smoked,0
+LC-1714,2021,2021-05-02,Western Pacific,Singapore,42,40-49,Female,Never Smoked,0
+LC-1715,2025,2025-04-18,Europe,Turkey,63,60-69,Male,Never Smoked,0
+LC-1716,2018,2018-07-27,Africa,Egypt,62,60-69,Female,Never Smoked,0
+LC-1717,2020,2020-02-15,Western Pacific,New Zealand,60,60-69,Male,Never Smoked,0
+LC-1718,2016,2016-10-15,Europe,Germany,64,60-69,Male,Former Smoker,25
+LC-1719,2022,2022-08-15,Europe,Russia,76,70-79,Male,Never Smoked,0
+LC-1720,2021,2021-02-16,South-East Asia,India,59,50-59,Male,Current Smoker,20
+LC-1721,2017,2017-02-13,Eastern Mediterranean,Lebanon,54,50-59,Male,Former Smoker,23
+LC-1722,2025,2025-01-18,Western Pacific,Singapore,51,50-59,Female,Never Smoked,0
+LC-1723,2024,2024-01-27,Western Pacific,Japan,56,50-59,Female,Never Smoked,0
+LC-1724,2021,2021-10-20,Western Pacific,Philippines,56,50-59,Female,Never Smoked,0
+LC-1725,2016,2016-09-18,Western Pacific,Australia,68,60-69,Female,Current Smoker,24
+LC-1726,2024,2024-11-22,Africa,Morocco,36,30-39,Male,Never Smoked,0
+LC-1727,2017,2017-06-12,Europe,UK,44,40-49,Female,Never Smoked,0
+LC-1728,2023,2023-04-28,Europe,Poland,62,60-69,Female,Never Smoked,0
+LC-1729,2022,2022-06-18,Western Pacific,Mongolia,72,70-79,Male,Never Smoked,0
+LC-1730,2022,2022-10-16,Eastern Mediterranean,Jordan,62,60-69,Male,Current Smoker,18
+LC-1731,2016,2016-12-15,Eastern Mediterranean,Iran,64,60-69,Male,Never Smoked,0
+LC-1732,2021,2021-02-25,South-East Asia,Thailand,53,50-59,Female,Never Smoked,0
+LC-1733,2023,2023-01-11,South-East Asia,Sri Lanka,63,60-69,Male,Current Smoker,26
+LC-1734,2015,2015-11-26,Western Pacific,Philippines,51,50-59,Male,Current Smoker,23
+LC-1735,2024,2024-09-17,Europe,Russia,59,50-59,Male,Current Smoker,15
+LC-1736,2022,2022-12-04,Western Pacific,China,58,50-59,Male,Current Smoker,24
+LC-1737,2017,2017-03-16,Americas,Brazil,45,40-49,Male,Former Smoker,5
+LC-1738,2026,2026-07-07,South-East Asia,Bangladesh,52,50-59,Female,Never Smoked,0
+LC-1739,2025,2025-05-20,Western Pacific,Australia,61,60-69,Female,Never Smoked,0
+LC-1740,2026,2026-02-04,Western Pacific,Malaysia,55,50-59,Male,Current Smoker,46
+LC-1741,2020,2020-04-15,South-East Asia,Thailand,51,50-59,Male,Never Smoked,0
+LC-1742,2015,2015-12-11,Western Pacific,Japan,51,50-59,Male,Never Smoked,0
+LC-1743,2025,2025-07-02,Western Pacific,Mongolia,60,60-69,Male,Never Smoked,0
+LC-1744,2022,2022-02-25,Africa,Morocco,77,70-79,Male,Never Smoked,0
+LC-1745,2026,2026-04-22,Eastern Mediterranean,Kuwait,57,50-59,Male,Current Smoker,45
+LC-1746,2017,2017-09-05,Western Pacific,New Zealand,73,70-79,Male,Never Smoked,0
+LC-1747,2024,2024-01-17,Western Pacific,China,51,50-59,Female,Never Smoked,0
+LC-1748,2025,2025-09-14,Americas,Venezuela,51,50-59,Female,Never Smoked,0
+LC-1749,2024,2024-08-17,Europe,France,56,50-59,Male,Never Smoked,0
+LC-1750,2025,2025-12-19,South-East Asia,Indonesia,69,60-69,Male,Current Smoker,33
+LC-1751,2022,2022-12-27,Americas,Brazil,59,50-59,Male,Never Smoked,0
+LC-1752,2020,2020-02-13,Americas,Venezuela,57,50-59,Male,Never Smoked,0
+LC-1753,2023,2023-10-11,Americas,Cuba,61,60-69,Male,Never Smoked,0
+LC-1754,2018,2018-07-14,Africa,Uganda,55,50-59,Male,Never Smoked,0
+LC-1755,2016,2016-12-25,Europe,Italy,57,50-59,Male,Never Smoked,0
+LC-1756,2020,2020-05-13,Europe,Russia,46,40-49,Female,Never Smoked,0
+LC-1757,2023,2023-05-15,Eastern Mediterranean,Saudi Arabia,42,40-49,Male,Current Smoker,34
+LC-1758,2026,2026-02-14,South-East Asia,Bhutan,67,60-69,Male,Never Smoked,0
+LC-1759,2024,2024-12-24,Americas,Cuba,75,70-79,Female,Never Smoked,0
+LC-1760,2020,2020-05-27,Western Pacific,Singapore,56,50-59,Female,Never Smoked,0
+LC-1761,2025,2025-06-23,Western Pacific,Singapore,58,50-59,Female,Never Smoked,0
+LC-1762,2026,2026-06-07,Europe,Italy,46,40-49,Male,Current Smoker,29
+LC-1763,2025,2025-04-20,Americas,Argentina,70,70-79,Male,Former Smoker,17
+LC-1764,2015,2015-11-12,Americas,Brazil,61,60-69,Male,Never Smoked,0
+LC-1765,2024,2024-12-21,Western Pacific,South Korea,49,40-49,Male,Current Smoker,30
+LC-1766,2018,2018-09-18,Western Pacific,Vietnam,71,70-79,Female,Never Smoked,0
+LC-1767,2022,2022-12-04,Africa,Ghana,55,50-59,Male,Never Smoked,0
+LC-1768,2025,2025-09-16,Eastern Mediterranean,Kuwait,72,70-79,Male,Current Smoker,12
+LC-1769,2022,2022-10-22,Western Pacific,Malaysia,68,60-69,Male,Never Smoked,0
+LC-1770,2024,2024-11-24,Eastern Mediterranean,Qatar,67,60-69,Female,Never Smoked,0
+LC-1771,2021,2021-05-28,Europe,Turkey,63,60-69,Male,Current Smoker,15
+LC-1772,2019,2019-01-17,Western Pacific,Japan,58,50-59,Male,Current Smoker,5
+LC-1773,2023,2023-01-13,Europe,France,41,40-49,Male,Never Smoked,0
+LC-1774,2023,2023-01-22,Western Pacific,China,76,70-79,Male,Current Smoker,17
+LC-1775,2024,2024-04-09,Americas,Brazil,70,70-79,Female,Never Smoked,0
+LC-1776,2023,2023-05-22,Europe,Spain,78,70-79,Male,Never Smoked,0
+LC-1777,2021,2021-03-27,South-East Asia,India,66,60-69,Male,Current Smoker,27
+LC-1778,2022,2022-12-26,South-East Asia,Myanmar,66,60-69,Male,Current Smoker,26
+LC-1779,2018,2018-04-25,Europe,Netherlands,58,50-59,Male,Never Smoked,0
+LC-1780,2025,2025-01-12,South-East Asia,Maldives,59,50-59,Male,Current Smoker,36
+LC-1781,2023,2023-02-20,Europe,Netherlands,52,50-59,Male,Never Smoked,0
+LC-1782,2020,2020-04-24,Europe,Netherlands,77,70-79,Male,Current Smoker,5
+LC-1783,2016,2016-07-08,Eastern Mediterranean,Qatar,64,60-69,Female,Never Smoked,0
+LC-1784,2025,2025-12-10,Western Pacific,China,71,70-79,Male,Never Smoked,0
+LC-1785,2021,2021-07-13,South-East Asia,Nepal,65,60-69,Female,Never Smoked,0
+LC-1786,2024,2024-11-11,Eastern Mediterranean,Qatar,44,40-49,Female,Never Smoked,0
+LC-1787,2026,2026-01-01,Western Pacific,Philippines,70,70-79,Male,Former Smoker,8
+LC-1788,2023,2023-04-20,Western Pacific,New Zealand,53,50-59,Female,Never Smoked,0
+LC-1789,2017,2017-04-21,Western Pacific,Vietnam,74,70-79,Male,Never Smoked,0
+LC-1790,2019,2019-10-18,Eastern Mediterranean,Kuwait,65,60-69,Male,Never Smoked,0
+LC-1791,2025,2025-04-25,Europe,Italy,56,50-59,Male,Former Smoker,11
+LC-1792,2015,2015-05-15,Americas,Brazil,62,60-69,Male,Never Smoked,0
+LC-1793,2025,2025-11-03,Americas,Brazil,62,60-69,Female,Never Smoked,0
+LC-1794,2025,2025-03-24,Western Pacific,Singapore,55,50-59,Female,Never Smoked,0
+LC-1795,2019,2019-02-13,Europe,UK,53,50-59,Male,Current Smoker,5
+LC-1796,2024,2024-07-09,Americas,Cuba,67,60-69,Female,Never Smoked,0
+LC-1797,2022,2022-05-05,South-East Asia,Indonesia,49,40-49,Male,Former Smoker,20
+LC-1798,2020,2020-10-28,Western Pacific,Philippines,59,50-59,Male,Never Smoked,0
+LC-1799,2020,2020-01-11,Western Pacific,New Zealand,77,70-79,Male,Never Smoked,0
+LC-1800,2015,2015-12-05,Western Pacific,China,77,70-79,Female,Never Smoked,0
+LC-1801,2022,2022-03-11,Western Pacific,Mongolia,85,80-89,Male,Never Smoked,0
+LC-1802,2021,2021-01-25,Europe,Sweden,61,60-69,Female,Never Smoked,0
+LC-1803,2024,2024-11-10,Europe,Poland,61,60-69,Female,Never Smoked,0
+LC-1804,2017,2017-10-18,Eastern Mediterranean,Jordan,67,60-69,Male,Never Smoked,0
+LC-1805,2025,2025-02-26,Western Pacific,Vietnam,56,50-59,Male,Never Smoked,0
+LC-1806,2026,2026-05-08,Africa,Kenya,57,50-59,Female,Never Smoked,0
+LC-1807,2019,2019-09-03,South-East Asia,Timor-Leste,47,40-49,Female,Current Smoker,23
+LC-1808,2026,2026-02-14,Africa,Algeria,57,50-59,Male,Never Smoked,0
+LC-1809,2017,2017-09-13,Americas,Canada,54,50-59,Male,Former Smoker,14
+LC-1810,2025,2025-06-08,Eastern Mediterranean,UAE,59,50-59,Female,Never Smoked,0
+LC-1811,2025,2025-11-11,Americas,Colombia,50,50-59,Female,Current Smoker,15
+LC-1812,2016,2016-06-10,Americas,Mexico,75,70-79,Male,Never Smoked,0
+LC-1813,2023,2023-10-17,South-East Asia,Maldives,57,50-59,Male,Never Smoked,0
+LC-1814,2024,2024-09-27,Europe,UK,62,60-69,Male,Never Smoked,0
+LC-1815,2017,2017-02-22,Western Pacific,Vietnam,53,50-59,Female,Never Smoked,0
+LC-1816,2018,2018-08-08,Americas,Venezuela,74,70-79,Male,Current Smoker,24
+LC-1817,2023,2023-10-08,Eastern Mediterranean,Pakistan,51,50-59,Male,Current Smoker,10
+LC-1818,2021,2021-11-11,Western Pacific,Malaysia,78,70-79,Male,Never Smoked,0
+LC-1819,2018,2018-02-13,Americas,Argentina,70,70-79,Female,Never Smoked,0
+LC-1820,2017,2017-09-24,Africa,Ethiopia,62,60-69,Female,Never Smoked,0
+LC-1821,2015,2015-01-17,South-East Asia,Sri Lanka,67,60-69,Female,Never Smoked,0
+LC-1822,2024,2024-09-26,Europe,Netherlands,43,40-49,Male,Never Smoked,0
+LC-1823,2024,2024-08-16,Europe,UK,85,80-89,Male,Current Smoker,39
+LC-1824,2021,2021-05-21,Africa,Egypt,52,50-59,Male,Never Smoked,0
+LC-1825,2023,2023-06-17,Americas,Canada,63,60-69,Male,Never Smoked,0
+LC-1826,2023,2023-02-06,Americas,Cuba,68,60-69,Female,Never Smoked,0
+LC-1827,2024,2024-09-01,South-East Asia,Bangladesh,63,60-69,Male,Never Smoked,0
+LC-1828,2021,2021-04-22,Europe,Italy,50,50-59,Male,Never Smoked,0
+LC-1829,2023,2023-11-14,Western Pacific,Japan,45,40-49,Female,Current Smoker,9
+LC-1830,2025,2025-04-18,Western Pacific,Malaysia,89,80-89,Male,Current Smoker,21
+LC-1831,2018,2018-11-27,Western Pacific,Japan,68,60-69,Male,Never Smoked,0
+LC-1832,2022,2022-12-22,South-East Asia,Indonesia,67,60-69,Female,Former Smoker,23
+LC-1833,2017,2017-01-15,Eastern Mediterranean,Jordan,41,40-49,Female,Never Smoked,0
+LC-1834,2024,2024-01-03,Americas,Canada,70,70-79,Male,Current Smoker,19
+LC-1835,2026,2026-01-06,Europe,Spain,58,50-59,Male,Former Smoker,26
+LC-1836,2020,2020-09-03,Western Pacific,Mongolia,54,50-59,Male,Never Smoked,0
+LC-1837,2016,2016-04-09,Eastern Mediterranean,Lebanon,55,50-59,Male,Never Smoked,0
+LC-1838,2019,2019-07-15,Americas,Chile,57,50-59,Male,Never Smoked,0
+LC-1839,2023,2023-07-11,Africa,Nigeria,80,80-89,Female,Never Smoked,0
+LC-1840,2023,2023-07-22,Western Pacific,Japan,57,50-59,Female,Never Smoked,0
+LC-1841,2022,2022-09-01,Western Pacific,Mongolia,61,60-69,Male,Never Smoked,0
+LC-1842,2023,2023-02-25,South-East Asia,Bhutan,72,70-79,Male,Former Smoker,13
+LC-1843,2025,2025-01-23,Americas,Canada,66,60-69,Female,Never Smoked,0
+LC-1844,2024,2024-06-17,Eastern Mediterranean,Iran,43,40-49,Female,Current Smoker,39
+LC-1845,2024,2024-05-26,Europe,Spain,61,60-69,Female,Never Smoked,0
+LC-1846,2026,2026-05-03,Americas,Argentina,70,70-79,Female,Never Smoked,0
+LC-1847,2017,2017-08-13,Western Pacific,Malaysia,37,30-39,Male,Never Smoked,0
+LC-1848,2020,2020-11-01,Eastern Mediterranean,Oman,61,60-69,Female,Never Smoked,0
+LC-1849,2025,2025-03-18,Americas,Mexico,56,50-59,Male,Current Smoker,21
+LC-1850,2016,2016-03-24,Western Pacific,Malaysia,70,70-79,Male,Former Smoker,23
+LC-1851,2022,2022-09-10,Western Pacific,South Korea,60,60-69,Male,Never Smoked,0
+LC-1852,2023,2023-05-22,Western Pacific,Vietnam,81,80-89,Male,Current Smoker,9
+LC-1853,2022,2022-01-18,Western Pacific,Singapore,73,70-79,Female,Never Smoked,0
+LC-1854,2024,2024-03-04,Western Pacific,China,49,40-49,Male,Never Smoked,0
+LC-1855,2015,2015-01-19,Europe,Sweden,53,50-59,Female,Never Smoked,0
+LC-1856,2026,2026-04-18,Europe,Netherlands,70,70-79,Female,Never Smoked,0
+LC-1857,2026,2026-01-10,Americas,Mexico,60,60-69,Female,Never Smoked,0
+LC-1858,2019,2019-12-24,Americas,Colombia,50,50-59,Male,Current Smoker,15
+LC-1859,2015,2015-04-14,South-East Asia,Timor-Leste,55,50-59,Male,Never Smoked,0
+LC-1860,2021,2021-03-06,Western Pacific,South Korea,59,50-59,Male,Never Smoked,0
+LC-1861,2024,2024-04-20,South-East Asia,Myanmar,66,60-69,Male,Never Smoked,0
+LC-1862,2018,2018-04-04,Europe,France,66,60-69,Male,Current Smoker,5
+LC-1863,2026,2026-06-26,Americas,Venezuela,73,70-79,Male,Never Smoked,0
+LC-1864,2024,2024-01-28,Americas,Cuba,69,60-69,Male,Never Smoked,0
+LC-1865,2015,2015-08-21,Western Pacific,Singapore,50,50-59,Female,Current Smoker,31
+LC-1866,2019,2019-02-10,Africa,South Africa,48,40-49,Female,Never Smoked,0
+LC-1867,2021,2021-05-04,Western Pacific,Australia,54,50-59,Female,Never Smoked,0
+LC-1868,2015,2015-12-19,Eastern Mediterranean,Oman,56,50-59,Female,Never Smoked,0
+LC-1869,2026,2026-03-12,Europe,France,55,50-59,Male,Former Smoker,15
+LC-1870,2017,2017-11-21,Europe,Italy,59,50-59,Female,Never Smoked,0
+LC-1871,2022,2022-02-10,Western Pacific,Mongolia,73,70-79,Male,Never Smoked,0
+LC-1872,2024,2024-02-07,Western Pacific,Vietnam,61,60-69,Male,Current Smoker,24
+LC-1873,2022,2022-08-15,Europe,Russia,57,50-59,Female,Never Smoked,0
+LC-1874,2026,2026-05-22,Europe,Spain,60,60-69,Male,Current Smoker,23
+LC-1875,2024,2024-12-19,Western Pacific,South Korea,49,40-49,Female,Never Smoked,0
+LC-1876,2023,2023-10-19,South-East Asia,Sri Lanka,56,50-59,Male,Current Smoker,17
+LC-1877,2023,2023-06-14,Western Pacific,South Korea,73,70-79,Female,Never Smoked,0
+LC-1878,2018,2018-01-11,Europe,Italy,52,50-59,Female,Never Smoked,0
+LC-1879,2024,2024-04-23,Europe,Turkey,61,60-69,Female,Current Smoker,30
+LC-1880,2018,2018-05-27,Western Pacific,Vietnam,68,60-69,Male,Never Smoked,0
+LC-1881,2023,2023-03-22,Western Pacific,Vietnam,71,70-79,Male,Current Smoker,31
+LC-1882,2019,2019-08-15,Europe,Poland,65,60-69,Male,Never Smoked,0
+LC-1883,2023,2023-06-25,Africa,Ethiopia,52,50-59,Male,Never Smoked,0
+LC-1884,2026,2026-04-18,Western Pacific,Japan,68,60-69,Female,Never Smoked,0
+LC-1885,2024,2024-03-21,Europe,Sweden,71,70-79,Male,Former Smoker,20
+LC-1886,2021,2021-02-27,Europe,Spain,70,70-79,Female,Never Smoked,0
+LC-1887,2020,2020-03-18,Western Pacific,Australia,66,60-69,Female,Never Smoked,0
+LC-1888,2023,2023-05-24,Western Pacific,Japan,63,60-69,Male,Never Smoked,0
+LC-1889,2026,2026-06-03,Europe,UK,69,60-69,Female,Never Smoked,0
+LC-1890,2017,2017-09-21,Eastern Mediterranean,Pakistan,79,70-79,Male,Never Smoked,0
+LC-1891,2023,2023-10-19,South-East Asia,Nepal,72,70-79,Male,Never Smoked,0
+LC-1892,2019,2019-10-07,Americas,USA,49,40-49,Female,Never Smoked,0
+LC-1893,2022,2022-09-09,Americas,Cuba,89,80-89,Female,Never Smoked,0
+LC-1894,2024,2024-09-16,Western Pacific,South Korea,65,60-69,Female,Former Smoker,25
+LC-1895,2017,2017-06-13,Europe,Italy,65,60-69,Female,Former Smoker,7
+LC-1896,2025,2025-10-24,Western Pacific,Philippines,60,60-69,Female,Former Smoker,7
+LC-1897,2025,2025-03-15,Europe,Netherlands,56,50-59,Male,Never Smoked,0
+LC-1898,2016,2016-09-03,Western Pacific,Malaysia,67,60-69,Male,Current Smoker,36
+LC-1899,2019,2019-06-17,Europe,UK,67,60-69,Female,Never Smoked,0
+LC-1900,2019,2019-11-08,Americas,Venezuela,70,70-79,Male,Former Smoker,16
+LC-1901,2025,2025-11-06,South-East Asia,Timor-Leste,56,50-59,Male,Current Smoker,18
+LC-1902,2023,2023-03-15,Americas,Brazil,57,50-59,Male,Never Smoked,0
+LC-1903,2017,2017-03-19,Europe,Sweden,71,70-79,Male,Former Smoker,22
+LC-1904,2024,2024-11-28,Americas,Brazil,59,50-59,Male,Current Smoker,31
+LC-1905,2020,2020-12-24,Americas,Peru,73,70-79,Female,Never Smoked,0
+LC-1906,2021,2021-06-02,Europe,Italy,69,60-69,Male,Never Smoked,0
+LC-1907,2015,2015-08-08,South-East Asia,Bangladesh,53,50-59,Male,Never Smoked,0
+LC-1908,2022,2022-05-12,Europe,Italy,78,70-79,Female,Current Smoker,24
+LC-1909,2022,2022-01-22,Eastern Mediterranean,UAE,69,60-69,Female,Former Smoker,16
+LC-1910,2026,2026-05-26,Americas,Colombia,53,50-59,Male,Never Smoked,0
+LC-1911,2023,2023-07-16,South-East Asia,Maldives,63,60-69,Male,Former Smoker,5
+LC-1912,2015,2015-01-02,Western Pacific,Vietnam,60,60-69,Female,Never Smoked,0
+LC-1913,2016,2016-02-23,Americas,Cuba,64,60-69,Male,Never Smoked,0
+LC-1914,2025,2025-11-27,Europe,Spain,66,60-69,Male,Former Smoker,25
+LC-1915,2019,2019-12-09,Americas,Venezuela,39,30-39,Female,Never Smoked,0
+LC-1916,2024,2024-09-19,Europe,France,44,40-49,Male,Never Smoked,0
+LC-1917,2015,2015-07-21,Western Pacific,Malaysia,66,60-69,Female,Never Smoked,0
+LC-1918,2016,2016-06-19,Western Pacific,Japan,60,60-69,Male,Never Smoked,0
+LC-1919,2019,2019-09-09,Americas,Chile,56,50-59,Male,Former Smoker,22
+LC-1920,2025,2025-04-17,Eastern Mediterranean,Lebanon,54,50-59,Male,Never Smoked,0
+LC-1921,2018,2018-06-27,Americas,Colombia,53,50-59,Female,Never Smoked,0
+LC-1922,2025,2025-08-26,Western Pacific,New Zealand,72,70-79,Female,Never Smoked,0
+LC-1923,2020,2020-10-01,Europe,Netherlands,49,40-49,Male,Never Smoked,0
+LC-1924,2022,2022-03-15,Eastern Mediterranean,Saudi Arabia,89,80-89,Male,Current Smoker,17
+LC-1925,2020,2020-04-03,Europe,Netherlands,66,60-69,Male,Current Smoker,22
+LC-1926,2018,2018-11-09,Europe,Italy,59,50-59,Male,Never Smoked,0
+LC-1927,2024,2024-03-06,Western Pacific,South Korea,70,70-79,Female,Never Smoked,0
+LC-1928,2023,2023-06-20,Western Pacific,Japan,53,50-59,Female,Never Smoked,0
+LC-1929,2021,2021-11-08,Africa,Tanzania,52,50-59,Male,Never Smoked,0
+LC-1930,2019,2019-06-24,South-East Asia,Bangladesh,60,60-69,Male,Current Smoker,35
+LC-1931,2021,2021-08-22,South-East Asia,Maldives,52,50-59,Female,Never Smoked,0
+LC-1932,2017,2017-08-07,Americas,Venezuela,66,60-69,Male,Never Smoked,0
+LC-1933,2025,2025-03-21,Europe,Turkey,56,50-59,Male,Current Smoker,21
+LC-1934,2026,2026-01-08,Western Pacific,China,76,70-79,Male,Current Smoker,25
+LC-1935,2026,2026-02-19,Americas,Venezuela,56,50-59,Male,Never Smoked,0
+LC-1936,2018,2018-03-05,Americas,Cuba,45,40-49,Male,Never Smoked,0
+LC-1937,2015,2015-01-19,Americas,Brazil,59,50-59,Female,Never Smoked,0
+LC-1938,2025,2025-01-06,Western Pacific,Philippines,66,60-69,Male,Current Smoker,44
+LC-1939,2015,2015-03-17,Europe,Turkey,36,30-39,Male,Never Smoked,0
+LC-1940,2024,2024-10-19,Western Pacific,China,46,40-49,Female,Never Smoked,0
+LC-1941,2020,2020-12-24,Americas,Argentina,54,50-59,Female,Never Smoked,0
+LC-1942,2020,2020-02-07,Europe,Poland,72,70-79,Male,Never Smoked,0
+LC-1943,2017,2017-10-16,South-East Asia,Maldives,56,50-59,Female,Never Smoked,0
+LC-1944,2020,2020-03-08,Western Pacific,Malaysia,73,70-79,Male,Current Smoker,30
+LC-1945,2024,2024-10-05,Europe,Sweden,43,40-49,Male,Never Smoked,0
+LC-1946,2019,2019-03-20,Western Pacific,Singapore,73,70-79,Male,Never Smoked,0
+LC-1947,2021,2021-05-06,Europe,Russia,63,60-69,Female,Never Smoked,0
+LC-1948,2021,2021-08-20,South-East Asia,Bhutan,58,50-59,Male,Current Smoker,22
+LC-1949,2022,2022-02-08,Europe,Turkey,52,50-59,Male,Current Smoker,31
+LC-1950,2025,2025-07-05,Europe,Germany,62,60-69,Male,Never Smoked,0
+LC-1951,2026,2026-01-07,Europe,Netherlands,56,50-59,Female,Never Smoked,0
+LC-1952,2026,2026-07-07,South-East Asia,Indonesia,69,60-69,Male,Never Smoked,0
+LC-1953,2017,2017-10-04,Europe,France,59,50-59,Male,Current Smoker,5
+LC-1954,2021,2021-08-20,Americas,Venezuela,52,50-59,Male,Never Smoked,0
+LC-1955,2018,2018-01-26,Americas,Cuba,54,50-59,Female,Never Smoked,0
+LC-1956,2026,2026-05-25,Western Pacific,Japan,52,50-59,Male,Never Smoked,0
+LC-1957,2025,2025-02-16,Africa,Kenya,73,70-79,Female,Former Smoker,3
+LC-1958,2015,2015-10-18,Western Pacific,China,46,40-49,Female,Never Smoked,0
+LC-1959,2026,2026-07-07,Western Pacific,Singapore,40,40-49,Female,Never Smoked,0
+LC-1960,2026,2026-04-12,Americas,USA,79,70-79,Male,Never Smoked,0
+LC-1961,2024,2024-12-17,Africa,Tanzania,60,60-69,Female,Never Smoked,0
+LC-1962,2022,2022-04-26,Western Pacific,New Zealand,55,50-59,Female,Current Smoker,26
+LC-1963,2021,2021-07-12,Africa,Uganda,73,70-79,Male,Never Smoked,0
+LC-1964,2019,2019-12-25,Western Pacific,Mongolia,62,60-69,Male,Former Smoker,25
+LC-1965,2019,2019-02-14,Europe,France,56,50-59,Male,Never Smoked,0
+LC-1966,2021,2021-05-16,South-East Asia,Thailand,56,50-59,Female,Never Smoked,0
+LC-1967,2023,2023-02-10,Europe,Sweden,71,70-79,Male,Current Smoker,29
+LC-1968,2025,2025-09-14,Americas,Argentina,75,70-79,Female,Never Smoked,0
+LC-1969,2026,2026-02-01,Eastern Mediterranean,Pakistan,64,60-69,Male,Current Smoker,14
+LC-1970,2019,2019-10-17,Western Pacific,Japan,67,60-69,Male,Current Smoker,18
+LC-1971,2023,2023-09-01,South-East Asia,Nepal,73,70-79,Female,Never Smoked,0
+LC-1972,2026,2026-06-07,Western Pacific,Vietnam,75,70-79,Male,Never Smoked,0
+LC-1973,2017,2017-07-12,Americas,Canada,69,60-69,Male,Never Smoked,0
+LC-1974,2019,2019-03-14,Western Pacific,Mongolia,53,50-59,Female,Former Smoker,8
+LC-1975,2015,2015-05-09,Europe,Netherlands,66,60-69,Male,Never Smoked,0
+LC-1976,2019,2019-07-19,Western Pacific,Vietnam,49,40-49,Female,Never Smoked,0
+LC-1977,2022,2022-10-09,Americas,Chile,68,60-69,Male,Current Smoker,29
+LC-1978,2022,2022-04-14,Europe,Netherlands,82,80-89,Male,Never Smoked,0
+LC-1979,2025,2025-09-16,Americas,Brazil,42,40-49,Male,Current Smoker,17
+LC-1980,2023,2023-06-18,Western Pacific,Singapore,53,50-59,Male,Former Smoker,13
+LC-1981,2021,2021-08-09,Western Pacific,Philippines,74,70-79,Male,Never Smoked,0
+LC-1982,2020,2020-10-12,Americas,Chile,66,60-69,Male,Current Smoker,18
+LC-1983,2015,2015-12-05,Europe,Germany,69,60-69,Male,Never Smoked,0
+LC-1984,2021,2021-12-08,Western Pacific,New Zealand,65,60-69,Male,Never Smoked,0
+LC-1985,2021,2021-12-06,Western Pacific,Japan,56,50-59,Female,Never Smoked,0
+LC-1986,2015,2015-04-17,Americas,Chile,71,70-79,Female,Never Smoked,0
+LC-1987,2026,2026-07-06,South-East Asia,Timor-Leste,70,70-79,Female,Never Smoked,0
+LC-1988,2025,2025-10-23,Western Pacific,China,56,50-59,Female,Never Smoked,0
+LC-1989,2022,2022-03-13,South-East Asia,India,51,50-59,Male,Former Smoker,15
+LC-1990,2022,2022-02-27,Eastern Mediterranean,Saudi Arabia,51,50-59,Male,Never Smoked,0
+LC-1991,2020,2020-08-20,Europe,Turkey,64,60-69,Male,Never Smoked,0
+LC-1992,2017,2017-02-03,South-East Asia,Myanmar,63,60-69,Male,Never Smoked,0
+LC-1993,2024,2024-04-12,Western Pacific,Japan,51,50-59,Female,Never Smoked,0
+LC-1994,2019,2019-10-02,Western Pacific,Malaysia,67,60-69,Male,Never Smoked,0
+LC-1995,2021,2021-07-20,Americas,Cuba,47,40-49,Female,Never Smoked,0
+LC-1996,2023,2023-05-23,Europe,Sweden,58,50-59,Female,Current Smoker,23
+LC-1997,2020,2020-01-25,Americas,Brazil,55,50-59,Male,Current Smoker,37
+LC-1998,2022,2022-11-16,Europe,Poland,75,70-79,Female,Never Smoked,0
+LC-1999,2025,2025-01-07,Western Pacific,Singapore,38,30-39,Female,Never Smoked,0
+LC-2000,2023,2023-05-07,Americas,USA,49,40-49,Female,Never Smoked,0
